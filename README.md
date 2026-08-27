@@ -1,0 +1,90 @@
+# Нохчийн литература / Chechen Literature Portal
+
+Современный веб-портал для публикации чеченской поэзии (байташ), героических песен (иллеш) и прозы.
+Доступен на 4 языках: чеченский, русский, английский, французский.
+
+## Технологии
+
+- React 18 + Vite
+- React Router (клиентский роутинг)
+- Fuse.js (fuzzy-поиск)
+- CSS Custom Properties (тёмная/светлая тема)
+- Bunny Fonts (Inter + Noto Serif)
+
+## Запуск
+
+```bash
+npm install
+npm run dev
+```
+
+Откройте http://localhost:5173
+
+## Сборка для продакшена
+
+```bash
+npm run build
+npm run preview
+```
+
+## Как добавить новое произведение
+
+1. Откройте файл `src/data/poems.json` (или `songs.json` / `prose.json`)
+2. Добавьте новый объект по образцу существующих:
+
+```json
+{
+  "id": "unique-slug",
+  "type": "poem",
+  "title": { "ce": "Цlе", "ru": "Название", "en": null, "fr": null },
+  "author": "Имя автора",
+  "author_years": "1930–2012",
+  "year_written": null,
+  "tags": ["тег1", "тег2"],
+  "text": { "ce": "Текст стиха...", "ru": null, "en": null, "fr": null },
+  "text_preview": { "ce": "Первые 2 строки..." },
+  "external_links": [],
+  "source": "Источник",
+  "date_added": "2026-08-03"
+}
+```
+
+3. Добавьте краткую запись в `src/data/index.json`:
+
+```json
+{
+  "id": "unique-slug",
+  "type": "poem",
+  "title": { "ce": "Цlе", "ru": "Название", "en": null, "fr": null },
+  "author": "Имя автора",
+  "tags": ["тег1", "тег2"],
+  "text_preview": { "ce": "Первые 2 строки..." }
+}
+```
+
+## Как добавить перевод
+
+1. Найдите произведение в JSON-файле
+2. Заполните `null`-поля нужного языка в полях `title`, `text`, `text_preview`:
+
+```json
+"title": { "ce": "Нана", "ru": "Мать", "en": "Mother", "fr": "Mère" }
+```
+
+## Как добавить новый язык интерфейса
+
+1. Создайте файл `src/locales/xx.json` (скопируйте `en.json` как шаблон)
+2. Переведите все строки
+3. Добавьте код языка в массив `LANGUAGES` в `src/context/LanguageContext.jsx`
+4. Импортируйте файл в `src/hooks/useTranslation.js`
+5. Добавьте флаг в `src/assets/flags/` и обновите `LanguageSwitcher.jsx`
+
+## Деплой на GitHub Pages
+
+1. В `vite.config.js` установите `base: '/repository-name/'`
+2. Запустите `npm run build`
+3. Содержимое папки `dist/` задеплойте на GitHub Pages
+
+## Лицензия
+
+MIT

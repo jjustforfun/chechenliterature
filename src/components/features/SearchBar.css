@@ -1,0 +1,116 @@
+.search-bar {
+  margin-bottom: var(--space-6);
+  width: 100%;
+}
+
+.search-bar__filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-4);
+  margin-top: var(--space-4);
+  align-items: center;
+  justify-content: space-between;
+}
+
+.search-bar__types {
+  display: flex;
+  gap: var(--space-1);
+  background-color: var(--color-bg-elevated);
+  padding: var(--space-1);
+  border-radius: var(--radius-full);
+}
+
+.search-bar__type-btn {
+  padding: var(--space-1) var(--space-3);
+  border-radius: var(--radius-full);
+  font-size: var(--text-sm);
+  background: transparent;
+  border: none;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  font-weight: 500;
+}
+
+.search-bar__type-btn:hover {
+  color: var(--color-text-primary);
+}
+
+.search-bar__type-btn.active {
+  background-color: var(--color-accent);
+  color: white;
+}
+
+.search-bar__tags-panel {
+  margin-top: var(--space-4);
+  padding-top: var(--space-3);
+  border-top: 1px solid var(--color-border);
+}
+
+.search-bar__tags-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-2);
+}
+
+.search-bar__tags-label {
+  font-size: var(--text-sm);
+  font-weight: var(--font-medium);
+  color: var(--color-text-secondary);
+}
+
+.search-bar__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  max-height: 4.25rem;
+  overflow: hidden;
+}
+
+.search-bar__tags--expanded {
+  max-height: none;
+  overflow: visible;
+}
+
+.search-bar__tags-toggle {
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: var(--text-sm);
+  font-weight: var(--font-medium);
+  color: var(--color-accent);
+  cursor: pointer;
+  transition: color var(--transition-fast);
+}
+
+.search-bar__tags-toggle:hover {
+  color: var(--color-accent-hover);
+  text-decoration: underline;
+}
+
+.search-bar__sort {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.search-bar__sort-label {
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+}
+
+.search-bar__sort-select {
+  background-color: var(--color-bg-elevated);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--space-1) var(--space-2);
+  font-size: var(--text-sm);
+  color: var(--color-text-primary);
+  outline: none;
+  cursor: pointer;
+}
+
+.search-bar__sort-select:focus {
+  border-color: var(--color-accent);
+}

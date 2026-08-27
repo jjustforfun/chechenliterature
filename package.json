@@ -1,0 +1,24 @@
+{
+  "name": "noxchiin-literature",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Chechen literary portal — poetry, songs, and prose",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.23.0",
+    "fuse.js": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^4.3.0",
+    "vite": "^5.4.0"
+  }
+}

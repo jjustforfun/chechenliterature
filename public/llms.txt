@@ -1,0 +1,19 @@
+# Нохчийн литература / Chechen Literature Portal
+
+> A digital archive of Chechen poetry (байташ), heroic songs (иллеш), and prose.
+> Available in 4 languages: Chechen, Russian, English, French.
+
+## Best Pages
+
+- /: Home — browse all works with search and filters
+- /poem/nana: "Нана" (Mother) by Shaikhi Arsanukayev — poem about mother's love
+- /poem/noxchiicho: "Нохчийчоь" (Chechnya) by Shaikhi Arsanukayev — poem about homeland
+- /category/poem: All poems
+- /category/song: All songs (иллеш)
+- /category/prose: All prose works
+
+## About
+
+This portal preserves the literary heritage of the Chechen people (Noxçiyn xalq).
+Content is sourced from published Chechen literary works with proper attribution.
+The site is maintained as an open-source project.
