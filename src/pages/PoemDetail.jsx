@@ -114,7 +114,11 @@ export default function PoemDetail() {
       {/* Main text: never silently substitute another language. */}
       <div className="poem-detail__text">
         {activeText.text ? (
-          <div className="poem-detail__text-content">
+          <div
+            className={`poem-detail__text-content${
+              work.type === 'prose' ? ' poem-detail__text-content--prose' : ''
+            }`}
+          >
             {activeText.text.split('\n').map((line, i) => (
               <span key={i}>
                 {line}
@@ -158,7 +162,13 @@ export default function PoemDetail() {
             {t('show_translation')} ({t(getLanguageLabelKey(translationLanguage))})
           </Button>
           {showTranslation && (
-            <div className="poem-detail__translation-text animate-fade-in">
+            <div
+              className={`poem-detail__translation-text animate-fade-in${
+                work.type === 'prose'
+                  ? ' poem-detail__translation-text--prose'
+                  : ''
+              }`}
+            >
               {translationText.text.split('\n').map((line, i) => (
                 <span key={i}>
                   {line}
