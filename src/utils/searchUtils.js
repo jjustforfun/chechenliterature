@@ -1,4 +1,5 @@
 import Fuse from 'fuse.js';
+import { hasContentInLanguage } from './contentLanguage';
 
 /**
  * Fuse.js configuration for searching literary works.
@@ -27,6 +28,15 @@ export const FUSE_OPTIONS = {
  */
 export function createSearchIndex(works) {
   return new Fuse(works, FUSE_OPTIONS);
+}
+
+/**
+ * Filters works by the language of their full text.
+ * `all` is an explicit opt-in for the multilingual catalog view.
+ */
+export function filterByContentLanguage(works, language) {
+  if (!language) return works;
+  return works.filter((work) => hasContentInLanguage(work, language));
 }
 
 /**
