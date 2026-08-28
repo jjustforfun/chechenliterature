@@ -1338,7 +1338,7 @@
       "философия"
     ],
     "text_preview": {
-      "ru": "Ломается лежалый снег / Под кирзовыми сапогами...",
+      "ce": "Ломается лежалый снег / Под кирзовыми сапогами...",
       "en": "The packed snow breaks",
       "fr": "La neige tassée se brise"
     }
@@ -1359,7 +1359,7 @@
       "турпала"
     ],
     "text_preview": {
-      "ru": "Над развороченным Гунибом / Нависла смерти тень…-Имам,",
+      "ce": "Над развороченным Гунибом / Нависла смерти тень…-Имам,",
       "en": "Over ruined Gunib",
       "fr": "Sur le Gunib dévasté"
     }
@@ -1380,7 +1380,7 @@
       "философия"
     ],
     "text_preview": {
-      "ru": "У каждого из нас своя дорога, / Где главное дано: от АЗ - до ЯТЬ,",
+      "ce": "У каждого из нас своя дорога, / Где главное дано: от АЗ - до ЯТЬ,",
       "en": "Each of us has a road of our own,",
       "fr": "Chacun de nous a sa propre route,"
     }
@@ -1458,7 +1458,7 @@
       "философия"
     ],
     "text_preview": {
-      "ru": "Осенней мглы душа моя мрачней. / С кем поделиться думами своими?",
+      "ce": "Осенней мглы душа моя мрачней. / С кем поделиться думами своими?",
       "en": "The darkness of autumn makes my soul still darker.",
       "fr": "Les ténèbres automnales rendent mon âme plus sombre encore."
     }
@@ -1479,7 +1479,7 @@
       "безам"
     ],
     "text_preview": {
-      "ru": "Край вайнахский, милый край, / Мы для нас и дом, и рай.",
+      "ce": "Край вайнахский, милый край, / Мы для нас и дом, и рай.",
       "en": "Vainakh land, my dear land,",
       "fr": "Terre vainakh, ma chère terre,"
     }
@@ -1500,7 +1500,7 @@
       "халкъ"
     ],
     "text_preview": {
-      "ru": "Горный край, Кавказ мой седоглавый, / ты стоишь, как ветеран, седой,",
+      "ce": "Горный край, Кавказ мой седоглавый, / ты стоишь, как ветеран, седой,",
       "en": "Mountain land, my gray-haired Caucasus,",
       "fr": "Terre des montagnes, mon Caucase aux cheveux gris,"
     }
@@ -1521,7 +1521,7 @@
       "хьехам"
     ],
     "text_preview": {
-      "ru": "Что значит къонах, ты спросил, и какова ему цена? / И я сказал тебе в ответ под гул торжественного пира,",
+      "ce": "Что значит къонах, ты спросил, и какова ему цена? / И я сказал тебе в ответ под гул торжественного пира,",
       "en": "What does a konakh mean, you asked, and what is his worth?",
       "fr": "Tu as demandé ce que signifie un konakh, et quelle est sa valeur ?"
     }
@@ -1543,502 +1543,6 @@
     ],
     "text_preview": {
       "en": "I love one above all on earth, / All my life belong to just one,"
-    }
-  },
-  {
-    "id": "akhmadov-sfinks-sedarciin-stigal",
-    "type": "prose",
-    "title": {
-      "ce": "Сфинкс а, седарчийн стигал а, ӀарлагӀаш а",
-      "ru": "Сфинкс, звёздное небо и миражи",
-      "en": "The Sphinx, the Starry Sky and Mirages",
-      "fr": "Le Sphinx, le ciel étoilé et les mirages"
-    },
-    "author": "Муса Ахмадов",
-    "tags": [
-      "эссе",
-      "литература",
-      "яздархой"
-    ],
-    "text_preview": {
-      "ce": "И тӀулгах дина цхьана тамашийначу Ӏаламатан я туьйранерчу экханан сурт суна дуьххьара историн Ӏамат тӀе тоьхна гира."
-    }
-  },
-  {
-    "id": "oibuev-hasha-da-cunan-berkat",
-    "type": "prose",
-    "title": {
-      "ce": "Хьаша-да цуьнан беркат а",
-      "ru": "Гостеприимство и его благодать",
-      "en": "Hospitality and Its Blessing",
-      "fr": "L'hospitalité et sa bénédiction"
-    },
-    "author": "Саид-Хасан Ойбуев",
-    "tags": [
-      "гӀиллакх",
-      "хьошалла",
-      "оьздангалла"
-    ],
-    "text_preview": {
-      "ce": "Дахарехь цхьа а киртиг яц нохчийн Ӏадато, гӀиллакхо чу цалоцуш."
-    }
-  },
-  {
-    "id": "arsanukaev-nenan-mott",
-    "type": "poem",
-    "title": {
-      "ce": "Ненан мотт",
-      "ru": "Родной язык",
-      "en": "Mother Tongue",
-      "fr": "Langue maternelle"
-    },
-    "author": "Шайхи Арсанукаев",
-    "tags": [
-      "мотт",
-      "ненан мотт",
-      "къам"
-    ],
-    "text_preview": {
-      "ce": "Доьзалехь бийцар а дастам а хеташ, / Хьуо винчу ненан мотт дӀатесна ахь."
-    }
-  },
-  {
-    "id": "arsanukaev-veset",
-    "type": "poem",
-    "title": {
-      "ce": "Весет",
-      "ru": "Завещание",
-      "en": "The Testament",
-      "fr": "Le testament"
-    },
-    "author": "Шайхи Арсанукаев",
-    "tags": [
-      "весет",
-      "даймохк",
-      "лаьмнаш"
-    ],
-    "text_preview": {
-      "ce": "Къоьжачу вайн лаьмнийн / Дог кура баххьаш,"
-    }
-  },
-  {
-    "id": "arsanukaev-lakhenan-ghillakh",
-    "type": "poem",
-    "title": {
-      "ce": "Лакхенан гӀиллакх",
-      "ru": "Обычай гор",
-      "en": "The Custom of the Heights",
-      "fr": "La coutume des hauteurs"
-    },
-    "author": "Шайхи Арсанукаев",
-    "tags": [
-      "лаьмнаш",
-      "гӀиллакх",
-      "оьздангалла"
-    ],
-    "text_preview": {
-      "ce": "Лаьмнийн а ду гӀиллакх шайн - / Халачу лакхенан гӀиллакх."
-    }
-  },
-  {
-    "id": "arsanukaev-dogdikchu-latta-teh",
-    "type": "poem",
-    "title": {
-      "ce": "Догдикчу лаьтта тӀехь",
-      "ru": "На доброй земле",
-      "en": "On This Kind Earth",
-      "fr": "Sur cette terre bonne"
-    },
-    "author": "Шайхи Арсанукаев",
-    "tags": [
-      "лаьтта",
-      "дог",
-      "тийналла"
-    ],
-    "text_preview": {
-      "ce": "Тийналла тийна дӀа, / Гуш сема гӀан."
-    }
-  },
-  {
-    "id": "arsanukaev-barkalla-adamash",
-    "type": "poem",
-    "title": {
-      "ce": "Баркалла, адамаш",
-      "ru": "Спасибо, люди",
-      "en": "Thank You, People",
-      "fr": "Merci, les hommes"
-    },
-    "author": "Шайхи Арсанукаев",
-    "tags": [
-      "хьехархо",
-      "баркалла",
-      "дешар"
-    ],
-    "text_preview": {
-      "ce": "Гола шен тоьхна, / Гуьйренан къегина де."
-    }
-  },
-  {
-    "id": "arsanukaev-dikalleh",
-    "type": "poem",
-    "title": {
-      "ce": "Дикаллех",
-      "ru": "О доброте",
-      "en": "About Kindness",
-      "fr": "Sur la bonté"
-    },
-    "author": "Шайхи Арсанукаев",
-    "tags": [
-      "дикалла",
-      "адамаш",
-      "серло"
-    ],
-    "text_preview": {
-      "ce": "Дикалла… И маца кхачийна? Хьенан? / Дуьне а Дикаллех кхоьллина Дала,"
-    }
-  },
-  {
-    "id": "arsanukaev-khiyti-so",
-    "type": "poem",
-    "title": {
-      "ce": "Кхийти со",
-      "ru": "Пойми меня",
-      "en": "Understand Me",
-      "fr": "Comprends-moi"
-    },
-    "author": "Шайхи Арсанукаев",
-    "tags": [
-      "нана",
-      "даймохк",
-      "безам"
-    ],
-    "text_preview": {
-      "ce": "Кхийти со. / Эххар а кхийти со, хӀунда"
-    }
-  },
-  {
-    "id": "arsanukaev-amal",
-    "type": "poem",
-    "title": {
-      "ce": "Амал",
-      "ru": "Характер",
-      "en": "Character",
-      "fr": "Le caractère"
-    },
-    "author": "Шайхи Арсанукаев",
-    "tags": [
-      "амал",
-      "лаьмнаш",
-      "дахар"
-    ],
-    "text_preview": {
-      "ce": "Ма ала кура ву, / айбича корта –"
-    }
-  },
-  {
-    "id": "arsanukaev-mohkbegor",
-    "type": "poem",
-    "title": {
-      "ce": "Мохкбегор",
-      "ru": "Стенание земли",
-      "en": "The Lament of the Land",
-      "fr": "La plainte de la terre"
-    },
-    "author": "Шайхи Арсанукаев",
-    "tags": [
-      "мохк",
-      "латта",
-      "бала"
-    ],
-    "text_preview": {
-      "ce": "ЦӀеххьана кхерийна, / Лаьттан дегӀ дегий."
-    }
-  },
-  {
-    "id": "kasumov-da-khelhash",
-    "type": "poem",
-    "title": {
-      "ce": "Да кхелхаш…",
-      "ru": "Когда отец умирал…",
-      "en": "When Father Was Dying…",
-      "fr": "Quand mon père mourait…"
-    },
-    "author": "Касумов Сайдмохьмад",
-    "tags": [
-      "да",
-      "Ӏожалла",
-      "доьзал"
-    ],
-    "text_preview": {
-      "ce": "Сан цхьайтта шо долуш гина, / Сурт ду сан бӀаьргаш чохь дисна."
-    }
-  },
-  {
-    "id": "kasumov-nanna-sahiyzar",
-    "type": "poem",
-    "title": {
-      "ce": "Нанна сахьийзар",
-      "ru": "Тоска по матери",
-      "en": "Longing for Mother",
-      "fr": "La nostalgie de la mère"
-    },
-    "author": "Касумов Сайдмохьмад",
-    "tags": [
-      "нана",
-      "сахьийзар",
-      "безам"
-    ],
-    "text_preview": {
-      "ce": "Ваьл-ваьллачохь-ненан лараш, / Дуьхьал хӀуьтту цуьнан сарташ."
-    }
-  },
-  {
-    "id": "kasumov-nene-nazma",
-    "type": "poem",
-    "title": {
-      "ce": "Нене",
-      "ru": "Матери",
-      "en": "To Mother",
-      "fr": "À ma mère"
-    },
-    "author": "Касумов Сайдмохьмад",
-    "tags": [
-      "нана",
-      "назма",
-      "безам"
-    ],
-    "text_preview": {
-      "ce": "Ахь кхоьллинарг бен вацарий со-м, / Ахь вакхийнарг бен вацарий со-м,"
-    }
-  },
-  {
-    "id": "dokaev-nek-bu-vayn-dahar",
-    "type": "poem",
-    "title": {
-      "ce": "Некъ бу вайн дахар",
-      "ru": "Жизнь наша — дорога",
-      "en": "Our Life Is a Road",
-      "fr": "Notre vie est une route"
-    },
-    "author": "Ваха Докаев",
-    "tags": [
-      "некъ",
-      "дахар",
-      "бода"
-    ],
-    "text_preview": {
-      "ce": "Бодане некъ бу вайн дахар / Вай-м кхин тӀеъ бодане бан гӀерта и"
-    }
-  },
-  {
-    "id": "dokaev-nana-yu-tahhara-yiclush-erg",
-    "type": "poem",
-    "title": {
-      "ce": "Нана ю тӀаьххьара йицлуш ерг",
-      "ru": "Мать забывается последней",
-      "en": "Mother Is the Last to Be Forgotten",
-      "fr": "La mère est la dernière qu'on oublie"
-    },
-    "author": "Ваха Докаев",
-    "tags": [
-      "нана",
-      "матт",
-      "безам"
-    ],
-    "text_preview": {
-      "ce": "Ойланца, дагаца, маттаца. / ЦӀеххьана аз хезий хийцалой,"
-    }
-  },
-  {
-    "id": "dokaev-loha-kor",
-    "type": "poem",
-    "title": {
-      "ce": "Лоха кор",
-      "ru": "Низкое окно",
-      "en": "The Low Window",
-      "fr": "La fenêtre basse"
-    },
-    "author": "Ваха Докаев",
-    "tags": [
-      "нана",
-      "кор",
-      "сахьийзар"
-    ],
-    "text_preview": {
-      "ce": "Хьо йоцуш дӀадоьду дахар!.. / Ма гена ели хьо, нана!"
-    }
-  },
-  {
-    "id": "kasumov-den-nenan-teshash",
-    "type": "poem",
-    "title": {
-      "ce": "Ден, ненан тешаш",
-      "ru": "Свидетели отца и матери",
-      "en": "The Witnesses of Father and Mother",
-      "fr": "Les témoins du père et de la mère"
-    },
-    "author": "Касумов Сайдмохьмад",
-    "tags": [
-      "нана",
-      "да",
-      "хӀусам"
-    ],
-    "text_preview": {
-      "ce": "Биъ пен бу вовшашка хьоьжуш, / Тийналла йоьллина юккъе,"
-    }
-  },
-  {
-    "id": "kasumov-den-bezam",
-    "type": "poem",
-    "title": {
-      "ce": "Ден безам",
-      "ru": "Любовь отца",
-      "en": "A Father's Love",
-      "fr": "L'amour du père"
-    },
-    "author": "Касумов Сайдмохьмад",
-    "tags": [
-      "да",
-      "даймохк",
-      "безам"
-    ],
-    "text_preview": {
-      "ce": "Дас безам шен Махке белла… / Геннара идош цӀа кхехьна."
-    }
-  },
-  {
-    "id": "kasumov-den-veset",
-    "type": "poem",
-    "title": {
-      "ce": "Ден весет",
-      "ru": "Завет отца",
-      "en": "The Father's Covenant",
-      "fr": "Le pacte du père"
-    },
-    "author": "Касумов Сайдмохьмад",
-    "tags": [
-      "весет",
-      "да",
-      "хьехам"
-    ],
-    "text_preview": {
-      "ce": "НеӀалтан гу тӀе хьо ма валалахь, / Сий доьжнехь, и лоьхуш ма вахалахь."
-    }
-  },
-  {
-    "id": "kasumov-nenan-koch",
-    "type": "poem",
-    "title": {
-      "ce": "Ненан коч",
-      "ru": "Платье матери",
-      "en": "Mother's Dress",
-      "fr": "La robe de ma mère"
-    },
-    "author": "Касумов Сайдмохьмад",
-    "tags": [
-      "нана",
-      "коч",
-      "иэс"
-    ],
-    "text_preview": {
-      "ce": "Пенаца кхозуш ю сан ненан коч, / Шамара* дахначохь ду ши а пхьош."
-    }
-  },
-  {
-    "id": "kasumov-dena-ulle",
-    "type": "poem",
-    "title": {
-      "ce": "Дена улле",
-      "ru": "Рядом с отцом",
-      "en": "Next to Father",
-      "fr": "Auprès de mon père"
-    },
-    "author": "Касумов Сайдмохьмад",
-    "tags": [
-      "да",
-      "нана",
-      "каш"
-    ],
-    "text_preview": {
-      "ce": "Нанна юххехь, / Дена улле"
-    }
-  },
-  {
-    "id": "nemirovskaya-san-g1ala",
-    "type": "poem",
-    "title": {
-      "ce": "Сан гӀала",
-      "ru": "Родной город",
-      "en": "My Home Town",
-      "fr": "Ma ville natale"
-    },
-    "author": "Дина Немировская",
-    "tags": [
-      "даймохк",
-      "гӀала",
-      "гочдар"
-    ],
-    "text_preview": {
-      "ce": "САН ГӀАЛА / Эсала хебаршка бӀаьрг шен",
-      "ru": "РОДНОЙ ГОРОД / Солнце ласково щурится –"
-    }
-  },
-  {
-    "id": "nemirovskaya-1a-lattara",
-    "type": "poem",
-    "title": {
-      "ce": "Ӏа лаьттара",
-      "ru": "Была зима",
-      "en": "It Was Winter",
-      "fr": "C'était l'hiver"
-    },
-    "author": "Дина Немировская",
-    "tags": [
-      "Ӏа",
-      "гочдар",
-      "лирика"
-    ],
-    "text_preview": {
-      "ce": "Ӏа лаьттара. ТӀечӀагӀлуш яра чилла, / ТӀе лайн кӀац юьллуш, даздеш бӀаьргнегӀарш.",
-      "ru": "Была зима. Наяривал январь, / Слепил глаза снежинками-слезами."
-    }
-  },
-  {
-    "id": "illi-kosuman-shihmirzin",
-    "type": "song",
-    "title": {
-      "ce": "Къосуман Шихмирзин илли",
-      "ru": "Илли о Шихмирзе, сыне Косума",
-      "en": "The Illi of Shikhmirza, Son of Kosum",
-      "fr": "L'illi de Chikhmirza, fils de Kosum"
-    },
-    "author": "Касумов Сайдмохьмад",
-    "tags": [
-      "илли",
-      "безам",
-      "говраш"
-    ],
-    "text_preview": {
-      "ce": "Сих ма ло, кӀант, говраш лахка, / ПаргӀат яха йитахь пайтон."
-    }
-  },
-  {
-    "id": "illi-sheriyn-shiralla",
-    "type": "song",
-    "title": {
-      "ce": "Шерийн ширалла",
-      "ru": "Древность лет",
-      "en": "The Age of Years",
-      "fr": "L'ancienneté des années"
-    },
-    "author": "Касумов Сайдмохьмад",
-    "tags": [
-      "илли",
-      "бералла",
-      "шераш"
-    ],
-    "text_preview": {
-      "ce": "Едда мацах кетӀара / Гена яьлла бералла,"
     }
   }
 ]
