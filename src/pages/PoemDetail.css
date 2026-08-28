@@ -107,6 +107,19 @@
   line-height: var(--leading-poem);
   color: var(--color-text-primary);
   white-space: normal;
+  text-align: left;
+  width: fit-content;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.poem-detail__text-content--prose,
+.poem-detail__translation-text--prose {
+  text-align: justify;
+  max-width: 65ch;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .poem-detail__translation {
@@ -121,6 +134,11 @@
   font-size: var(--text-lg);
   line-height: var(--leading-poem);
   color: var(--color-text-secondary);
+  text-align: left;
+  width: fit-content;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .poem-detail__links {
