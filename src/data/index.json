@@ -1582,5 +1582,290 @@
     "text_preview": {
       "ce": "Дахарехь цхьа а киртиг яц нохчийн Ӏадато, гӀиллакхо чу цалоцуш."
     }
+  },
+  {
+    "id": "arsanukaev-nenan-mott",
+    "type": "poem",
+    "title": {
+      "ce": "Ненан мотт",
+      "ru": "Родной язык",
+      "en": "Mother Tongue",
+      "fr": "Langue maternelle"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "мотт",
+      "ненан мотт",
+      "къам"
+    ],
+    "text_preview": {
+      "ce": "Доьзалехь бийцар а дастам а хеташ, / Хьуо винчу ненан мотт дӀатесна ахь."
+    }
+  },
+  {
+    "id": "arsanukaev-veset",
+    "type": "poem",
+    "title": {
+      "ce": "Весет",
+      "ru": "Завещание",
+      "en": "The Testament",
+      "fr": "Le testament"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "весет",
+      "даймохк",
+      "лаьмнаш"
+    ],
+    "text_preview": {
+      "ce": "Къоьжачу вайн лаьмнийн / Дог кура баххьаш,"
+    }
+  },
+  {
+    "id": "arsanukaev-lakhenan-ghillakh",
+    "type": "poem",
+    "title": {
+      "ce": "Лакхенан гӀиллакх",
+      "ru": "Обычай гор",
+      "en": "The Custom of the Heights",
+      "fr": "La coutume des hauteurs"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "лаьмнаш",
+      "гӀиллакх",
+      "оьздангалла"
+    ],
+    "text_preview": {
+      "ce": "Лаьмнийн а ду гӀиллакх шайн - / Халачу лакхенан гӀиллакх."
+    }
+  },
+  {
+    "id": "arsanukaev-dogdikchu-latta-teh",
+    "type": "poem",
+    "title": {
+      "ce": "Догдикчу лаьтта тӀехь",
+      "ru": "На доброй земле",
+      "en": "On This Kind Earth",
+      "fr": "Sur cette terre bonne"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "лаьтта",
+      "дог",
+      "тийналла"
+    ],
+    "text_preview": {
+      "ce": "Тийналла тийна дӀа, / Гуш сема гӀан."
+    }
+  },
+  {
+    "id": "arsanukaev-barkalla-adamash",
+    "type": "poem",
+    "title": {
+      "ce": "Баркалла, адамаш",
+      "ru": "Спасибо, люди",
+      "en": "Thank You, People",
+      "fr": "Merci, les hommes"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "хьехархо",
+      "баркалла",
+      "дешар"
+    ],
+    "text_preview": {
+      "ce": "Гола шен тоьхна, / Гуьйренан къегина де."
+    }
+  },
+  {
+    "id": "arsanukaev-dikalleh",
+    "type": "poem",
+    "title": {
+      "ce": "Дикаллех",
+      "ru": "О доброте",
+      "en": "About Kindness",
+      "fr": "Sur la bonté"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "дикалла",
+      "адамаш",
+      "серло"
+    ],
+    "text_preview": {
+      "ce": "Дикалла… И маца кхачийна? Хьенан? / Дуьне а Дикаллех кхоьллина Дала,"
+    }
+  },
+  {
+    "id": "arsanukaev-khiyti-so",
+    "type": "poem",
+    "title": {
+      "ce": "Кхийти со",
+      "ru": "Пойми меня",
+      "en": "Understand Me",
+      "fr": "Comprends-moi"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "нана",
+      "даймохк",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Кхийти со. / Эххар а кхийти со, хӀунда"
+    }
+  },
+  {
+    "id": "arsanukaev-amal",
+    "type": "poem",
+    "title": {
+      "ce": "Амал",
+      "ru": "Характер",
+      "en": "Character",
+      "fr": "Le caractère"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "амал",
+      "лаьмнаш",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Ма ала кура ву, / айбича корта –"
+    }
+  },
+  {
+    "id": "arsanukaev-mohkbegor",
+    "type": "poem",
+    "title": {
+      "ce": "Мохкбегор",
+      "ru": "Стенание земли",
+      "en": "The Lament of the Land",
+      "fr": "La plainte de la terre"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "мохк",
+      "латта",
+      "бала"
+    ],
+    "text_preview": {
+      "ce": "ЦӀеххьана кхерийна, / Лаьттан дегӀ дегий."
+    }
+  },
+  {
+    "id": "kasumov-da-khelhash",
+    "type": "poem",
+    "title": {
+      "ce": "Да кхелхаш…",
+      "ru": "Когда отец умирал…",
+      "en": "When Father Was Dying…",
+      "fr": "Quand mon père mourait…"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "да",
+      "Ӏожалла",
+      "доьзал"
+    ],
+    "text_preview": {
+      "ce": "Сан цхьайтта шо долуш гина, / Сурт ду сан бӀаьргаш чохь дисна."
+    }
+  },
+  {
+    "id": "kasumov-nanna-sahiyzar",
+    "type": "poem",
+    "title": {
+      "ce": "Нанна сахьийзар",
+      "ru": "Тоска по матери",
+      "en": "Longing for Mother",
+      "fr": "La nostalgie de la mère"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "нана",
+      "сахьийзар",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Ваьл-ваьллачохь-ненан лараш, / Дуьхьал хӀуьтту цуьнан сарташ."
+    }
+  },
+  {
+    "id": "kasumov-nene-nazma",
+    "type": "poem",
+    "title": {
+      "ce": "Нене",
+      "ru": "Матери",
+      "en": "To Mother",
+      "fr": "À ma mère"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "нана",
+      "назма",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Ахь кхоьллинарг бен вацарий со-м, / Ахь вакхийнарг бен вацарий со-м,"
+    }
+  },
+  {
+    "id": "dokaev-nek-bu-vayn-dahar",
+    "type": "poem",
+    "title": {
+      "ce": "Некъ бу вайн дахар",
+      "ru": "Жизнь наша — дорога",
+      "en": "Our Life Is a Road",
+      "fr": "Notre vie est une route"
+    },
+    "author": "Ваха Докаев",
+    "tags": [
+      "некъ",
+      "дахар",
+      "бода"
+    ],
+    "text_preview": {
+      "ce": "Бодане некъ бу вайн дахар / Вай-м кхин тӀеъ бодане бан гӀерта и"
+    }
+  },
+  {
+    "id": "dokaev-nana-yu-tahhara-yiclush-erg",
+    "type": "poem",
+    "title": {
+      "ce": "Нана ю тӀаьххьара йицлуш ерг",
+      "ru": "Мать забывается последней",
+      "en": "Mother Is the Last to Be Forgotten",
+      "fr": "La mère est la dernière qu'on oublie"
+    },
+    "author": "Ваха Докаев",
+    "tags": [
+      "нана",
+      "матт",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Ойланца, дагаца, маттаца. / ЦӀеххьана аз хезий хийцалой,"
+    }
+  },
+  {
+    "id": "dokaev-loha-kor",
+    "type": "poem",
+    "title": {
+      "ce": "Лоха кор",
+      "ru": "Низкое окно",
+      "en": "The Low Window",
+      "fr": "La fenêtre basse"
+    },
+    "author": "Ваха Докаев",
+    "tags": [
+      "нана",
+      "кор",
+      "сахьийзар"
+    ],
+    "text_preview": {
+      "ce": "Хьо йоцуш дӀадоьду дахар!.. / Ма гена ели хьо, нана!"
+    }
   }
 ]
