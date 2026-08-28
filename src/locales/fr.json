@@ -39,5 +39,13 @@
   "menu_open": "Ouvrir le menu",
   "menu_close": "Fermer le menu",
   "loading": "Chargement...",
-  "date_added_label": "Date d'ajout"
+  "date_added_label": "Date d'ajout",
+  "content_language_label": "Langue des textes",
+  "content_language_all": "Toutes les langues",
+  "available_languages_label": "Langues disponibles pour ce texte",
+  "text_unavailable": "Ce texte n’est pas disponible en {language}.",
+  "language_ce": "Tchétchène",
+  "language_ru": "Russe",
+  "language_en": "Anglais",
+  "language_fr": "Français"
 }

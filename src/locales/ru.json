@@ -39,5 +39,13 @@
   "menu_open": "Открыть меню",
   "menu_close": "Закрыть меню",
   "loading": "Загрузка...",
-  "date_added_label": "Добавлено"
+  "date_added_label": "Добавлено",
+  "content_language_label": "Язык текста",
+  "content_language_all": "Все языки",
+  "available_languages_label": "Доступные языки текста",
+  "text_unavailable": "Этот текст недоступен на языке: {language}.",
+  "language_ce": "Чеченский",
+  "language_ru": "Русский",
+  "language_en": "Английский",
+  "language_fr": "Французский"
 }

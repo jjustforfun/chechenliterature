@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
+import { useLanguage } from '@/context/LanguageContext';
 import { useTranslation } from '@/hooks/useTranslation';
 import Input from '../ui/Input';
 import Tag from '../ui/Tag';
@@ -11,11 +12,26 @@ const SearchIcon = () => (
   </svg>
 );
 
-const SearchBar = ({ query, setQuery, filters, setFilters, sortBy, setSortBy, allTags = [] }) => {
+const CONTENT_LANGUAGES = ['ce', 'ru', 'en', 'fr'];
+
+const SearchBar = ({
+  query,
+  setQuery,
+  filters,
+  setFilters,
+  sortBy,
+  setSortBy,
+  allTags = [],
+  hideTypeFilter = false,
+  contentLanguage,
+  setContentLanguage,
+}) => {
+  const { language } = useLanguage();
   const { t } = useTranslation();
   const [showAllTags, setShowAllTags] = useState(false);
   const tagsRef = useRef(null);
   const [tagsOverflow, setTagsOverflow] = useState(false);
+  const selectedContentLanguage = contentLanguage || language;
 
   useEffect(() => {
     const el = tagsRef.current;
@@ -41,31 +57,51 @@ const SearchBar = ({ query, setQuery, filters, setFilters, sortBy, setSortBy, al
 
   return (
     <div className="search-bar">
-      <Input 
-        icon={<SearchIcon />} 
-        placeholder={t('search_placeholder')} 
-        value={query} 
-        onChange={e => setQuery(e.target.value)} 
+      <Input
+        icon={<SearchIcon />}
+        placeholder={t('search_placeholder')}
+        value={query}
+        onChange={e => setQuery(e.target.value)}
       />
-      
+
       <div className="search-bar__filters">
-        <div className="search-bar__types">
-          {types.map(type => (
-            <button 
-              key={type} 
-              className={`search-bar__type-btn ${filters.type === type ? 'active' : ''}`}
-              onClick={() => handleTypeChange(type)}
-            >
-              {t(type === 'all' ? 'filter_all' : type === 'prose' ? 'filter_prose' : `filter_${type}s`)}
-            </button>
-          ))}
+        {!hideTypeFilter && (
+          <div className="search-bar__types">
+            {types.map(type => (
+              <button
+                key={type}
+                className={`search-bar__type-btn ${filters.type === type ? 'active' : ''}`}
+                onClick={() => handleTypeChange(type)}
+              >
+                {t(type === 'all' ? 'filter_all' : type === 'prose' ? 'filter_prose' : `filter_${type}s`)}
+              </button>
+            ))}
+          </div>
+        )}
+
+        <div className="search-bar__content-language">
+          <label className="search-bar__content-language-label" htmlFor="content-language">
+            {t('content_language_label')}
+          </label>
+          <select
+            id="content-language"
+            className="search-bar__content-language-select"
+            value={selectedContentLanguage}
+            onChange={e => setContentLanguage?.(e.target.value)}
+          >
+            {CONTENT_LANGUAGES.map((lang) => (
+              <option key={lang} value={lang}>{t(`language_${lang}`)}</option>
+            ))}
+            <option value="all">{t('content_language_all')}</option>
+          </select>
         </div>
-        
+
         <div className="search-bar__sort">
-          <label className="search-bar__sort-label">{t('sort_label')}</label>
-          <select 
+          <label className="search-bar__sort-label" htmlFor="sort-by">{t('sort_label')}</label>
+          <select
+            id="sort-by"
             className="search-bar__sort-select"
-            value={sortBy} 
+            value={sortBy}
             onChange={e => setSortBy(e.target.value)}
           >
             <option value="date">{t('sort_by_date')}</option>
@@ -94,11 +130,11 @@ const SearchBar = ({ query, setQuery, filters, setFilters, sortBy, setSortBy, al
             className={`search-bar__tags ${showAllTags ? 'search-bar__tags--expanded' : ''}`}
           >
             {allTags.map(tag => (
-              <Tag 
-                key={tag} 
-                label={tag} 
-                active={filters.tags?.includes(tag)} 
-                onClick={() => handleTagToggle(tag)} 
+              <Tag
+                key={tag}
+                label={tag}
+                active={filters.tags?.includes(tag)}
+                onClick={() => handleTagToggle(tag)}
               />
             ))}
           </div>

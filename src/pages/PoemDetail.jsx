@@ -1,32 +1,61 @@
-import { useMemo, useState } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useEffect, useMemo, useState } from 'react';
+import { useParams, Link, useSearchParams } from 'react-router-dom';
 import { useLanguage } from '@/context/LanguageContext';
 import { useTranslation } from '@/hooks/useTranslation';
-import { getTranslatedField } from '@/utils/getTranslatedField';
+import { getFieldInLanguage, getTranslatedField } from '@/utils/getTranslatedField';
+import {
+  CONTENT_LANGUAGES,
+  getAvailableContentLanguages,
+  getLanguageLabelKey,
+  hasContentInLanguage,
+} from '@/utils/contentLanguage';
 import { findSimilarWorks } from '@/utils/searchUtils';
 import SimilarWorks from '@/components/features/SimilarWorks';
 import Tag from '@/components/ui/Tag';
 import Button from '@/components/ui/Button';
-import poemsData from '@/data/poems.json';
-import songsData from '@/data/songs.json';
-import proseData from '@/data/prose.json';
-import indexData from '@/data/index.json';
+import { catalogWorks, fullWorks } from '@/data/catalog';
 import './PoemDetail.css';
-
-// Combine all works for lookup
-const allFullWorks = [...poemsData, ...songsData, ...proseData];
 
 export default function PoemDetail() {
   const { id } = useParams();
+  const [searchParams] = useSearchParams();
   const { language } = useLanguage();
   const { t } = useTranslation();
+  const requestedContentLanguage = searchParams.get('lang');
+  const initialContentLanguage = CONTENT_LANGUAGES.includes(requestedContentLanguage)
+    ? requestedContentLanguage
+    : language;
+  const [contentLanguage, setContentLanguage] = useState(initialContentLanguage);
   const [showTranslation, setShowTranslation] = useState(false);
 
-  const work = useMemo(() => allFullWorks.find((w) => w.id === id), [id]);
-  const similarWorks = useMemo(
-    () => (work ? findSimilarWorks(work, indexData) : []),
+  const work = useMemo(() => fullWorks.find((w) => w.id === id), [id]);
+  const availableLanguages = useMemo(
+    () => getAvailableContentLanguages(work),
     [work]
   );
+  const activeText = getFieldInLanguage(work, 'text', contentLanguage);
+  const titleLanguage = activeText.text
+    ? contentLanguage
+    : availableLanguages[0] || contentLanguage;
+  const title = getFieldInLanguage(work, 'title', titleLanguage);
+  const displayTitle = title.text ? title : getTranslatedField(work, 'title', titleLanguage);
+  const translationLanguage = availableLanguages.find((lang) => lang !== contentLanguage);
+  const translationText = translationLanguage
+    ? getFieldInLanguage(work, 'text', translationLanguage)
+    : { text: '', isFallback: false, language: null };
+
+  const similarWorks = useMemo(() => {
+    if (!work) return [];
+    const languageWorks = catalogWorks.filter((catalogWork) =>
+      hasContentInLanguage(catalogWork, language)
+    );
+    return findSimilarWorks(work, languageWorks);
+  }, [work, language]);
+
+  useEffect(() => {
+    setContentLanguage(initialContentLanguage);
+    setShowTranslation(false);
+  }, [id, language, requestedContentLanguage]);
 
   if (!work) {
     return (
@@ -37,20 +66,15 @@ export default function PoemDetail() {
     );
   }
 
-  const title = getTranslatedField(work, 'title', language);
-  const text = getTranslatedField(work, 'text', language);
-
-  // For "show translation" — show text in a different language
-  // If viewing in CE, show RU translation. Otherwise show CE original.
-  const translationLang = language === 'ce' ? 'ru' : 'ce';
-  const translationText = getTranslatedField(work, 'text', translationLang);
+  const languageLabel = t(getLanguageLabelKey(contentLanguage));
+  const textUnavailableMessage = t('text_unavailable').replace('{language}', languageLabel);
 
   return (
     <article className="poem-detail">
       {/* Canonical answer block for AI crawlers */}
       <div className="poem-detail__meta-block">
         <p>
-          «{title.text}» — {work.type === 'poem' ? t('filter_poems').toLowerCase() : work.type === 'song' ? t('filter_songs').toLowerCase() : t('filter_prose').toLowerCase()}{' '}
+          «{displayTitle.text}» — {work.type === 'poem' ? t('filter_poems').toLowerCase() : work.type === 'song' ? t('filter_songs').toLowerCase() : t('filter_prose').toLowerCase()}{' '}
           {t('author_label').toLowerCase()}: {work.author}
           {work.author_years && ` (${work.author_years})`}.
           {work.year_written && ` ${t('year_label')}: ${work.year_written}.`}
@@ -61,12 +85,10 @@ export default function PoemDetail() {
         <span className="poem-detail__type">
           {work.type === 'poem' ? t('filter_poems') : work.type === 'song' ? t('filter_songs') : t('filter_prose')}
         </span>
-        <h1 className="poem-detail__title">{title.text}</h1>
-        {title.isFallback && (
-          <span className="poem-detail__fallback-notice">
-            {t('translation_unavailable')}
-          </span>
-        )}
+        <h1 className="poem-detail__title">{displayTitle.text}</h1>
+        <span className="poem-detail__content-language">
+          {t('content_language_label')}: {t(getLanguageLabelKey(titleLanguage))}
+        </span>
         <div className="poem-detail__author-info">
           <span className="poem-detail__author">{work.author}</span>
           {work.author_years && (
@@ -89,32 +111,51 @@ export default function PoemDetail() {
         </div>
       )}
 
-      {/* Main text */}
+      {/* Main text: never silently substitute another language. */}
       <div className="poem-detail__text">
-        {text.isFallback && (
-          <p className="poem-detail__fallback-notice">
-            {t('translation_unavailable')}
-          </p>
+        {activeText.text ? (
+          <div className="poem-detail__text-content">
+            {activeText.text.split('\n').map((line, i) => (
+              <span key={i}>
+                {line}
+                <br />
+              </span>
+            ))}
+          </div>
+        ) : (
+          <div className="poem-detail__unavailable">
+            <p className="poem-detail__fallback-notice">{textUnavailableMessage}</p>
+            {availableLanguages.length > 0 && (
+              <div className="poem-detail__available-languages">
+                <span>{t('available_languages_label')}:</span>
+                {availableLanguages.map((availableLanguage) => (
+                  <Button
+                    key={availableLanguage}
+                    variant="secondary"
+                    size="sm"
+                    onClick={() => {
+                      setContentLanguage(availableLanguage);
+                      setShowTranslation(false);
+                    }}
+                  >
+                    {t(getLanguageLabelKey(availableLanguage))}
+                  </Button>
+                ))}
+              </div>
+            )}
+          </div>
         )}
-        <div className="poem-detail__text-content">
-          {text.text.split('\n').map((line, i) => (
-            <span key={i}>
-              {line}
-              <br />
-            </span>
-          ))}
-        </div>
       </div>
 
       {/* Translation toggle */}
-      {translationText.text && (
+      {activeText.text && translationText.text && (
         <div className="poem-detail__translation">
           <Button
             variant="secondary"
             onClick={() => setShowTranslation(!showTranslation)}
           >
             {showTranslation ? '▲ ' : '▼ '}
-            {t('show_translation')} ({translationLang.toUpperCase()})
+            {t('show_translation')} ({t(getLanguageLabelKey(translationLanguage))})
           </Button>
           {showTranslation && (
             <div className="poem-detail__translation-text animate-fade-in">
@@ -153,7 +194,7 @@ export default function PoemDetail() {
       )}
 
       {/* Similar works */}
-      <SimilarWorks works={similarWorks} />
+      <SimilarWorks works={similarWorks} contentLanguage={language} />
     </article>
   );
 }

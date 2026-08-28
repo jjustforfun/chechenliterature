@@ -26,12 +26,30 @@
   margin-bottom: var(--space-2);
 }
 
+.poem-card__title-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--space-3);
+}
+
 .poem-card__title {
   font-size: var(--text-xl);
   font-weight: 700;
   margin-bottom: var(--space-1);
   font-family: var(--font-serif);
   line-height: var(--leading-tight);
+}
+
+.poem-card__language {
+  flex: 0 0 auto;
+  padding: 0.15rem var(--space-2);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-full);
+  color: var(--color-text-secondary);
+  font-size: var(--text-xs);
+  line-height: 1.4;
+  white-space: nowrap;
 }
 
 .poem-card__author {

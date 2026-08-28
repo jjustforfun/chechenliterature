@@ -39,5 +39,13 @@
   "menu_open": "Open Menu",
   "menu_close": "Close Menu",
   "loading": "Loading...",
-  "date_added_label": "Date Added"
+  "date_added_label": "Date Added",
+  "content_language_label": "Text language",
+  "content_language_all": "All languages",
+  "available_languages_label": "Available text languages",
+  "text_unavailable": "This text is not available in {language}.",
+  "language_ce": "Chechen",
+  "language_ru": "Russian",
+  "language_en": "English",
+  "language_fr": "French"
 }
