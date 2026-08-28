@@ -39,5 +39,13 @@
   "menu_open": "Меню гайта",
   "menu_close": "Меню дIакъовла",
   "loading": "ТIекхуьу...",
-  "date_added_label": "ТIекхачийна"
+  "date_added_label": "ТIекхачийна",
+  "content_language_label": "Текстан мотт",
+  "content_language_all": "Массо мотташ",
+  "available_languages_label": "Караде мотташ",
+  "text_unavailable": "Кху текстехь {language} моттехь вариант яц.",
+  "language_ce": "Нохчийн (CE)",
+  "language_ru": "Оьрсийн (RU)",
+  "language_en": "Ингалсийн (EN)",
+  "language_fr": "Французийн (FR)"
 }

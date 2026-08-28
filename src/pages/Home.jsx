@@ -4,13 +4,24 @@ import { useSearch } from '@/hooks/useSearch';
 import { getAllTags } from '@/utils/searchUtils';
 import SearchBar from '@/components/features/SearchBar';
 import PoemCard from '@/components/features/PoemCard';
-import indexData from '@/data/index.json';
+import { catalogWorks } from '@/data/catalog';
 import './Home.css';
 
 export default function Home() {
   const { t } = useTranslation();
-  const { query, setQuery, filters, setFilters, sortBy, setSortBy, results } = useSearch(indexData);
-  const allTags = useMemo(() => getAllTags(indexData), []);
+  const {
+    query,
+    setQuery,
+    filters,
+    setFilters,
+    sortBy,
+    setSortBy,
+    results,
+    contentWorks,
+    contentLanguage,
+    setContentLanguage,
+  } = useSearch(catalogWorks);
+  const allTags = useMemo(() => getAllTags(contentWorks), [contentWorks]);
 
   return (
     <div className="home">
@@ -30,6 +41,8 @@ export default function Home() {
           sortBy={sortBy}
           setSortBy={setSortBy}
           allTags={allTags}
+          contentLanguage={contentLanguage}
+          setContentLanguage={setContentLanguage}
         />
       </section>
 
@@ -38,7 +51,11 @@ export default function Home() {
         {results.length > 0 ? (
           <div className="home__grid">
             {results.map((work) => (
-              <PoemCard key={work.id} work={work} />
+              <PoemCard
+                key={work.id}
+                work={work}
+                contentLanguage={contentLanguage}
+              />
             ))}
           </div>
         ) : (
