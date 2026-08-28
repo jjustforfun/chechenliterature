@@ -1338,7 +1338,7 @@
       "философия"
     ],
     "text_preview": {
-      "ru": "Ломается лежалый снег / Под кирзовыми сапогами...",
+      "ce": "Ломается лежалый снег / Под кирзовыми сапогами...",
       "en": "The packed snow breaks",
       "fr": "La neige tassée se brise"
     }
@@ -1359,7 +1359,7 @@
       "турпала"
     ],
     "text_preview": {
-      "ru": "Над развороченным Гунибом / Нависла смерти тень…-Имам,",
+      "ce": "Над развороченным Гунибом / Нависла смерти тень…-Имам,",
       "en": "Over ruined Gunib",
       "fr": "Sur le Gunib dévasté"
     }
@@ -1380,7 +1380,7 @@
       "философия"
     ],
     "text_preview": {
-      "ru": "У каждого из нас своя дорога, / Где главное дано: от АЗ - до ЯТЬ,",
+      "ce": "У каждого из нас своя дорога, / Где главное дано: от АЗ - до ЯТЬ,",
       "en": "Each of us has a road of our own,",
       "fr": "Chacun de nous a sa propre route,"
     }
@@ -1458,7 +1458,7 @@
       "философия"
     ],
     "text_preview": {
-      "ru": "Осенней мглы душа моя мрачней. / С кем поделиться думами своими?",
+      "ce": "Осенней мглы душа моя мрачней. / С кем поделиться думами своими?",
       "en": "The darkness of autumn makes my soul still darker.",
       "fr": "Les ténèbres automnales rendent mon âme plus sombre encore."
     }
@@ -1479,7 +1479,7 @@
       "безам"
     ],
     "text_preview": {
-      "ru": "Край вайнахский, милый край, / Мы для нас и дом, и рай.",
+      "ce": "Край вайнахский, милый край, / Мы для нас и дом, и рай.",
       "en": "Vainakh land, my dear land,",
       "fr": "Terre vainakh, ma chère terre,"
     }
@@ -1500,7 +1500,7 @@
       "халкъ"
     ],
     "text_preview": {
-      "ru": "Горный край, Кавказ мой седоглавый, / ты стоишь, как ветеран, седой,",
+      "ce": "Горный край, Кавказ мой седоглавый, / ты стоишь, как ветеран, седой,",
       "en": "Mountain land, my gray-haired Caucasus,",
       "fr": "Terre des montagnes, mon Caucase aux cheveux gris,"
     }
@@ -1521,7 +1521,7 @@
       "хьехам"
     ],
     "text_preview": {
-      "ru": "Что значит къонах, ты спросил, и какова ему цена? / И я сказал тебе в ответ под гул торжественного пира,",
+      "ce": "Что значит къонах, ты спросил, и какова ему цена? / И я сказал тебе в ответ под гул торжественного пира,",
       "en": "What does a konakh mean, you asked, and what is his worth?",
       "fr": "Tu as demandé ce que signifie un konakh, et quelle est sa valeur ?"
     }
@@ -1543,44 +1543,6 @@
     ],
     "text_preview": {
       "en": "I love one above all on earth, / All my life belong to just one,"
-    }
-  },
-  {
-    "id": "akhmadov-sfinks-sedarciin-stigal",
-    "type": "prose",
-    "title": {
-      "ce": "Сфинкс а, седарчийн стигал а, ӀарлагӀаш а",
-      "ru": "Сфинкс, звёздное небо и миражи",
-      "en": "The Sphinx, the Starry Sky and Mirages",
-      "fr": "Le Sphinx, le ciel étoilé et les mirages"
-    },
-    "author": "Муса Ахмадов",
-    "tags": [
-      "эссе",
-      "литература",
-      "яздархой"
-    ],
-    "text_preview": {
-      "ce": "И тӀулгах дина цхьана тамашийначу Ӏаламатан я туьйранерчу экханан сурт суна дуьххьара историн Ӏамат тӀе тоьхна гира."
-    }
-  },
-  {
-    "id": "oibuev-hasha-da-cunan-berkat",
-    "type": "prose",
-    "title": {
-      "ce": "Хьаша-да цуьнан беркат а",
-      "ru": "Гостеприимство и его благодать",
-      "en": "Hospitality and Its Blessing",
-      "fr": "L'hospitalité et sa bénédiction"
-    },
-    "author": "Саид-Хасан Ойбуев",
-    "tags": [
-      "гӀиллакх",
-      "хьошалла",
-      "оьздангалла"
-    ],
-    "text_preview": {
-      "ce": "Дахарехь цхьа а киртиг яц нохчийн Ӏадато, гӀиллакхо чу цалоцуш."
     }
   }
 ]
