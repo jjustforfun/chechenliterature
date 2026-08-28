@@ -1867,5 +1867,178 @@
     "text_preview": {
       "ce": "Хьо йоцуш дӀадоьду дахар!.. / Ма гена ели хьо, нана!"
     }
+  },
+  {
+    "id": "kasumov-den-nenan-teshash",
+    "type": "poem",
+    "title": {
+      "ce": "Ден, ненан тешаш",
+      "ru": "Свидетели отца и матери",
+      "en": "The Witnesses of Father and Mother",
+      "fr": "Les témoins du père et de la mère"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "нана",
+      "да",
+      "хӀусам"
+    ],
+    "text_preview": {
+      "ce": "Биъ пен бу вовшашка хьоьжуш, / Тийналла йоьллина юккъе,"
+    }
+  },
+  {
+    "id": "kasumov-den-bezam",
+    "type": "poem",
+    "title": {
+      "ce": "Ден безам",
+      "ru": "Любовь отца",
+      "en": "A Father's Love",
+      "fr": "L'amour du père"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "да",
+      "даймохк",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Дас безам шен Махке белла… / Геннара идош цӀа кхехьна."
+    }
+  },
+  {
+    "id": "kasumov-den-veset",
+    "type": "poem",
+    "title": {
+      "ce": "Ден весет",
+      "ru": "Завет отца",
+      "en": "The Father's Covenant",
+      "fr": "Le pacte du père"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "весет",
+      "да",
+      "хьехам"
+    ],
+    "text_preview": {
+      "ce": "НеӀалтан гу тӀе хьо ма валалахь, / Сий доьжнехь, и лоьхуш ма вахалахь."
+    }
+  },
+  {
+    "id": "kasumov-nenan-koch",
+    "type": "poem",
+    "title": {
+      "ce": "Ненан коч",
+      "ru": "Платье матери",
+      "en": "Mother's Dress",
+      "fr": "La robe de ma mère"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "нана",
+      "коч",
+      "иэс"
+    ],
+    "text_preview": {
+      "ce": "Пенаца кхозуш ю сан ненан коч, / Шамара* дахначохь ду ши а пхьош."
+    }
+  },
+  {
+    "id": "kasumov-dena-ulle",
+    "type": "poem",
+    "title": {
+      "ce": "Дена улле",
+      "ru": "Рядом с отцом",
+      "en": "Next to Father",
+      "fr": "Auprès de mon père"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "да",
+      "нана",
+      "каш"
+    ],
+    "text_preview": {
+      "ce": "Нанна юххехь, / Дена улле"
+    }
+  },
+  {
+    "id": "nemirovskaya-san-g1ala",
+    "type": "poem",
+    "title": {
+      "ce": "Сан гӀала",
+      "ru": "Родной город",
+      "en": "My Home Town",
+      "fr": "Ma ville natale"
+    },
+    "author": "Дина Немировская",
+    "tags": [
+      "даймохк",
+      "гӀала",
+      "гочдар"
+    ],
+    "text_preview": {
+      "ce": "САН ГӀАЛА / Эсала хебаршка бӀаьрг шен",
+      "ru": "РОДНОЙ ГОРОД / Солнце ласково щурится –"
+    }
+  },
+  {
+    "id": "nemirovskaya-1a-lattara",
+    "type": "poem",
+    "title": {
+      "ce": "Ӏа лаьттара",
+      "ru": "Была зима",
+      "en": "It Was Winter",
+      "fr": "C'était l'hiver"
+    },
+    "author": "Дина Немировская",
+    "tags": [
+      "Ӏа",
+      "гочдар",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Ӏа лаьттара. ТӀечӀагӀлуш яра чилла, / ТӀе лайн кӀац юьллуш, даздеш бӀаьргнегӀарш.",
+      "ru": "Была зима. Наяривал январь, / Слепил глаза снежинками-слезами."
+    }
+  },
+  {
+    "id": "illi-kosuman-shihmirzin",
+    "type": "song",
+    "title": {
+      "ce": "Къосуман Шихмирзин илли",
+      "ru": "Илли о Шихмирзе, сыне Косума",
+      "en": "The Illi of Shikhmirza, Son of Kosum",
+      "fr": "L'illi de Chikhmirza, fils de Kosum"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "илли",
+      "безам",
+      "говраш"
+    ],
+    "text_preview": {
+      "ce": "Сих ма ло, кӀант, говраш лахка, / ПаргӀат яха йитахь пайтон."
+    }
+  },
+  {
+    "id": "illi-sheriyn-shiralla",
+    "type": "song",
+    "title": {
+      "ce": "Шерийн ширалла",
+      "ru": "Древность лет",
+      "en": "The Age of Years",
+      "fr": "L'ancienneté des années"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "илли",
+      "бералла",
+      "шераш"
+    ],
+    "text_preview": {
+      "ce": "Едда мацах кетӀара / Гена яьлла бералла,"
+    }
   }
 ]
