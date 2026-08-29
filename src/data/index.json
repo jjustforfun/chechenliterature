@@ -541,7 +541,9 @@
     ],
     "text_preview": {
       "ce": "САН ГӀАЛА / Эсала хебаршка бӀаьрг шен",
-      "ru": "РОДНОЙ ГОРОД / Солнце ласково щурится –"
+      "ru": "РОДНОЙ ГОРОД / Солнце ласково щурится –",
+      "en": "MY HOMETOWN / The sun squints tenderly—",
+      "fr": "MA VILLE NATALE / Le soleil plisse tendrement les yeux —"
     }
   },
   {
@@ -561,7 +563,9 @@
     ],
     "text_preview": {
       "ce": "Ӏа лаьттара. ТӀечӀагӀлуш яра чилла, / ТӀе лайн кӀац юьллуш, даздеш бӀаьргнегӀарш.",
-      "ru": "Была зима. Наяривал январь, / Слепил глаза снежинками-слезами."
+      "ru": "Была зима. Наяривал январь, / Слепил глаза снежинками-слезами.",
+      "en": "It was winter. January strummed away, / Blinding eyes with snowflake tears.",
+      "fr": "C'était l'hiver. Janvier jouait inlassablement son air, / Aveuglant les yeux de flocons pareils à des larmes."
     }
   },
   {
@@ -3398,6 +3402,214 @@
     ],
     "text_preview": {
       "en": "I love one above all on earth, / All my life belong to just one,"
+    }
+  },
+  {
+    "id": "geshaev-rodom-s-gor",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Я родом с гор твоих, Чечня",
+      "en": "I Come from Your Mountains, Chechnya",
+      "fr": "Je viens de tes montagnes, Tchétchénie"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "даймохк",
+      "нохчийчоь",
+      "истори"
+    ],
+    "text_preview": {
+      "ru": "Я родом с гор твоих, Чечня, / Я внук твоих сынов бесстрашных.",
+      "en": "I come from your mountains, Chechnya, / I am the grandson of your fearless sons.",
+      "fr": "Je viens de tes montagnes, Tchétchénie, / Je suis le petit-fils de tes fils intrépides."
+    }
+  },
+  {
+    "id": "geshaev-otec-kavkaz",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Отец мой — Великий Кавказ",
+      "en": "My Father Is the Great Caucasus",
+      "fr": "Mon père est le Grand Caucase"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "даймохк",
+      "кавказ",
+      "истори"
+    ],
+    "text_preview": {
+      "ru": "Отец мой - Великий Кавказ, / А мать - Золотая Чечня.",
+      "en": "My father is the Great Caucasus, / And my mother is Golden Chechnya.",
+      "fr": "Mon père est le Grand Caucase, / Et ma mère, la Tchétchénie dorée."
+    }
+  },
+  {
+    "id": "geshaev-chechency",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Чеченцы",
+      "en": "Chechens",
+      "fr": "Les Tchétchènes"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "нохчалла",
+      "къам",
+      "доттагӀалла"
+    ],
+    "text_preview": {
+      "ru": "Вы сразу пришлись мне по сердцу, / Расплавив сомнения лед,",
+      "en": "You won my heart at once, / Melting the ice of doubt,",
+      "fr": "Vous avez tout de suite conquis mon cœur, / Faisant fondre la glace du doute,"
+    }
+  },
+  {
+    "id": "akhmatova-dobrota",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Доброта",
+      "en": "Kindness",
+      "fr": "La bonté"
+    },
+    "author": "Раиса Ахматова",
+    "tags": [
+      "дикалла",
+      "хьехам",
+      "адамалла"
+    ],
+    "text_preview": {
+      "ru": "Пусть славится вовеки доброта… / Не доброта бездумного терпенья,",
+      "en": "May kindness be praised forever... / Not the kindness of thoughtless patience,",
+      "fr": "Que la bonté soit louée à jamais... / Non pas la bonté d'une patience irréfléchie,"
+    }
+  },
+  {
+    "id": "sulaev-ni-slavy-ni-bogatstva",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Ни славы, ни богатства не ищу я…",
+      "en": "I Seek Neither Fame nor Wealth...",
+      "fr": "Je ne cherche ni gloire ni richesse…"
+    },
+    "author": "Магомет Сулаев",
+    "tags": [
+      "кхоллам",
+      "адамалла",
+      "стихаш"
+    ],
+    "text_preview": {
+      "ru": "Ни славы, ни богатства не ищу я, / А просто для души стихи пишу.",
+      "en": "I seek neither fame nor wealth; / I simply write poems for the soul.",
+      "fr": "Je ne cherche ni gloire ni richesse ; / J'écris simplement des poèmes pour l'âme."
+    }
+  },
+  {
+    "id": "arsanukaev-odnazhdy-na-rassvete",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Однажды криком на рассвете…",
+      "en": "One Day, with a Cry at Dawn...",
+      "fr": "Un jour, d'un cri à l'aube…"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "нана",
+      "даймохк",
+      "кхоллам"
+    ],
+    "text_preview": {
+      "ru": "Однажды / Криком на рассвете",
+      "en": "One day, / With a cry at dawn,",
+      "fr": "Un jour, / D'un cri à l'aube,"
+    }
+  },
+  {
+    "id": "illi-zelamkha-gizlar",
+    "type": "song",
+    "title": {
+      "ce": "Зеламха ГӀизларехь латаран илли",
+      "ru": "Илли о сражении Зелимхана в Гизларе",
+      "en": "Illi about Zelamkhan’s battle in Gizlar",
+      "fr": "Illi sur le combat de Zelamkhan à Gizlar"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "зеламха",
+      "гӀизлар",
+      "турпала"
+    ],
+    "text_preview": {
+      "ce": "Схьакхеттачу малхана ӀиндагӀ ва доцуш, / ТӀедогӀучу догӀанна гоъ тхьовса ва йоцуш,"
+    },
+    "source": "Орга. «Нохчийн фольклор» — Чеченский фольклор, Грозный: «Книга», 1991",
+    "date_added": "2026-08-29"
+  },
+  {
+    "id": "illi-anzoran-zaza",
+    "type": "song",
+    "title": {
+      "ce": "Анзоран Зазин илли",
+      "ru": "Илли об Анзоре и Зазе",
+      "en": "Illi about Anzoran and Zaza",
+      "fr": "Illi sur Anzoran et Zaza"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "анзоран",
+      "заза",
+      "доттагӀалла"
+    ],
+    "text_preview": {
+      "ce": "Ва сарахь суьйренца, бузучу малхаца, / Суьйренах къаьстина булучу боданца,"
+    },
+    "source": "Орга. «Нохчийн фольклор» — Чеченский фольклор, Грозный: «Книга», 1991",
+    "date_added": "2026-08-29"
+  },
+  {
+    "id": "daymohk-mamakaev",
+    "type": "poem",
+    "title": {
+      "ce": "Даймохк",
+      "ru": "Родные горы",
+      "en": "Native Mountains",
+      "fr": "Montagnes natales"
+    },
+    "author": "Магомед Мамакаев",
+    "tags": [
+      "даймохк",
+      "лаьмнаш",
+      "истори"
+    ],
+    "text_preview": {
+      "ce": "Сила, слава, къуоналла а кхин дерг а – / Дерриг дӀадер ду; безам дӀабер бу, бала а..."
+    }
+  },
+  {
+    "id": "dottagalla-mamakaev",
+    "type": "poem",
+    "title": {
+      "ce": "ДоттагӀалла",
+      "ru": "О богатстве (Другу)",
+      "en": "To a Friend",
+      "fr": "À un ami"
+    },
+    "author": "Магомед Мамакаев",
+    "tags": [
+      "доттагӀалла",
+      "хьал",
+      "хьехам"
+    ],
+    "text_preview": {
+      "ce": "Ма кхолало, доттагӀ, хьал долуш ду вай, / Хьал долуш хиларх, пис нах дац вай."
     }
   }
 ]

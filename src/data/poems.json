@@ -2726,8 +2726,8 @@
     "text": {
       "ce": "САН ГӀАЛА\nЭсала хебаршка бӀаьрг шен\nИйзабо кадечу малхо.\nКхузахь со, ураме яьлча,\nЦа хуьлу, чохь чул, кхин цхьалха.\nГина ю кхузара дерриг,\nДовзаза дисна а дац-кха –\nШурех мах бечарна тӀера\nТуьканийн корашка кхаччалц.\nЦавевзачуьнца а атта\nТхан кхузахь тӀекере лела,\nВовшашка маршалла хаттар\nДоладо саламан мело.\nДерриг а ду кхузахь лайна:\nТайна, цатайна я лезна.\nЦӀе а ю хӀокхуьнан – Даймохк.\nСтенга со гӀор, и дӀатесна?",
       "ru": "РОДНОЙ ГОРОД\nСолнце ласково щурится –\nХорошо ему, проныре!\nЯ брожу по этим улицам,\nКак по собственной квартире.\nЗдесь знакомо всё до точности,\nДо последнего аршина –\nИ крикливые молочницы,\nИ манящие витрины.\nЗдесь тебе кивает запросто\nКаждый третий на припёке,\nЗдесь здороваются за руку\nБез проблем и подоплёки.\nЗдесь продуманы и пройдены\nВсе провалы и успехи.\nНазывают это – Родиной.\nКак от этого уехать?",
-      "en": null,
-      "fr": null
+      "en": "MY HOMETOWN\nThe sun squints tenderly—\nThat sly little rascal seems content!\nI wander through these streets\nAs through my own apartment.\nHere everything is familiar,\nDown to the very last arshin—\nThe clamorous milkmaids,\nThe shop windows beckoning.\nHere, in the sunny spot,\nEvery third passerby nods to you;\nHere people shake your hand\nWithout a fuss or ulterior motive.\nHere every failure and success\nHas been thought through and lived.\nThey call this place the Motherland.\nHow could I leave it?",
+      "fr": "MA VILLE NATALE\nLe soleil plisse tendrement les yeux —\nIl est bien à son aise, ce petit malin !\nJe me promène dans ces rues\nComme dans mon propre appartement.\nIci, tout m'est familier,\nJusqu'au dernier pouce —\nLes laitières bruyantes,\nEt les vitrines qui attirent le regard.\nIci, sous le soleil,\nUne personne sur trois te salue d'un signe de tête ;\nIci, on se serre la main\nSans embarras ni arrière-pensée.\nIci, tous les échecs et les réussites\nOnt été pensés et vécus.\nOn appelle cela la patrie.\nComment pourrais-je la quitter ?"
     },
     "text_preview": {
       "ce": "САН ГӀАЛА / Эсала хебаршка бӀаьрг шен",
@@ -2762,8 +2762,8 @@
     "text": {
       "ce": "Ӏа лаьттара. ТӀечӀагӀлуш яра чилла,\nТӀе лайн кӀац юьллуш, даздеш бӀаьргнегӀарш.\nИ Ӏуьйре, тиша абат маракъуьйлуш,\nДӀагайта долош яра шен хаарш.\nӀа Ӏемаш дара шело чоьхьаяха,\nЖилӀалам а, синош а гӀорадан,\nТроллейбусаш а лемантӀера яха,\nТкъа урамашкахь – лайн хӀур шершабан.\nВа амма цец а дуьйлура и цхьаннах:\nДӀа чучча куьйгаш даьхна, ӀиндагӀаш\nЦу арахь лелаш дара, бӀаьста санна,\nӀа кхеттол кхиъна доцуш Ӏилманаш.",
       "ru": "Была зима. Наяривал январь,\nСлепил глаза снежинками-слезами.\nСдавало утро первый свой экзамен,\nПрижав к груди зачитанный букварь.\nЗима училась холодить дома,\nВ лед одевать деревья, лужи, души,\nМогла порошей улицы утюжить,\nТроллейбусы могла сводить с ума.\nИ лишь одно ей было невдомек:\nПо-прежнему, как будто днем весенним,\nПереплетая руки, бродят тени.\nЗиме не объяснить такой урок.",
-      "en": null,
-      "fr": null
+      "en": "It was winter. January strummed away,\nBlinding eyes with snowflake tears.\nThe morning took its first examination,\nClutching a well-thumbed primer to its breast.\nWinter was learning to chill the homes,\nTo dress the trees, the puddles, souls in ice;\nIt could press the streets smooth beneath fresh snow,\nIt could drive the trolleybuses mad.\nAnd one thing alone it could not fathom:\nStill, as though it were a springtime day,\nWith arms entwined, the shadows wandered.\nWinter could not understand such a lesson.",
+      "fr": "C'était l'hiver. Janvier jouait inlassablement son air,\nAveuglant les yeux de flocons pareils à des larmes.\nLe matin passait son premier examen,\nSerrant contre son cœur un abécédaire bien usé.\nL'hiver apprenait à refroidir les maisons,\nÀ vêtir de glace les arbres, les flaques et les âmes ;\nIl pouvait repasser les rues sous la neige poudreuse,\nFaire perdre la tête aux trolleybus.\nEt une seule chose lui échappait :\nToujours, comme en un jour de printemps,\nLes ombres erraient, les bras entrelacés.\nL'hiver ne pouvait comprendre une telle leçon."
     },
     "text_preview": {
       "ce": "Ӏа лаьттара. ТӀечӀагӀлуш яра чилла, / ТӀе лайн кӀац юьллуш, даздеш бӀаьргнегӀарш.",
@@ -5061,6 +5061,228 @@
       }
     ],
     "source": "Газета «День литературы» — Юрий Щербаков «Стихи чеченских поэтов» (06.11.2024)",
+    "date_added": "2026-08-29"
+  },
+  {
+    "id": "geshaev-rodom-s-gor",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Я родом с гор твоих, Чечня",
+      "en": "I Come from Your Mountains, Chechnya",
+      "fr": "Je viens de tes montagnes, Tchétchénie"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "даймохк",
+      "нохчийчоь",
+      "истори"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Я родом с гор твоих, Чечня,\nЯ внук твоих сынов бесстрашных.\nНесу я в сердце жар огня,\nСпешу в аул к высоким башням,\n\nГде каждый камень знаменит,\nГде черный взор бойниц усталых.\nИстория да сохранит\nТрагедию народов малых.",
+      "en": "I come from your mountains, Chechnya,\nI am the grandson of your fearless sons.\nI carry the heat of fire in my heart,\nI hurry to the aul with its lofty towers,\n\nWhere every stone is famed,\nWhere the dark gaze of weary embrasures lingers.\nMay history preserve\nThe tragedy of small peoples.",
+      "fr": "Je viens de tes montagnes, Tchétchénie,\nJe suis le petit-fils de tes fils intrépides.\nJe porte dans mon cœur la chaleur du feu,\nJe me hâte vers l'aoul aux hautes tours,\n\nOù chaque pierre est célèbre,\nOù le regard noir des meurtrières fatiguées demeure.\nPuisse l'histoire préserver\nLa tragédie des petits peuples."
+    },
+    "text_preview": {
+      "ru": "Я родом с гор твоих, Чечня, / Я внук твоих сынов бесстрашных.",
+      "en": "I come from your mountains, Chechnya, / I am the grandson of your fearless sons.",
+      "fr": "Je viens de tes montagnes, Tchétchénie, / Je suis le petit-fils de tes fils intrépides."
+    },
+    "external_links": [
+      {
+        "label": "Orga — Муса Гешаев",
+        "url": "https://orga.narod.ru/geshaev/geshaev_3.htm#p278"
+      }
+    ],
+    "source": "Муса Гешаев. «Опрокинулось небо», цикл «Непокоренная Чечня»",
+    "date_added": "2026-08-29"
+  },
+  {
+    "id": "geshaev-otec-kavkaz",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Отец мой — Великий Кавказ",
+      "en": "My Father Is the Great Caucasus",
+      "fr": "Mon père est le Grand Caucase"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "даймохк",
+      "кавказ",
+      "истори"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Отец мой - Великий Кавказ,\nА мать - Золотая Чечня.\nО вас я веду свой рассказ -\nПростите за дерзость меня!\n\nВлекли меня с детства снега\nИ диких ущелий печаль.\nМне, словно сестра, дорога\nТропинка, летящая вдаль.\n\nКак эхо промчавшихся гроз\nИ бед, что стреляют в упор,\nПотоки стремительных слез\nБегут с ослепительных гор.\n\nЛюбовь мне к тебе не унять -\nОна зарождалась в веках,\nЧечня моя, Родина-мать,\nЯ сын твой - великий вайнах.\n\nОтсюда мой род, полный сил,\nВ земную пошел круговерть.\nЗдесь плакали камни могил,\nДетей провожая на смерть.\n\nМой род убивала война,\nА он, непокорный навек,\nИсчерпанный вроде до дна,\nОпять восставал, как абрек!\n\nСраженный, опять и опять\nВставал он в крови и пыли,\nСражаясь за каждую пядь\nРодной непокорной земли...\n\nПростите, Чечня и Кавказ,\nПростите, родные края,\nО вас - мой сердечный рассказ\nИ вечная память моя.",
+      "en": "My father is the Great Caucasus,\nAnd my mother is Golden Chechnya.\nIt is of you that I tell my story—\nForgive my boldness!\n\nThe snows drew me from childhood,\nAnd the sorrow of wild gorges.\nLike a sister, dear to me\nIs the path that flies into the distance.\n\nLike an echo of storms that have rushed past\nAnd calamities that fire at point-blank range,\nStreams of swift tears\nRun down from the dazzling mountains.\n\nI cannot still my love for you—\nIt was born over the centuries,\nMy Chechnya, motherland,\nI am your son, the great Vainakh.\n\nFrom here my lineage, full of strength,\nEntered the whirl of earthly life.\nHere the stones of graves wept,\nSeeing children off to their deaths.\n\nWar killed my kin,\nYet, forever unbroken,\nThough seemingly drained to the dregs,\nIt rose again like an abrek!\n\nStruck down, again and again,\nIt rose in blood and dust,\nFighting for every span\nOf its native, unyielding land...\n\nForgive us, Chechnya and Caucasus,\nForgive us, beloved lands,\nOf you my heart tells its story,\nAnd my eternal memory remains.",
+      "fr": "Mon père est le Grand Caucase,\nEt ma mère, la Tchétchénie dorée.\nC'est de vous que je conte l'histoire —\nPardonnez mon audace !\n\nDepuis l'enfance, les neiges m'attiraient,\nEt la tristesse des gorges sauvages.\nTelle une sœur, m'est chère\nLa sente qui s'élance au loin.\n\nComme l'écho des orages passés\nEt des malheurs qui tirent à bout portant,\nDes flots de larmes impétueuses\nCoulent des montagnes aveuglantes.\n\nJe ne peux apaiser mon amour pour toi —\nIl est né au fil des siècles,\nMa Tchétchénie, patrie-mère,\nJe suis ton fils, le grand Vainakh.\n\nDe là vient ma lignée, pleine de force,\nPartie dans le tourbillon de la vie terrestre.\nIci, les pierres des tombes pleuraient,\nAccompagnant les enfants vers la mort.\n\nLa guerre tuait ma lignée,\nMais elle, à jamais insoumise,\nComme épuisée jusqu'au fond,\nSe relevait encore, telle un abrek !\n\nTerrassée, encore et encore,\nElle se relevait dans le sang et la poussière,\nLuttant pour chaque empan\nDe sa terre natale indomptable...\n\nPardonnez, Tchétchénie et Caucase,\nPardonnez, terres bien-aimées,\nC'est de vous que parle mon cœur,\nEt ma mémoire éternelle."
+    },
+    "text_preview": {
+      "ru": "Отец мой - Великий Кавказ, / А мать - Золотая Чечня.",
+      "en": "My father is the Great Caucasus, / And my mother is Golden Chechnya.",
+      "fr": "Mon père est le Grand Caucase, / Et ma mère, la Tchétchénie dorée."
+    },
+    "external_links": [
+      {
+        "label": "Orga — Муса Гешаев",
+        "url": "https://orga.narod.ru/geshaev/geshaev_3.htm#p279"
+      }
+    ],
+    "source": "Муса Гешаев. «Опрокинулось небо», цикл «Непокоренная Чечня»",
+    "date_added": "2026-08-29"
+  },
+  {
+    "id": "geshaev-chechency",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Чеченцы",
+      "en": "Chechens",
+      "fr": "Les Tchétchènes"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "нохчалла",
+      "къам",
+      "доттагӀалла"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Вы сразу пришлись мне по сердцу,\nРасплавив сомнения лед,\nЧеченцы, чеченцы, чеченцы,\nКрасивый и гордый народ!\n\nНаивны в быту, как младенцы,\nБесстрашны в бою, как орлы,\nЧеченцы, чеченцы, чеченцы,\nМне дороги вы и милы!\n\nОткройте к сердцам вашим дверцу,\nБыть с вами сочту я за честь.\nЧеченцы, чеченцы, чеченцы,\nСпасибо за то, что вы есть!\n\nЯ в Грозный лечу наглядеться\nНа вас после муки и слез.\nЧеченцы, чеченцы, чеченцы,\nЯ с вами в дни смуты и гроз!..\n\n- Нохчи вуй?* - кричат из зала.\n- Нохчи ву!** - кричу в ответ.\nОх и парни вы, чеченцы,\nДля меня вас ближе нет!\n\n____________________\n*Ты чеченец?\n**Я чеченец!",
+      "en": "You won my heart at once,\nMelting the ice of doubt,\nChechens, Chechens, Chechens,\nA beautiful and proud people!\n\nIn daily life, innocent as children,\nFearless in battle like eagles,\nChechens, Chechens, Chechens,\nYou are dear and precious to me!\n\nOpen the door to your hearts;\nIt would be an honor to be with you.\nChechens, Chechens, Chechens,\nThank you for being who you are!\n\nI fly to Grozny to gaze upon you\nAfter suffering and tears.\nChechens, Chechens, Chechens,\nI am with you in days of turmoil and storms!..\n\n— Are you Chechen?* — they cry from the hall.\n— I am Chechen!** — I shout in reply.\nOh, what lads you are, Chechens—\nNo one is closer to me!\n\n____________________\n*Are you Chechen?\n**I am Chechen!",
+      "fr": "Vous avez tout de suite conquis mon cœur,\nFaisant fondre la glace du doute,\nTchétchènes, Tchétchènes, Tchétchènes,\nPeuple beau et fier !\n\nIngénus dans la vie quotidienne comme des enfants,\nIntrépides au combat comme des aigles,\nTchétchènes, Tchétchènes, Tchétchènes,\nVous m'êtes chers et précieux !\n\nOuvrez la porte de vos cœurs ;\nÊtre avec vous serait pour moi un honneur.\nTchétchènes, Tchétchènes, Tchétchènes,\nMerci d'exister !\n\nJe vole à Grozny pour vous revoir\nAprès la souffrance et les larmes.\nTchétchènes, Tchétchènes, Tchétchènes,\nJe suis avec vous dans les jours de troubles et d'orages !..\n\n— Es-tu tchétchène ? — crie-t-on dans la salle.\n— Je suis tchétchène ! — réponds-je.\nAh, quels gaillards vous êtes, Tchétchènes —\nNul ne m'est plus proche que vous !\n\n____________________\n*Es-tu tchétchène ?\n**Je suis tchétchène !"
+    },
+    "text_preview": {
+      "ru": "Вы сразу пришлись мне по сердцу, / Расплавив сомнения лед,",
+      "en": "You won my heart at once, / Melting the ice of doubt,",
+      "fr": "Vous avez tout de suite conquis mon cœur, / Faisant fondre la glace du doute,"
+    },
+    "external_links": [
+      {
+        "label": "Orga — Муса Гешаев",
+        "url": "https://orga.narod.ru/geshaev/geshaev_3.htm#p338"
+      }
+    ],
+    "source": "Муса Гешаев. «Опрокинулось небо», цикл «Непокоренная Чечня»",
+    "date_added": "2026-08-29"
+  },
+  {
+    "id": "akhmatova-dobrota",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Доброта",
+      "en": "Kindness",
+      "fr": "La bonté"
+    },
+    "author": "Раиса Ахматова",
+    "author_years": "1928–1992",
+    "year_written": null,
+    "tags": [
+      "дикалла",
+      "хьехам",
+      "адамалла"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Пусть славится вовеки доброта…\nНе доброта бездумного терпенья,\nНе доброта слепого всепрощенья,\nА доброта зеленого листа,\nДороги дальней, позднего костра,\nГлотка воды, куска ржаного хлеба…\nНо пусть темнеет доброта, как небо,\nКогда греметь грозе придет пора.\n\nЧтоб защитить добро себя могло\nОт засухи бесплодного покоя,\nПусть доброта готова будет к бою,\nИ лишь тогда она повергнет зло!",
+      "en": "May kindness be praised forever...\nNot the kindness of thoughtless patience,\nNor the kindness of blind forgiveness,\nBut the kindness of a green leaf,\nOf a distant road, a late campfire,\nA mouthful of water, a piece of rye bread...\nBut let kindness darken like the sky\nWhen the time comes for the storm to thunder.\n\nSo that goodness may defend itself\nAgainst the drought of barren peace,\nLet kindness be ready for battle,\nAnd only then will it cast down evil!",
+      "fr": "Que la bonté soit louée à jamais...\nNon pas la bonté d'une patience irréfléchie,\nNi celle d'un pardon aveugle,\nMais la bonté d'une feuille verte,\nD'une route lointaine, d'un feu tardif,\nD'une gorgée d'eau, d'un morceau de pain de seigle...\nMais que la bonté s'assombrisse comme le ciel\nLorsque viendra l'heure où grondera l'orage.\n\nAfin que le bien puisse se défendre\nContre la sécheresse d'un repos stérile,\nQue la bonté soit prête au combat,\nEt alors seulement elle terrassera le mal !"
+    },
+    "text_preview": {
+      "ru": "Пусть славится вовеки доброта… / Не доброта бездумного терпенья,",
+      "en": "May kindness be praised forever... / Not the kindness of thoughtless patience,",
+      "fr": "Que la bonté soit louée à jamais... / Non pas la bonté d'une patience irréfléchie,"
+    },
+    "external_links": [
+      {
+        "label": "ВикиЧтение",
+        "url": "https://biography.wikireading.ru/40620"
+      }
+    ],
+    "source": "Раиса Ахматова. «Доброта» (перевод с чеченского), «Память о мечте»",
+    "date_added": "2026-08-29"
+  },
+  {
+    "id": "sulaev-ni-slavy-ni-bogatstva",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Ни славы, ни богатства не ищу я…",
+      "en": "I Seek Neither Fame nor Wealth...",
+      "fr": "Je ne cherche ni gloire ni richesse…"
+    },
+    "author": "Магомет Сулаев",
+    "author_years": "1920–1992",
+    "year_written": null,
+    "tags": [
+      "кхоллам",
+      "адамалла",
+      "стихаш"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Ни славы, ни богатства не ищу я,\nА просто для души стихи пишу.\nИ в сердце, словно в дом, зайти прошу я\nЛюдей, которыми я дорожу.\n\nНо сердцу в клетке ребер вечно тесно:\nОно наружу - к людям -\nРвется песней!\n\nНет, не ищу богатства я и славы,\nНо все же - я не скрою от людей -\nСтихи свои пишу не для забавы:\nВ них много боли и души моей!\n\nХочу, чтоб люди\nСтрочки, что леплю я,\nЛюбили так же, как людей люблю я!",
+      "en": "I seek neither fame nor wealth;\nI simply write poems for the soul.\nAnd into my heart, as into a home, I invite\nThe people I hold dear.\n\nBut the heart is forever cramped inside its rib cage:\nIt breaks out toward people—\nIn song!\n\nNo, I seek neither wealth nor fame,\nBut still—I will not hide it from people—\nI do not write my poems for amusement:\nThey hold much of my pain and my soul!\n\nI want people\nTo love the lines I shape\nAs I love people myself!",
+      "fr": "Je ne cherche ni gloire ni richesse ;\nJ'écris simplement des poèmes pour l'âme.\nEt dans mon cœur, comme dans une maison, j'invite\nLes êtres qui me sont chers.\n\nMais le cœur est toujours à l'étroit dans la cage des côtes :\nIl se précipite au-dehors, vers les hommes —\nEn chanson !\n\nNon, je ne cherche ni richesse ni gloire,\nMais je ne le cacherai pas aux hommes :\nJe n'écris pas mes poèmes pour me divertir ;\nIls contiennent toute ma douleur et mon âme !\n\nJe veux que les hommes\nAiment les vers que je façonne\nComme j'aime moi-même les hommes !"
+    },
+    "text_preview": {
+      "ru": "Ни славы, ни богатства не ищу я, / А просто для души стихи пишу.",
+      "en": "I seek neither fame nor wealth; / I simply write poems for the soul.",
+      "fr": "Je ne cherche ni gloire ni richesse ; / J'écris simplement des poèmes pour l'âme."
+    },
+    "external_links": [
+      {
+        "label": "ВикиЧтение",
+        "url": "https://biography.wikireading.ru/40678"
+      }
+    ],
+    "source": "Магомет Сулаев. «Ни славы, ни богатства не ищу я…» (перевод с чеченского), «Память о мечте»",
+    "date_added": "2026-08-29"
+  },
+  {
+    "id": "arsanukaev-odnazhdy-na-rassvete",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Однажды криком на рассвете…",
+      "en": "One Day, with a Cry at Dawn...",
+      "fr": "Un jour, d'un cri à l'aube…"
+    },
+    "author": "Шайхи Арсанукаев",
+    "author_years": "1930–2012",
+    "year_written": null,
+    "tags": [
+      "нана",
+      "даймохк",
+      "кхоллам"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Однажды\nКриком на рассвете\nЯ миру возвестил о том,\nЧто я вошел в него,\nКак в дом,\nИ поселился на планете.\n\nОткрыв глаза,\nУзнал я мать:\nОна была добра, красива.\nИз колыбельного мотива\nМне лира начала звучать.\n\nС тех пор\nВ сиянье красоты\nЯ узнавал ее черты,\nВидение родного края.\nС тех пор\nВсегда лишь вверх иду,\nНевиданную высоту\nС ее достоинством сверяя.\n\nНетвердой новизной шагов\nЯ двор измерил,\nНо манили\nМеня голубизной снегов\nВершин возвышенные шпили.\n\nС тех пор,\nГде б ни скитался я,\nОни всегда перед глазами,\nИ проливаются слезами\nМне в душу гордые края.\n\nС тех пор\nВсегда лежит мой путь\nК высотам круч\nОт пастбищ низких.\n\nДостигну ль я когда-нибудь\nВершин недостижимо близких?..",
+      "en": "One day,\nWith a cry at dawn,\nI announced to the world\nThat I had entered it,\nAs one enters a home,\nAnd settled on the planet.\n\nOpening my eyes,\nI recognized my mother:\nShe was kind and beautiful.\nFrom a lullaby's melody\nMy lyre began to sound.\n\nSince then,\nIn beauty's radiance,\nI have recognized her features,\nA vision of my native land.\nSince then,\nI have always climbed upward,\nMeasuring an unseen height\nAgainst her dignity.\n\nWith the uncertain newness of my steps\nI measured the courtyard,\nYet the lofty spires\nOf the peaks drew me on\nWith the blue of their snows.\n\nSince then,\nWherever I may wander,\nThey are always before my eyes,\nAnd the proud lands\nPour into my soul as tears.\n\nSince then,\nMy path has always led\nFrom low pastures\nToward the heights of the cliffs.\n\nWill I ever reach\nThose summits so near, yet unattainable?..",
+      "fr": "Un jour,\nD'un cri à l'aube,\nJ'annonçai au monde\nQue j'y étais entré,\nComme dans une maison,\nEt que je m'étais installé sur la planète.\n\nEn ouvrant les yeux,\nJe reconnus ma mère :\nElle était bonne et belle.\nSur un motif de berceuse,\nMa lyre se mit à résonner.\n\nDepuis lors,\nDans l'éclat de la beauté,\nJe reconnaissais ses traits,\nLa vision de ma terre natale.\nDepuis lors,\nJe ne fais que monter,\nMesurant une hauteur inconnue\nÀ l'aune de sa dignité.\n\nD'un pas encore incertain,\nJe mesurai la cour,\nMais m'attiraient,\nBleuis par leurs neiges,\nLes fiers clochers des sommets.\n\nDepuis lors,\nOù que j'erre,\nIls sont toujours devant mes yeux,\nEt les terres fières\nSe répandent en larmes dans mon âme.\n\nDepuis lors,\nMon chemin mène toujours\nDes pâturages bas\nVers les hauteurs des falaises.\n\nAtteindrai-je un jour\nDes sommets si proches et pourtant inaccessibles ?.."
+    },
+    "text_preview": {
+      "ru": "Однажды / Криком на рассвете",
+      "en": "One day, / With a cry at dawn,",
+      "fr": "Un jour, / D'un cri à l'aube,"
+    },
+    "external_links": [
+      {
+        "label": "ВикиЧтение",
+        "url": "https://biography.wikireading.ru/40710"
+      }
+    ],
+    "source": "Шайхи Арсанукаев. «Однажды криком на рассвете…» (перевод с чеченского), «Память о мечте»",
     "date_added": "2026-08-29"
   }
 ]
