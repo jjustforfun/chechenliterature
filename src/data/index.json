@@ -3611,5 +3611,370 @@
     "text_preview": {
       "ce": "Ма кхолало, доттагӀ, хьал долуш ду вай, / Хьал долуш хиларх, пис нах дац вай."
     }
+  },
+  {
+    "id": "yusupov-ilman-to-motherland",
+    "type": "poem",
+    "title": {
+      "ce": "Даймахке",
+      "ru": null,
+      "en": "My Motherland",
+      "fr": "Ma Patrie"
+    },
+    "author": "Ильман Юсупов",
+    "tags": [
+      "даймохк",
+      "безам",
+      "лаьмнаш"
+    ],
+    "text_preview": {
+      "ce": "Даймохк, ас хьан лаьттахь юьту коган хӀора лар а / Лууш ву со хила хьан некъашна аьхна даар.",
+      "en": "Chechnya, every trace that I leave on your earth, / I wish to transform into the nourishment for your roads.",
+      "fr": "Tchétchénie, chaque trace que je laisse sur ta terre, / Je voudrais la transformer en nourriture pour tes routes."
+    }
+  },
+  {
+    "id": "yusupov-ilman-lonely-night",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Одинокий вечер",
+      "en": "Lonely Night",
+      "fr": "Soir solitaire"
+    },
+    "author": "Ильман Юсупов",
+    "tags": [
+      "нана",
+      "депортаци",
+      "йовхо"
+    ],
+    "text_preview": {
+      "ru": "Одинокий вечер, старая мать, плачущие глаза, могилы –",
+      "en": "Lonely night, aged mom, tearful eyes, graveyard, tombstone – / There they are, the glomiest words of Chechen mother tongue.",
+      "fr": "Soir solitaire, vieille mère, yeux en pleurs, cimetière, pierre tombale – / Les voilà, les mots les plus sombres de la langue tchétchène."
+    }
+  },
+  {
+    "id": "yusupov-ilman-sad-thoughts",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "Sad Thoughts",
+      "fr": "Pensées tristes"
+    },
+    "author": "Ильман Юсупов",
+    "tags": [
+      "сагатдалар",
+      "йовхо",
+      "дахар"
+    ],
+    "text_preview": {
+      "en": "The graveyard expands more and more each and every day / A dozen of graves are added to an old tombstone.",
+      "fr": "Le cimetière s'étend encore et encore, chaque jour, / Une douzaine de tombes s'ajoutent à une vieille pierre."
+    }
+  },
+  {
+    "id": "yusupov-ilman-breath-of-war",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "The Breath of the War",
+      "fr": "Le Souffle de la Guerre"
+    },
+    "author": "Ильман Юсупов",
+    "tags": [
+      "тӀом",
+      "маьршо",
+      "нана"
+    ],
+    "text_preview": {
+      "en": "The breath of the war is touching the smoking skyline, / Bloody rain is falling on the burning forest expanse.",
+      "fr": "Le souffle de la guerre touche l'horizon fumant, / Une pluie de sang tombe sur l'étendue de la forêt en flammes."
+    }
+  },
+  {
+    "id": "gatsaev-reviendrai",
+    "type": "poem",
+    "title": {
+      "ce": "Со вуха вогӀур ву",
+      "ru": null,
+      "en": "I Will Return",
+      "fr": "Je reviendrai"
+    },
+    "author": "СаьӀид Гацаев",
+    "tags": [
+      "безам",
+      "сагатдалар",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "Со вуха вогӀур ву, / Кхана дӀавахча а,",
+      "en": "I will return, / Even if I am carried away tomorrow,",
+      "fr": "Je serai de retour, / Même si demain je suis emporté,"
+    }
+  },
+  {
+    "id": "gatsaev-daimokhk",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Даймохк",
+      "en": "Daimokhk",
+      "fr": "Daïmokhk"
+    },
+    "author": "СаьӀид Гацаев",
+    "tags": [
+      "даймохк",
+      "безам",
+      "нохчий"
+    ],
+    "text_preview": {
+      "ru": "Душу мою ты желаешь?",
+      "en": "Do you want my soul? / – Yes, if it is that of a Man.",
+      "fr": "T'as besoin de mon âme ? / – Oui, si c'est celle d'un Homme."
+    }
+  },
+  {
+    "id": "kerimov-the-deportation",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "The Deportation",
+      "fr": "La Déportation"
+    },
+    "author": "Исмаил Керимов",
+    "tags": [
+      "депортаци",
+      "турпалалла",
+      "даймохк"
+    ],
+    "text_preview": {
+      "en": "I am an ache. / I am thousands,",
+      "fr": "Je suis une douleur. / Je suis des milliers,"
+    }
+  },
+  {
+    "id": "batoukaev-disparus",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "О безвести пропавших",
+      "en": "They Vanished Without a Trace",
+      "fr": "Sans laisser de trace ils ont disparu"
+    },
+    "author": "Альберт Батукаев",
+    "tags": [
+      "депортаци",
+      "нана",
+      "лазар"
+    ],
+    "text_preview": {
+      "ru": "Ты будешь только строчкой из тысячи имен,",
+      "en": "You will be only a line in a list of a thousand names, / You, who were buried, yet not interred.",
+      "fr": "Une ligne tu seras, dans une liste de noms par milliers, / Toi, qui fus enterré, mais pas inhumé."
+    }
+  },
+  {
+    "id": "ichaeva-je-viens-de-la-ou",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "I Come from a Place Where",
+      "fr": "Je viens de là où"
+    },
+    "author": "Мариет Ичаева",
+    "tags": [
+      "даймохк",
+      "къаьмнаш",
+      "маьршо"
+    ],
+    "text_preview": {
+      "en": "I come from a place where girls – are the face of the family.",
+      "fr": "Je viens de là où les Filles – c'est le visage de la famille."
+    }
+  },
+  {
+    "id": "ichaeva-mon-pays",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "My Country, My Chechnya",
+      "fr": "Mon pays, Ma Tchétchénie"
+    },
+    "author": "Мариет Ичаева",
+    "tags": [
+      "даймохк",
+      "кхел",
+      "безам"
+    ],
+    "text_preview": {
+      "en": "My beautiful country, my Chechnya. / The people who stayed in their homes,",
+      "fr": "Mon beau pays, ma Tchétchénie. / Les gens qui sont chez eux restés,"
+    }
+  },
+  {
+    "id": "musaeva-homeland",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "Homeland",
+      "fr": "Patrie"
+    },
+    "author": "Залина Мусаева",
+    "tags": [
+      "даймохк",
+      "турпалалла",
+      "дог"
+    ],
+    "text_preview": {
+      "en": "I wish to remember those / Who bravely fell in war,",
+      "fr": "Je veux me souvenir de ceux / Qui sont tombés bravement à la guerre,"
+    }
+  },
+  {
+    "id": "bino-where-we-belong",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "Where We Belong",
+      "fr": "Là où nous appartenons"
+    },
+    "author": "Роза Бино",
+    "tags": [
+      "даймохк",
+      "кхел",
+      "безам"
+    ],
+    "text_preview": {
+      "en": "There is a wound in my heart, / The older I grow the deeper it gets,",
+      "fr": "Il y a une blessure dans mon cœur, / Plus je vieillis, plus elle s'approfondit,"
+    }
+  },
+  {
+    "id": "isin-eldin-symphony-of-death",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "Symphony of Death",
+      "fr": "Symphonie de la mort"
+    },
+    "author": "Микаил Исин Элдин",
+    "tags": [
+      "тӀом",
+      "маьршо",
+      "сагатдалар"
+    ],
+    "text_preview": {
+      "en": "Once more a symphony of death resounds / without cease,",
+      "fr": "Encore une fois une symphonie de la mort retentit / sans cesse,"
+    }
+  },
+  {
+    "id": "itsmeolord-liberty-anthem",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "Liberty's Conscience Anthem",
+      "fr": "Hymne à la conscience de la liberté"
+    },
+    "author": "Зура Ицмеолорд",
+    "tags": [
+      "маьршо",
+      "нохчий",
+      "дог"
+    ],
+    "text_preview": {
+      "en": "To show the deepest of your world / I've had to use my heart.",
+      "fr": "Pour te montrer le plus profond de ton monde / J'ai dû me servir de mon cœur."
+    }
+  },
+  {
+    "id": "anonyme-nes-dans-la-nuit",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "We Were Born in the Night",
+      "fr": "Nous sommes nés dans la nuit"
+    },
+    "author": "Anonyme tchétchène",
+    "tags": [
+      "маьршо",
+      "даймохк",
+      "турпалалла"
+    ],
+    "text_preview": {
+      "en": "We were born in the night when the she-wolf gave birth to her cubs, / at dawn, names were given to us, at the roar of the lion,",
+      "fr": "Nous sommes nés dans la nuit où la louve mettait bas ses petits, / au matin, on nous donna des noms, au rugissement du lion,"
+    }
+  },
+  {
+    "id": "bisultanov-first-poem-after-leaving-chechnya",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "First Poem after leaving Chechnya",
+      "fr": "Premier poème après la sortie de Tchétchénie"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "даймохк",
+      "кхел",
+      "лазар"
+    ],
+    "text_preview": {
+      "en": "Grab your heart with both hands / That old hedgehog",
+      "fr": "Prends ton cœur à deux mains, / Ce vieux hérisson,"
+    }
+  },
+  {
+    "id": "bisultanov-hoarse-hawk",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "Hoarse Hawk",
+      "fr": "Faucon enroué"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "маьршо",
+      "тӀом",
+      "лазар"
+    ],
+    "text_preview": {
+      "en": "Hoarse hawk how much you are like me / Unheard by God",
+      "fr": "Faucon enroué, comme tu me ressembles / Inentendu de Dieu"
+    }
+  },
+  {
+    "id": "bisultanov-childhoods",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "Childhoods",
+      "fr": "Enfances"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "бералла",
+      "тӀом",
+      "даймохк"
+    ],
+    "text_preview": {
+      "en": "My grandmother used to say / If you see your childhood three times",
+      "fr": "Ma grand-mère disait / Si tu vois ton enfance trois fois"
+    }
   }
 ]
