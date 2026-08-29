@@ -2170,5 +2170,49 @@
       "en": "One day, / With a cry at dawn,",
       "fr": "Un jour, / D'un cri à l'aube,"
     }
+  },
+  {
+    "id": "illi-zelamkha-gizlar",
+    "type": "song",
+    "title": {
+      "ce": "Зеламха ГӀизларехь латаран илли",
+      "ru": "Илли о сражении Зелимхана в Гизларе",
+      "en": "Illi about Zelamkhan’s battle in Gizlar",
+      "fr": "Illi sur le combat de Zelamkhan à Gizlar"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "зеламха",
+      "гӀизлар",
+      "турпала"
+    ],
+    "text_preview": {
+      "ce": "Схьакхеттачу малхана ӀиндагӀ ва доцуш, / ТӀедогӀучу догӀанна гоъ тхьовса ва йоцуш,"
+    },
+    "source": "Орга. «Нохчийн фольклор» — Чеченский фольклор, Грозный: «Книга», 1991",
+    "date_added": "2026-08-29"
+  },
+  {
+    "id": "illi-anzoran-zaza",
+    "type": "song",
+    "title": {
+      "ce": "Анзоран Зазин илли",
+      "ru": "Илли об Анзоре и Зазе",
+      "en": "Illi about Anzoran and Zaza",
+      "fr": "Illi sur Anzoran et Zaza"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "анзоран",
+      "заза",
+      "доттагӀалла"
+    ],
+    "text_preview": {
+      "ce": "Ва сарахь суьйренца, бузучу малхаца, / Суьйренах къаьстина булучу боданца,"
+    },
+    "source": "Орга. «Нохчийн фольклор» — Чеченский фольклор, Грозный: «Книга», 1991",
+    "date_added": "2026-08-29"
   }
 ]
