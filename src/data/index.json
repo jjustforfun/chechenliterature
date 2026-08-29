@@ -2044,5 +2044,131 @@
     "text_preview": {
       "ce": "Едда мацах кетӀара / Гена яьлла бералла,"
     }
+  },
+  {
+    "id": "geshaev-rodom-s-gor",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Я родом с гор твоих, Чечня",
+      "en": "I Come from Your Mountains, Chechnya",
+      "fr": "Je viens de tes montagnes, Tchétchénie"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "даймохк",
+      "нохчийчоь",
+      "истори"
+    ],
+    "text_preview": {
+      "ru": "Я родом с гор твоих, Чечня, / Я внук твоих сынов бесстрашных.",
+      "en": "I come from your mountains, Chechnya, / I am the grandson of your fearless sons.",
+      "fr": "Je viens de tes montagnes, Tchétchénie, / Je suis le petit-fils de tes fils intrépides."
+    }
+  },
+  {
+    "id": "geshaev-otec-kavkaz",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Отец мой — Великий Кавказ",
+      "en": "My Father Is the Great Caucasus",
+      "fr": "Mon père est le Grand Caucase"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "даймохк",
+      "кавказ",
+      "истори"
+    ],
+    "text_preview": {
+      "ru": "Отец мой - Великий Кавказ, / А мать - Золотая Чечня.",
+      "en": "My father is the Great Caucasus, / And my mother is Golden Chechnya.",
+      "fr": "Mon père est le Grand Caucase, / Et ma mère, la Tchétchénie dorée."
+    }
+  },
+  {
+    "id": "geshaev-chechency",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Чеченцы",
+      "en": "Chechens",
+      "fr": "Les Tchétchènes"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "нохчалла",
+      "къам",
+      "доттагӀалла"
+    ],
+    "text_preview": {
+      "ru": "Вы сразу пришлись мне по сердцу, / Расплавив сомнения лед,",
+      "en": "You won my heart at once, / Melting the ice of doubt,",
+      "fr": "Vous avez tout de suite conquis mon cœur, / Faisant fondre la glace du doute,"
+    }
+  },
+  {
+    "id": "akhmatova-dobrota",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Доброта",
+      "en": "Kindness",
+      "fr": "La bonté"
+    },
+    "author": "Раиса Ахматова",
+    "tags": [
+      "дикалла",
+      "хьехам",
+      "адамалла"
+    ],
+    "text_preview": {
+      "ru": "Пусть славится вовеки доброта… / Не доброта бездумного терпенья,",
+      "en": "May kindness be praised forever... / Not the kindness of thoughtless patience,",
+      "fr": "Que la bonté soit louée à jamais... / Non pas la bonté d'une patience irréfléchie,"
+    }
+  },
+  {
+    "id": "sulaev-ni-slavy-ni-bogatstva",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Ни славы, ни богатства не ищу я…",
+      "en": "I Seek Neither Fame nor Wealth...",
+      "fr": "Je ne cherche ni gloire ni richesse…"
+    },
+    "author": "Магомет Сулаев",
+    "tags": [
+      "кхоллам",
+      "адамалла",
+      "стихаш"
+    ],
+    "text_preview": {
+      "ru": "Ни славы, ни богатства не ищу я, / А просто для души стихи пишу.",
+      "en": "I seek neither fame nor wealth; / I simply write poems for the soul.",
+      "fr": "Je ne cherche ni gloire ni richesse ; / J'écris simplement des poèmes pour l'âme."
+    }
+  },
+  {
+    "id": "arsanukaev-odnazhdy-na-rassvete",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Однажды криком на рассвете…",
+      "en": "One Day, with a Cry at Dawn...",
+      "fr": "Un jour, d'un cri à l'aube…"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "нана",
+      "даймохк",
+      "кхоллам"
+    ],
+    "text_preview": {
+      "ru": "Однажды / Криком на рассвете",
+      "en": "One day, / With a cry at dawn,",
+      "fr": "Un jour, / D'un cri à l'aube,"
+    }
   }
 ]
