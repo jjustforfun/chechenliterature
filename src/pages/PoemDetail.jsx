@@ -10,6 +10,7 @@ import {
   hasContentInLanguage,
 } from '@/utils/contentLanguage';
 import { findSimilarWorks } from '@/utils/searchUtils';
+import { getWorkAuthor } from '@/utils/authorName';
 import SimilarWorks from '@/components/features/SimilarWorks';
 import Tag from '@/components/ui/Tag';
 import Button from '@/components/ui/Button';
@@ -68,6 +69,7 @@ export default function PoemDetail() {
 
   const languageLabel = t(getLanguageLabelKey(contentLanguage));
   const textUnavailableMessage = t('text_unavailable').replace('{language}', languageLabel);
+  const authorName = getWorkAuthor(work, language);
 
   return (
     <article className="poem-detail">
@@ -75,7 +77,7 @@ export default function PoemDetail() {
       <div className="poem-detail__meta-block">
         <p>
           «{displayTitle.text}» — {work.type === 'poem' ? t('filter_poems').toLowerCase() : work.type === 'song' ? t('filter_songs').toLowerCase() : t('filter_prose').toLowerCase()}{' '}
-          {t('author_label').toLowerCase()}: {work.author}
+          {t('author_label').toLowerCase()}: {authorName}
           {work.author_years && ` (${work.author_years})`}.
           {work.year_written && ` ${t('year_label')}: ${work.year_written}.`}
         </p>
@@ -90,7 +92,7 @@ export default function PoemDetail() {
           {t('content_language_label')}: {t(getLanguageLabelKey(titleLanguage))}
         </span>
         <div className="poem-detail__author-info">
-          <span className="poem-detail__author">{work.author}</span>
+          <span className="poem-detail__author">{authorName}</span>
           {work.author_years && (
             <span className="poem-detail__years">({work.author_years})</span>
           )}
@@ -114,7 +116,11 @@ export default function PoemDetail() {
       {/* Main text: never silently substitute another language. */}
       <div className="poem-detail__text">
         {activeText.text ? (
-          <div className="poem-detail__text-content">
+          <div
+            className={`poem-detail__text-content${
+              work.type === 'prose' ? ' poem-detail__text-content--prose' : ''
+            }`}
+          >
             {activeText.text.split('\n').map((line, i) => (
               <span key={i}>
                 {line}
@@ -158,7 +164,13 @@ export default function PoemDetail() {
             {t('show_translation')} ({t(getLanguageLabelKey(translationLanguage))})
           </Button>
           {showTranslation && (
-            <div className="poem-detail__translation-text animate-fade-in">
+            <div
+              className={`poem-detail__translation-text animate-fade-in${
+                work.type === 'prose'
+                  ? ' poem-detail__translation-text--prose'
+                  : ''
+              }`}
+            >
               {translationText.text.split('\n').map((line, i) => (
                 <span key={i}>
                   {line}

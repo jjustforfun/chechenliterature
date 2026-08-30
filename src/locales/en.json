@@ -13,6 +13,7 @@
   "filter_songs": "Songs",
   "filter_prose": "Prose",
   "sort_alphabetical": "Alphabetical",
+  "sort_by_language": "By Text Language",
   "sort_by_author": "By Author",
   "sort_by_date": "By Date Added",
   "sort_label": "Sort by",

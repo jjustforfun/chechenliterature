@@ -1,5 +1,6 @@
 import Fuse from 'fuse.js';
-import { hasContentInLanguage } from './contentLanguage';
+import { getAvailableContentLanguages, hasContentInLanguage } from './contentLanguage';
+import { getAuthorName } from './authorName';
 
 /**
  * Fuse.js configuration for searching literary works.
@@ -13,10 +14,13 @@ export const FUSE_OPTIONS = {
     { name: 'title.en', weight: 2.0 },
     { name: 'title.fr', weight: 2.0 },
     { name: 'author', weight: 1.5 },
+    { name: 'author_en', weight: 1.5 },
+    { name: 'author_fr', weight: 1.5 },
     { name: 'tags', weight: 1.0 },
     { name: 'text_preview.ce', weight: 0.5 },
     { name: 'text_preview.ru', weight: 0.5 },
     { name: 'text_preview.en', weight: 0.5 },
+    { name: 'text_preview.fr', weight: 0.5 },
   ],
   threshold: 0.4, // Allows fuzzy matching with typos
   includeScore: true,
@@ -62,7 +66,7 @@ export function filterByTags(works, selectedTags) {
 /**
  * Sorts works by the given criteria.
  * @param {Array} works
- * @param {string} sortBy - 'alphabetical' | 'author' | 'date'
+ * @param {string} sortBy - 'alphabetical' | 'author' | 'date' | 'language'
  * @param {string} lang - Current language for title sorting
  */
 export function sortWorks(works, sortBy, lang = 'ce') {
@@ -75,9 +79,33 @@ export function sortWorks(works, sortBy, lang = 'ce') {
         return titleA.localeCompare(titleB);
       });
     case 'author':
-      return sorted.sort((a, b) =>
-        (a.author || '').localeCompare(b.author || '')
-      );
+      return sorted.sort((a, b) => {
+        const authorA = getAuthorName(a.author, lang) || '';
+        const authorB = getAuthorName(b.author, lang) || '';
+        return authorA.localeCompare(authorB);
+      });
+    case 'language': {
+      const languageOrder = ['ce', 'ru', 'en', 'fr'];
+      const getTextLanguage = (work) => {
+        const availableLanguages = getAvailableContentLanguages(work);
+        if (lang !== 'all' && availableLanguages.includes(lang)) return lang;
+        return availableLanguages[0] || '';
+      };
+
+      return sorted.sort((a, b) => {
+        const languageA = getTextLanguage(a);
+        const languageB = getTextLanguage(b);
+        const languageDifference =
+          languageOrder.indexOf(languageA) - languageOrder.indexOf(languageB);
+
+        if (languageDifference !== 0) return languageDifference;
+
+        const titleLanguage = lang === 'all' ? languageA : lang;
+        const titleA = a.title?.[titleLanguage] || a.title?.ce || '';
+        const titleB = b.title?.[titleLanguage] || b.title?.ce || '';
+        return titleA.localeCompare(titleB);
+      });
+    }
     case 'date':
       return sorted.sort(
         (a, b) => new Date(b.date_added || 0) - new Date(a.date_added || 0)

@@ -62,6 +62,28 @@ npm run preview
 }
 ```
 
+## Author name transliteration (EN / FR)
+
+Author names are stored in Chechen Cyrillic (`"author"`), because that is the
+canonical spelling of the archive. When the interface language is English or
+French, the UI renders them in Latin script so they can be read and
+pronounced:
+
+| Чеченский (data) | English  | Français     |
+|---|---|---|
+| Муса Гешаев     | Musa Geshayev | Moussa Gechayev |
+| Раиса Ахматова   | Raisa Akhmatova | Raissa Akhmatova |
+| Шайхи Арсанукаев | Shaikhi Arsanukayev | Chaikhi Arsanoukayev |
+
+The reviewed transcriptions live in `src/utils/authorName.js`
+(`AUTHOR_NAMES`, keyed by the Cyrillic name). Every new author must be added
+there; until then, a fallback transliteration (same rules: `у → u/ou`,
+`ш → sh/ch`, `ч → ch/tch`, `е` after a vowel → `yev` glide, etc.) is applied
+automatically. Chechen and Russian keep the original Cyrillic name.
+
+Search and author sorting also use these Latin forms when the interface is in
+English or French (`author_en` / `author_fr` derived in `src/data/catalog.js`).
+
 ## Как добавить перевод
 
 1. Найдите произведение в JSON-файле

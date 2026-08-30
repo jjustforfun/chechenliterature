@@ -3,6 +3,7 @@ import poemsData from './poems.json';
 import songsData from './songs.json';
 import proseData from './prose.json';
 import { getAvailableContentLanguages, isPresentText } from '@/utils/contentLanguage';
+import { getAuthorName } from '@/utils/authorName';
 
 export const fullWorks = [...poemsData, ...songsData, ...proseData];
 
@@ -38,6 +39,10 @@ export const catalogWorks = indexData.map((catalogWork) => {
 
   return {
     ...catalogWork,
+    // Latin transcriptions of the author name, used for search and sorting
+    // when the interface language is English or French.
+    author_en: getAuthorName(catalogWork.author, 'en'),
+    author_fr: getAuthorName(catalogWork.author, 'fr'),
     available_languages: availableLanguages,
     text_preview: textPreview,
   };
