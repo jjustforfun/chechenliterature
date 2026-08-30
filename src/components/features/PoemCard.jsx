@@ -4,6 +4,7 @@ import { useLanguage } from '@/context/LanguageContext';
 import { useTranslation } from '@/hooks/useTranslation';
 import { getFieldInLanguage, getTranslatedField } from '@/utils/getTranslatedField';
 import { getPreferredContentLanguage } from '@/utils/contentLanguage';
+import { getWorkAuthor } from '@/utils/authorName';
 import Tag from '../ui/Tag';
 import './PoemCard.css';
 
@@ -20,6 +21,7 @@ const PoemCard = ({ work, contentLanguage }) => {
   const titleField = exactTitle.text ? exactTitle : getTranslatedField(work, 'title', displayLanguage);
   const previewField = exactPreview.text ? exactPreview : getTranslatedField(work, 'text_preview', displayLanguage);
   const showLanguageBadge = selectedContentLanguage === 'all' || displayLanguage !== language;
+  const authorName = getWorkAuthor(work, language);
   const detailPath = `/${work.type}/${work.id}?lang=${displayLanguage}`;
 
   return (
@@ -33,7 +35,7 @@ const PoemCard = ({ work, contentLanguage }) => {
           </span>
         )}
       </div>
-      <p className="poem-card__author">{work.author}</p>
+      <p className="poem-card__author">{authorName}</p>
       <p className="poem-card__preview">{previewField.text}</p>
 
       {work.tags && work.tags.length > 0 && (

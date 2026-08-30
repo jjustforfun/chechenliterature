@@ -1,5 +1,6 @@
 import Fuse from 'fuse.js';
 import { hasContentInLanguage } from './contentLanguage';
+import { getAuthorName } from './authorName';
 
 /**
  * Fuse.js configuration for searching literary works.
@@ -13,6 +14,8 @@ export const FUSE_OPTIONS = {
     { name: 'title.en', weight: 2.0 },
     { name: 'title.fr', weight: 2.0 },
     { name: 'author', weight: 1.5 },
+    { name: 'author_en', weight: 1.5 },
+    { name: 'author_fr', weight: 1.5 },
     { name: 'tags', weight: 1.0 },
     { name: 'text_preview.ce', weight: 0.5 },
     { name: 'text_preview.ru', weight: 0.5 },
@@ -75,9 +78,11 @@ export function sortWorks(works, sortBy, lang = 'ce') {
         return titleA.localeCompare(titleB);
       });
     case 'author':
-      return sorted.sort((a, b) =>
-        (a.author || '').localeCompare(b.author || '')
-      );
+      return sorted.sort((a, b) => {
+        const authorA = getAuthorName(a.author, lang) || '';
+        const authorB = getAuthorName(b.author, lang) || '';
+        return authorA.localeCompare(authorB);
+      });
     case 'date':
       return sorted.sort(
         (a, b) => new Date(b.date_added || 0) - new Date(a.date_added || 0)
