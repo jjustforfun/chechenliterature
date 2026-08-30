@@ -57,7 +57,6 @@ const Header = () => {
             <div className="header__mobile-actions">
               <LanguageSwitcher />
               <div className="header__mobile-theme">
-                <span>{t('theme_toggle') || 'Theme'}</span>
                 <ThemeToggle />
               </div>
             </div>

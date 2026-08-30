@@ -105,6 +105,7 @@ const SearchBar = ({
             onChange={e => setSortBy(e.target.value)}
           >
             <option value="date">{t('sort_by_date')}</option>
+            <option value="language">{t('sort_by_language')}</option>
             <option value="alphabetical">{t('sort_alphabetical')}</option>
             <option value="author">{t('sort_by_author')}</option>
           </select>
