@@ -525,50 +525,6 @@
     }
   },
   {
-    "id": "nemirovskaya-san-g1ala",
-    "type": "poem",
-    "title": {
-      "ce": "Сан гӀала",
-      "ru": "Родной город",
-      "en": "My Home Town",
-      "fr": "Ma ville natale"
-    },
-    "author": "Дина Немировская",
-    "tags": [
-      "даймохк",
-      "гӀала",
-      "гочдар"
-    ],
-    "text_preview": {
-      "ce": "САН ГӀАЛА / Эсала хебаршка бӀаьрг шен",
-      "ru": "РОДНОЙ ГОРОД / Солнце ласково щурится –",
-      "en": "MY HOMETOWN / The sun squints tenderly—",
-      "fr": "MA VILLE NATALE / Le soleil plisse tendrement les yeux —"
-    }
-  },
-  {
-    "id": "nemirovskaya-1a-lattara",
-    "type": "poem",
-    "title": {
-      "ce": "Ӏа лаьттара",
-      "ru": "Была зима",
-      "en": "It Was Winter",
-      "fr": "C'était l'hiver"
-    },
-    "author": "Дина Немировская",
-    "tags": [
-      "Ӏа",
-      "гочдар",
-      "лирика"
-    ],
-    "text_preview": {
-      "ce": "Ӏа лаьттара. ТӀечӀагӀлуш яра чилла, / ТӀе лайн кӀац юьллуш, даздеш бӀаьргнегӀарш.",
-      "ru": "Была зима. Наяривал январь, / Слепил глаза снежинками-слезами.",
-      "en": "It was winter. January strummed away, / Blinding eyes with snowflake tears.",
-      "fr": "C'était l'hiver. Janvier jouait inlassablement son air, / Aveuglant les yeux de flocons pareils à des larmes."
-    }
-  },
-  {
     "id": "zaytemirov-b1aste",
     "type": "poem",
     "title": {
