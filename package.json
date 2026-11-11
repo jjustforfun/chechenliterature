@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Chechen literary portal — poetry, songs, and prose",
+  "homepage": "https://noxchiindosh.vercel.app/",
   "scripts": {
     "dev": "vite",
     "build": "npm run validate-data && vite build",
