@@ -2827,7 +2827,7 @@
       "ce": "ӀиндагӀаш",
       "ru": "Тени",
       "en": "Shadows",
-      "fr": "Ombres"
+      "fr": "Les ombres"
     },
     "author": "Апти Бисултанов",
     "author_years": "1959–",
@@ -2841,18 +2841,23 @@
       "ce": "ӀиндагӀаш - царна а ма деза вовшийн,\nБесачу, даима шийлачу царна,\nАмма шаьш кхоьллина цхьа малх дӀабовш бен,\nМарзонан хама бан-м ца хаьа царна.\n\nЦкъа цхьана дитта тӀехь дезначу вовшийн,\nВовшийн мутт мийлинчу цу шина генах\nДисинчу ӀиндагӀийн, мох меттахъхьовш бен,\nВовшех ца хьакхало догӀмаш я гӀенаш.\n\nЯ АллахӀ, ма марзо хила а еза-кх\nДоьдучу хи тӀе чуэгначу церан!\nМа дагахьбалламаш хила а беза-кх\nЦкъа вовшийн дохдина доцучу церан!\n\nЭсалчу, экамчу марзонан шовкъехь\nДегадар, эгадар бу церан мотт а,\nШайний бен къайле ца евзачу зовкхехь\nЦа эшар кхин цхьа а меттар я моттар.\n\nӀиндагӀаш - царна а ца лаьа хӀинца\nБузучу цу малхе хӀумма а хетта...\nЭгавеш марзонан хӀора а цинцах\nСо а сайн ӀиндагӀа хиларх со кхетта.\n\nЦу дакъаделлачу диттана тӀера\nЛарамза генийн иэс цкъа меттахдалахь,\nМеттахъхьов, ӀиндагӀийн санна, сан кхерам -\nТам бара со царел хьалха дӀавала!",
       "ru": null,
       "en": null,
-      "fr": null
+      "fr": "Les ombres – elles aussi connaissent l’attachement,\nToujours transparentes et froides pourtant.\nMais ce n’est qu’après le coucher du soleil créateur\nQu’elles ressentent le sentiment de leur bonheur.\n\nD’un arbre s’aimaient, dans un lointain passé,\nDe branches se nourrissant de leurs sèves échangées,\nLes ombres demeurées dont seul le vent qui se lève\nPeut faire se frôler les silhouettes et les rêves.\n\nDieu, comme doit être profonde leur tendresse,\nPour les ombres dans le fil de l’eau tombées.\nComme doivent être lourds leurs regrets,\nPour elles, qui jamais ne se sont enlacées.\n\nPour exalter leur fragile sentiment,\nElles n’ont que frémissements et frissons.\nLeur doux secret n’ayant d’autre confident\nElles n’ont nul besoin d’imagination.\n\nLes ombres – elles ont désormais renoncé\nA rien demander au soleil couché.\nM’accrochant à chaque grain de bonheur, à en trembler\nDe n’être que ma propre ombre m’a été révélé.\n\nEt si dans cet arbre desséché\nLe souvenir des branches vient à bouger,\nMa peur, comme celles des ombres, va renaître –\nQu’avant elles je puisse disparaître."
     },
     "text_preview": {
-      "ce": "ӀиндагӀаш - царна а ма деза вовшийн, / Бесачу, даима шийлачу царна,"
+      "ce": "ӀиндагӀаш - царна а ма деза вовшийн, / Бесачу, даима шийлачу царна,",
+      "fr": "Les ombres – elles aussi connaissent l’attachement, / Toujours transparentes et froides pourtant."
     },
     "external_links": [
       {
         "label": "Маршо Радио",
         "url": "https://www.radiomarsho.com/a/27387696.html"
+      },
+      {
+        "label": "Waynakh Online — Les ombres (traduction française)",
+        "url": "https://www.waynakh.com/fr/2014/03/04/1%d0%b8%d0%bd%d0%b4%d0%b0%d0%b31%d0%b0%d1%88-les-ombres-apti-bisoultanov/"
       }
     ],
-    "source": "Апти Бисултанов. ӀиндагӀаш (Маршо Радио)",
+    "source": "Апти Бисултанов. ӀиндагӀаш (Маршо Радио) — Traduction française : Kissa Gatsaeva (Waynakh Online, « ӀиндагӀаш – Les ombres – Apti Bisoultanov »)",
     "date_added": "2026-08-30"
   },
   {
@@ -2862,7 +2867,7 @@
       "ce": "Ас хьан чӀабанех гӀайгӀа юцур ю...",
       "ru": "Я заплету заботу в твои косы…",
       "en": "I Will Braid My Care into Your Tresses…",
-      "fr": "Je tresserai mon souci dans tes nattes…"
+      "fr": "Je tisserai mes peines…"
     },
     "author": "Апти Бисултанов",
     "author_years": "1959–",
@@ -2873,21 +2878,27 @@
       "лирика"
     ],
     "text": {
-      "ce": "Ас хьан чӀабанех гӀайгӀа юцур ю,\nКӀайчу говрана туьйра дуьйцур ду,\nГуьйре тийжачу нохчийн аренгахь\nДашо гӀаргӀулеш новкъа йохур ю.\n\nАс хьан бӀаьрхихцхьа илли доккхур ду,\nЮьртан йисттехь цхьа ирзу доккхур ду,\nМуьрг цӀийх Ӏеначу нохчийн хьаннашкахь\nДуьне къинтӀера сайна доккхур ду.\n\nАс хьан бӀарлагӀех гӀала юттур ю,\nХилларш, лайнадерш сица луьстур ду,\nӀаьно къарйинчу нохчийн ярташкахь\nЦхьа-цхьаъдахарнадуьхьал хӀуттур ву.\n\nХаза хилла хьо, кхин а хазлур ю,\nЦхьалла лайна со къинойх цӀанлур ву,\nВайшиъ декъалдан, лаьттан Ӏаьнарлахь\nКӀайчу говро шен туьйра дохьур ду.\n\nДашо гӀаргӀулеш цӀехьа йоьрзур ю,\nЦара гӀабали хьуна йохьур ю,\nБӀаьсте йоьлучу нохчийн лаьмнашкахь\nАс хьан чӀабанех сайн ирс дуцур ду.",
-      "ru": null,
+      "ce": "Ас хьан чӀабанех гӀайгӀа юцур ю,\nКӀайчу говрана туьйра дуьйцур ду,\nГуьйре тийжачу нохчийн аренгахь\nДашо гӀаргӀулеш новкъа йохур ю.\n\nАс хьан бӀаьрхих цхьа илли доккхур ду,\nЮьртан йисттехь цхьа ирзу доккхур ду,\nМуьрг цӀийх Ӏеначу нохчийн хьаннашкахь\nДуьне къинтӀера сайна доккхур ду.\n\nАс хьан бӀарлагӀех гӀала юттур ю,\nХилларш, лайнадерш сица луьстур ду,\nӀаьно къарйинчу нохчийн ярташкахь\nЦхьа-цхьаъ дахарна дуьхьал хӀуттур ву.\n\nХаза хилла хьо, кхин а хазлур ю,\nЦхьалла лайна со къинойх цӀанлур ву,\nВайшиъ декъалдан, лаьттан Ӏаьнарлахь\nКӀайчу говро шен туьйра дохьур ду.\n\nДашо гӀаргӀулеш цӀехьа йоьрзур ю,\nЦара гӀабали хьуна йохьур ю,\nБӀаьсте йоьлучу нохчийн лаьмнашкахь\nАс хьан чӀабанех сайн ирс дуцур ду.",
+      "ru": "Я из кос твоих длинных печаль свою нежно сплету.\nИ о белом коне сказку тихо тебе расскажу.\nТам, где осень неслышно грустит на чеченских полях,\nЗолотых журавлей в их далекий я путь провожу.\n\nЯ из слез твоих чистых тебе песню одну сочиню,\nТам, у края села, для себя одно место найду.\nИ рябиновой краской залитых в чеченских лесах\nДля себя я прощенья у мира всего попрошу.\n\nЯ из грез твоих нежных целый замок тебе сотворю.\nПережитое все, то, что было, с душою солью.\nИ по селам чеченским, где вновь торжествует зима.\nЯ навстречу судьбе сам с собою по жизни пойду.\n\nИ прекрасней еще, чем и раньше была, станешь ты,\nОдиноко проживший, свои искуплю я грехи.\nИ на этой земле чтобы стали счастливыми мы,\nБелый конь принесет нам волшебные сказки свои.\n\nЖуравли золотые обратно домой прилетят,\nОни белое платье с собой принесут для тебя.\nИ весною цветущей объятых чеченских горах\nЯ из кос твоих длинных счастье сплету для себя.",
       "en": null,
-      "fr": null
+      "fr": "Je tisserai mes peines avec tes cheveux tressés,\nAu cheval blanc mon histoire je conterai,\nSur la plaine tchétchène où gémit l’automne\nDes grues dorées je suivrai des yeux l’envol.\n\nUne chanson triste de tes larmes j’écrirai,\nA l’orée du village une clairière j’ouvrirai,\nLà où dans un chagrin sanglant expire l’obier,\nJe demanderai au monde le pardon de mes péchés.\n\nAvec tes mirages notre tour je bâtirai,\nLes épreuves au tamis de mon âme je passerai,\nDans les villages tchétchènes par l’hiver assommés,\nFace à face avec la vie, au destin je serai confronté.\n\nJolie, plus grande encore sera ta beauté,\nMon passé de solitude lavera mes péchés,\nDans les brumes de la terre, pour nous bénir\nLe cheval blanc son conte viendra nous dire.\n\nLes grues dorées seront de retour,\nElles t’apporteront les plus beaux atours,\nDans les montagnes tchétchènes où sourit le printemps\nDe tes cheveux tressés, je tisserai mon bonheur."
     },
     "text_preview": {
-      "ce": "Ас хьан чӀабанех гӀайгӀа юцур ю, / КӀайчу говрана туьйра дуьйцур ду,"
+      "ce": "Ас хьан чӀабанех гӀайгӀа юцур ю, / КӀайчу говрана туьйра дуьйцур ду,",
+      "ru": "Я из кос твоих длинных печаль свою нежно сплету. / И о белом коне сказку тихо тебе расскажу.",
+      "fr": "Je tisserai mes peines avec tes cheveux tressés, / Au cheval blanc mon histoire je conterai,"
     },
     "external_links": [
       {
         "label": "Маршо Радио",
         "url": "https://www.radiomarsho.com/a/27368820.html"
+      },
+      {
+        "label": "Waynakh Online — Дашо гӀаргӀулеш – Je tisserai mes peines",
+        "url": "https://www.waynakh.com/fr/2014/04/13/%d0%b4%d0%b0%d1%88%d0%be-%d0%b31%d0%b0%d1%80%d0%b31%d1%83%d0%bb%d0%b5%d1%88-je-tisserai-mes-peines-xhouseyn-betelgereev/"
       }
     ],
-    "source": "Апти Бисултанов. Ас хьан чӀабанех гӀайгӀа юцур ю... (Маршо Радио)",
+    "source": "Апти Бисултанов. Ас хьан чӀабанех гӀайгӀа юцур ю... (Маршо Радио) — Traduction française : Kissa Gatsaeva ; русский перевод: Люба Арсалиева (Waynakh Online, « Дашо гӀаргӀулеш – Je tisserai mes peines – Xhouseyn Betelgereev »)",
     "date_added": "2026-08-30"
   },
   {
@@ -5995,6 +6006,7 @@
     "id": "ahmatukaev-toska",
     "type": "poem",
     "title": {
+      "ce": "ЦӀазамаш мерза ду Даймехкан арахь…",
       "ru": "Тоску по родине…"
     },
     "author": "Адам Ахматукаев",
@@ -6006,18 +6018,24 @@
       "дахар"
     ],
     "text": {
+      "ce": "ЦӀазамаш мерза ду Даймехкан арахь,\nАхь дууш долчеран – бос бу.\nВерасийн кхел ю хьо веддачех лара,\nОйлае ахь а – и дош ду?..\n\nЛела-кха, декъаза цхьа пал идош, хьо,\nАренца марзделла рицкъа.\nЮург а, мерг а ю кху цӀахь тхан, дош а\nСийлахь ду хьоьгарчу ницкъал.\n\nУггаре хьомениг херйинчу хьуна\nПарзашна жоп хирий техьа?..\nОрамаш дахьоле херонан хьуно,\nВерзахьа сихонца цӀехьа.",
       "ru": "Тоску по родине едва ли исцелит\nЗаманчивых плодов заморских вид.\nИ потому, законам вопреки,\nТебя, беглец, жалеют старики.\n\nТам, на чужбине, истинно горька\nСудьба тобой добытого куска.\nДостаток и богатство – лишь слова.\nОтчизна очагом родным права!\n\nЕго заветный незабвенный дым\nВсевышним для таких, как ты, храним,\nЧтобы согреть от холода разлук…\nВернись домой, вернись скорее, друг."
     },
     "text_preview": {
+      "ce": "ЦӀазамаш мерза ду Даймехкан арахь, / Ахь дууш долчеран – бос бу.",
       "ru": "Тоску по родине едва ли исцелит / Заманчивых плодов заморских вид."
     },
     "external_links": [
       {
         "label": "denliteraturi.ru",
         "url": "https://denliteraturi.ru/article/8639"
+      },
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/adam-ahmatukaev/843-c1azamash-merza-du"
       }
     ],
-    "source": "Газета «День литературы» — Юрий Щербаков «Стихи чеченских поэтов» (06.11.2024)",
+    "source": "Газета «День литературы» — Юрий Щербаков «Стихи чеченских поэтов» (06.11.2024) — Чеченский текст: Нохчалла.com",
     "date_added": "2026-08-29"
   },
   {
@@ -7059,7 +7077,7 @@
     "id": "anonyme-nes-dans-la-nuit",
     "type": "poem",
     "title": {
-      "ce": null,
+      "ce": "Буьйсанна борз ехкаш дуьненчу девлла тхо…",
       "ru": null,
       "en": "We Were Born in the Night",
       "fr": "Nous sommes nés dans la nuit"
@@ -7073,12 +7091,13 @@
       "турпалалла"
     ],
     "text": {
-      "ce": null,
+      "ce": "Буьйсанна борз ехкаш дуьненчу девлла тхо,\nӀуьйранна лом угӀуш тхан цӀераш техкина.\nАьрзонийн баннашкахь наноша дакхийна,\nТархаш тӀехь дой хьийзо дайша тхо Ӏамийна.\n\nХалкъана, махкана наноша кхоьллина,\nЦаьршинна эшначохь, майра дӀахӀиттина.\nЛаманан лечарчий маршонехь кхиийна,\nХалонех, бохамех курра чекхдийлина.\n\nМокхаза ламанаш даш хилла лаларах,\nДахарехь, къийсамехь яхь оха дӀалур яц!\nБос Ӏаьржа ва латта молханах лелхарах,\nТхешан сий доьхкина, тхо лаьтта доьрзур дац.\nТхо цкъа а цхьаннена къарделла совцур дац,\nӀожалла, я маршо - шиннех цхьаъ йоккхур ю!\n\nЙижараша тхан чевнаш эшаршца ерзайо,\nХьомсарчу бӀаьргаша хьуьнаршна гӀиттадо.\nМацалло хьовзадахь, орамаш дуур ду,\nХьогалло тхаш бӀарздахь, бецан тхин мийра ду!\nБуьйсанна борз ехкаш дуьненчу девлла ду,\nХалкъана, махкана, Далла а муьтӀахь ду.",
       "ru": null,
       "en": "We were born in the night when the she-wolf gave birth to her cubs,\nat dawn, names were given to us, at the roar of the lion,\nour mothers nursed us in the threshing floor of the mountain eagles,\nour fathers taught us to tame the bulls.\n\nOur mothers raised us for the native land, for the land of our fathers:\non the day of trial, we shall defend without fear the homeland;\nwe were raised with the mountain eagles, free,\nwe overcame hardships with dignity.\n\nThis block of granite will melt at once, like lead,\nSooner than we lose human dignity in battle;\nThe earth will split at once under the blaze of the sun,\nSooner than we fall to the earth, insensate;\nWe shall never bow our heads before anyone,\nWe have but one path: liberty or death!\n\nOur sisters heal our wounds with their songs,\nOur beloved ones fire us to set out again for battle.\nIf famine seizes us, we will gnaw the roots of trees,\nIf thirst attacks us, we will drink the dew,\nWe were born in the night when the she-wolf gave birth to her cubs,\nWe shall serve the Lord, our people and our native land.",
       "fr": "Nous sommes nés dans la nuit où la louve mettait bas ses petits,\nau matin, on nous donna des noms, au rugissement du lion,\nnos mères nous nourrissaient dans l'aire des aigles de la montagne,\nnos pères nous apprenaient à dompter les taureaux.\n\nNos mères nous ont élevés pour le pays natal, pour la terre de nos pères :\nau jour de l'épreuve, nous défendrons sans peur la patrie ;\nnous avons été élevés avec les aigles de la montagne, libres,\nnous avons surmonté les difficultés avec dignité.\n\nCe bloc de granit fondra d'un coup, comme du plomb,\nPlutôt que nous perdions au combat la dignité humaine ;\nLa terre se fendra d'un coup sous l'ardeur du soleil,\nPlutôt que nous tombions en terre, insensibles ;\nNous ne courberons jamais la tête devant personne,\nNous n'avons qu'une voie : la liberté ou la mort !\n\nNos sœurs cicatrisent nos blessures par leurs chants,\nNos bien-aimées nous enflamment à repartir au combat.\nSi la famine s'empare de nous, nous rongerons des racines d'arbres,\nSi la soif nous attaque, nous nous abreuverons de rosée,\nNous sommes nés la nuit où la louve mettait bas ses petits,\nNous servirons le Seigneur, notre peuple et notre pays natal."
     },
     "text_preview": {
+      "ce": "Буьйсанна борз ехкаш дуьненчу девлла тхо, / Ӏуьйранна лом угӀуш тхан цӀераш техкина.",
       "en": "We were born in the night when the she-wolf gave birth to her cubs, / at dawn, names were given to us, at the roar of the lion,",
       "fr": "Nous sommes nés dans la nuit où la louve mettait bas ses petits, / au matin, on nous donna des noms, au rugissement du lion,"
     },
@@ -7086,9 +7105,13 @@
       {
         "label": "Les Hommes sans épaules",
         "url": "https://www.leshommessansepaules.com/auteur-Anonyme_TCHETCHENE-240-1-1-0-1.html"
+      },
+      {
+        "label": "Орга — Нохчийн Республикан гимн",
+        "url": "https://orga.narod.ru/anthem/anthem.htm"
       }
     ],
-    "source": "«Nous sommes nés dans la nuit» — poème anonyme tchétchène, traduit du tchétchène par Bernard Outtier (revue Les Hommes sans épaule, dossier «Les poètes dans la guerre»); devenu hymne national en 1990",
+    "source": "«Nous sommes nés dans la nuit» — poème anonyme tchétchène, traduit du tchétchène par Bernard Outtier (revue Les Hommes sans épaule, dossier «Les poètes dans la guerre»); devenu hymne national en 1990 — Texte tchétchène : Орга, « Нохчийн Республикан гимн »",
     "date_added": "2026-08-29"
   },
   {
@@ -9908,6 +9931,1197 @@
       }
     ],
     "source": "Орга. «Нохчийн фольклор» — Чеченский фольклор (хӀоттийнарг Ш. А. Джамбеков), Грозный: «Книга», 1991. «Берийн фольклор», II. Дагардарш, № 14",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "geshaev-ya-syn-tvoy",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Я сын твой, милая Чечня…",
+      "en": "I Am Your Son, Dear Chechnya…",
+      "fr": "Je suis ton fils, chère Tchétchénie…"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "даймохк",
+      "нохчийчоь",
+      "безам"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Я сын твой, милая Чечня,\nТы всех дороже для меня.\nТы для меня - вторая мать,\nЯ жизнь готов тебе отдать.\n\nЯ сын твой, милая Чечня,\nВ сиянье завтрашнего дня\nТы хорошеешь на глазах,\nГоржусь тобою, как вайнах.\n\nЯ сын твой, милая Чечня,\nИ предков славная земля\nМне всех милее и родней,\nИ с каждым днем любовь сильней.\n\nЖиви веками, расцветай,\nВайнахский мой, кавказский край!\nЗемля моя, моя Чечня,\nТы всех дороже для меня.",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Я сын твой, милая Чечня, / Ты всех дороже для меня."
+    },
+    "external_links": [
+      {
+        "label": "Орга",
+        "url": "https://orga.narod.ru/geshaev/geshaev_1.htm#p27"
+      }
+    ],
+    "source": "Муса Гешаев. «Очередь за счастьем» (избранные стихи). Грозный: Чечено-Ингушское книжное издательство, 1989",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "geshaev-gorzhus-obychayami",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Горжусь обычаями предков…",
+      "en": "I Am Proud of My Forefathers’ Customs…",
+      "fr": "Je suis fier des coutumes de mes ancêtres…"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "даймохк",
+      "гӀиллакх",
+      "сагатдалар"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Горжусь обычаями предков,\nГоржусь, что край мой - дом гостям.\nЯ так бываю дома редко,\nНо рад всем маленьким вестям,\n\nКоторые с орлиной выси\nНесут мне письма-облака,\nЯ без Кавказа жизнь не мыслю,\nМне так земля моя близка.\n\nБрожу ли в поле в дождик летний,\nСижу на камне у берез, -\nМне край родной, как солнце, светит,\nТревожит памятью до слез.\n\nМой дивный край, мечты творенье,\nКорнями я пророс в тебе,\nЯ счастлив мигом повторенья,\nМоя судьба - в твоей судьбе!",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Горжусь обычаями предков, / Горжусь, что край мой - дом гостям."
+    },
+    "external_links": [
+      {
+        "label": "Орга",
+        "url": "https://orga.narod.ru/geshaev/geshaev_1.htm#p28"
+      }
+    ],
+    "source": "Муса Гешаев. «Очередь за счастьем» (избранные стихи). Грозный: Чечено-Ингушское книжное издательство, 1989",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "geshaev-pesn-o-krae-moem",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Песнь о крае моем",
+      "en": "Song of My Land",
+      "fr": "Chant de mon pays"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "даймохк",
+      "халкъ",
+      "дагалецамаш"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Петь о горных вершинах\nв краю, где живем.\nПеть, не льстя, не фальшивя,\nо народе своем.\n\nПеть о скорбном набате\nв сорок первом году\nи о каждом солдате,\nпобедившем беду.\n\nБелизна обелиска\nмне подскажет слова.\nВсе далекое близко,\nЕсли память жива.\n\nСердцем чувствую снова\nхолод мраморных плит...\nБудет искренним слово,\nесли совесть болит.\n\nЧто есть почести, слава\nв нашем мире большом?\nОправдать лишь бы право\nпеть о крае своем.",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Петь о горных вершинах / в краю, где живем."
+    },
+    "external_links": [
+      {
+        "label": "Орга",
+        "url": "https://orga.narod.ru/geshaev/geshaev_1.htm#p30"
+      }
+    ],
+    "source": "Муса Гешаев. «Очередь за счастьем» (избранные стихи). Грозный: Чечено-Ингушское книжное издательство, 1989",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "geshaev-i-kamni-znali",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "И камни знали то, что я не знал…",
+      "en": "Even the Stones Knew What I Did Not Know…",
+      "fr": "Les pierres mêmes savaient ce que j’ignorais…"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "лаьмнаш",
+      "философия",
+      "даймохк"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "И камни знали то, что я не знал,\nИ горы пели то, что я не пел,\nСрывались камни, уносясь со скал,\nМолчали горы, в думах постарев.\n\nСедые главы в снежной тишине,\nЯ преклоняюсь перед мудростью большой,\nЕще не все вы рассказали мне,\nНо я вас понял сердцем и душой.\n\nСпокойно с вами дышится, легко,\nИ красотой я вашей очарован.\nПусть я порой бываю далеко,\nНо я навеки сердцем к вам прикован.",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "И камни знали то, что я не знал, / И горы пели то, что я не пел,"
+    },
+    "external_links": [
+      {
+        "label": "Орга",
+        "url": "https://orga.narod.ru/geshaev/geshaev_1.htm#p35"
+      }
+    ],
+    "source": "Муса Гешаев. «Очередь за счастьем» (избранные стихи). Грозный: Чечено-Ингушское книжное издательство, 1989",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "geshaev-pesn-ob-ozere-kezenoy-am",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Песнь об озере Кезеной-Ам",
+      "en": "Song of Lake Kezenoy-Am",
+      "fr": "Chant du lac Kezenoï-Am"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "безам",
+      "къастар",
+      "Ӏалам"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "По преданию, Голубое озеро Чечено-Ингушетии образовалось из слез девушки, которая оплакивала разлуку с любимым\n\nИмена всех чудес вспоминать лишь начни...\nЧерт возьми! Вся Земля небывало красива.\nТолько все же у маленькой скромной Чечни\nесть свое небывалое, дивное диво.\n\nТак у озера волны его голубы,\nтак трагичен любой неприметный оттенок,\nчто почудится вдруг дуновенье судьбы,\nгде любовь превращается в мрачный застенок.\n\nОн влюблен был, любила до смерти она...\nАх, за что разлучили их в самом начале?\nИ от плача их рухнула камня стена.\nСлезы эти назвали заливом Печали.\n\nЭто слезы разлуки и слезы любви,\nИм так грустно и больно так в каменной чаше...\nШепчет озеро их голосами: лови\nнаши чувства, а значит, - бессмертие наше.\n\nЧерез тысячу лет, давней скорбью скорбя,\nя смотрю на тебя, так, как будто впервые...\nЯ впервые и вправду смотрю на тебя,\nи глаза у меня от любви голубые.",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "По преданию, Голубое озеро Чечено-Ингушетии образовалось из слез девушки, которая оплакивала разлуку с любимым / Имена всех чудес вспоминать лишь начни..."
+    },
+    "external_links": [
+      {
+        "label": "Орга",
+        "url": "https://orga.narod.ru/geshaev/geshaev_1.htm#p36"
+      }
+    ],
+    "source": "Муса Гешаев. «Очередь за счастьем» (избранные стихи). Грозный: Чечено-Ингушское книжное издательство, 1989",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "geshaev-chernye-dni",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Черные дни",
+      "en": "Black Days",
+      "fr": "Jours noirs"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "депортаци",
+      "истори",
+      "халкъ"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Многострадальному народу моему\n\nО черных днях поведали мне горы,\nЧернее повести для горцев в жизни нет,\nИ временем не вылечить той боли,\nС какой глядели горы горцам вслед.\nТо было все по страшному веленью,\nХоть приговор понять мы не могли,\nНас всех приказом выгнали с презреньем\nС родной вайнахской обжитой земли.\n\nИ как животных, в скотские вагоны\nГрузили в тот военный трудный год,\nЗа что наказаны в то время были горцы,\nВ чем провинился перед Родиной народ?\nВсе ужасы судьбы мы испытали,\nКосил нас голод смертною волной,\nМы Сталина в молитвах проклинали,\nНо он молитв не слышал ни одной.\n\nОн трон стерег с коварным безразличьем,\nПо трупам шел кровавою тропой,\nИ в ореоле грозного величья\nВознесся над запуганной толпой.\nМы для него лишь винтиками были\nМашины, что себе он изобрел,\nКакое время бед мы пережили\nВ разлуке от родных кавказских гор.\n\nОднажды с чемоданом друга встретил:\n- Ты что везешь? Успел богатым стать?\n- Останки матери я вырыл, - он ответил, -\nВезу на родину, чтоб их земле предать.\nНаш поезд возвращался на рассвете,\nВстречал встревоженно заждавшийся вокзал,\nСедой старик в поношенном бешмете,\nПрипав к перрону, землю целовал.",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Многострадальному народу моему / О черных днях поведали мне горы,"
+    },
+    "external_links": [
+      {
+        "label": "Орга",
+        "url": "https://orga.narod.ru/geshaev/geshaev_1.htm#p61"
+      }
+    ],
+    "source": "Муса Гешаев. «Очередь за счастьем» (избранные стихи). Грозный: Чечено-Ингушское книжное издательство, 1989. Посвящение: «Многострадальному народу моему»",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "geshaev-makhmudu",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Махмуду",
+      "en": "To Makhmud",
+      "fr": "À Makhmoud"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "хелхар",
+      "вайнах",
+      "сий"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Летящий, скользящий,\nпарящий, бегущий,\nтанцор настоящий,\nМахмуд всемогущий.\nЕдиные звенья -\nталант и труд.\nВновь гений на сцене,\nвеликий Махмуд.\nКрасивый, отважный,\nна все он готов.\nИ жест его каждый -\nпесня без слов.\nМы знаем, у сильных\nцели чисты.\nСын грации, символ\nсамой красоты.\nВсе ритмы планеты\nв концерте одном...\nВосторги, букеты -\nвсе это потом.\nЕго светлый облик\nу горцев в сердцах.\nГоржусь я, что он был\nрожден в горах.\nИ, горы оставив,\nостался он здесь\nМахмуд Эсамбаев\nбыл горцем и есть!\nЗа страстность - еще бы.\nОн воинам брат! -\nВсе страны Европы\nкричали: \"Виват!\"\nНа всех континентах,\nбывало, он мог\nи юный, и в летах\nвызвать восторг.\n...И медленно, вроде,\nуходят под кущи кулис\nгода в хороводе,\nно... он, извините, солист!\nВ таком человеке\nслились - и не зря, неспроста! -\nи горные реки,\nи снежных высот чистота.\nВершина таланта,\nвершит свой особенный труд.\nОн скажет: \"Да, ладно,\nЯ просто ваш верный Махмуд!\"\nНам есть чем гордиться,\nТак пусть, неожиданно, вдруг,\nЗа ним устремится\nтакой же неистовый внук.\n...Летящий, бегущий,\nпарящий, скользящий,\nМахмуд всемогущий,\nТанцор настоящий!",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Летящий, скользящий, / парящий, бегущий,"
+    },
+    "external_links": [
+      {
+        "label": "Орга",
+        "url": "https://orga.narod.ru/geshaev/geshaev_1.htm#p185"
+      }
+    ],
+    "source": "Муса Гешаев. «Очередь за счастьем» (избранные стихи). Грозный: Чечено-Ингушское книжное издательство, 1989. О танцовщике Махмуде Эсамбаеве",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "geshaev-emigratsiya",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Эмиграция",
+      "en": "Emigration",
+      "fr": "Émigration"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "даймохк",
+      "сагатдалар",
+      "бала"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Черные листья лежат прошлогодние,\nснова напомнили они мне о Родине...\nИ дождь сероглазый - как воспоминание...\nВ сердце - отчаянье и ожидание.\n\nАх, эмиграция, ах, эмиграция, -\nсмятая потной рукой ассигнация!\nКатишься вниз по заплеванной лестнице\nпрямо в объятия к этой прелестнице.\n\nДождь барабанит свинцово по памяти,\nПравильно все: заслужили, так падайте!\nКто же теперь мы, без роду, без племени?\nСтранные странники, пленники времени.\n\nСолнце пылает созревшей смородиной,\nно не такое оно, как над Родиной.\nАх, эмиграция, ах, эмиграция -\nты, без наркоза совсем, операция.\n\nАх, эмиграция, ах, эмиграция,\nТы для потерянных душ резервация.\nБоль сумасшедшая, боль нестерпимая...\nМилая Родина, только прости меня!",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Черные листья лежат прошлогодние, / снова напомнили они мне о Родине..."
+    },
+    "external_links": [
+      {
+        "label": "Орга",
+        "url": "https://orga.narod.ru/geshaev/geshaev_1.htm#p204"
+      }
+    ],
+    "source": "Муса Гешаев. «Очередь за счастьем» (избранные стихи). Грозный: Чечено-Ингушское книжное издательство, 1989",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "folk-ber-khostush-tuyra-tuyra-dakhana-bokhu",
+    "type": "poem",
+    "title": {
+      "ce": "Туьйра, туьйра дахана боху…",
+      "ru": "Сказка, сказка, говорят, ушла…",
+      "en": "A Tale, a Tale Went Off, They Say…",
+      "fr": "Un conte, un conte s’en est allé, dit-on…"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "берийн литература",
+      "бераш",
+      "халкъан"
+    ],
+    "text": {
+      "ce": "Туьйра, туьйра дахана боху,\nЛекхачу гаьн тӀе хиина боху,\nБӀаьргаш боцучунна гина боху,\nКуьйгаш доцучо лаьцна боху,\nКогаш боцучо эккхийна боху.\nБага йоцучо кхаьллина боху.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Туьйра, туьйра дахана боху, / Лекхачу гаьн тӀе хиина боху,"
+    },
+    "external_links": [
+      {
+        "label": "Орга. Нохчийн фольклор — Берийн фольклор",
+        "url": "https://orga.narod.ru/folklor/c141.htm#p155"
+      }
+    ],
+    "source": "Орга. «Нохчийн фольклор» — Чеченский фольклор (хӀоттийнарг Ш. А. Джамбеков), Грозный: «Книга», 1991. «Берийн фольклор», XXXI. Бер хьостуш олуш долу дешнаш, № 6",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "folk-khettarsh-zhoepash-tsitsig-mitsig",
+    "type": "poem",
+    "title": {
+      "ce": "Цициг-мициг, хьо мичахь дара?",
+      "ru": "Кошка-мошка, где ты была?",
+      "en": "Kitty-Mitty, Where Have You Been?",
+      "fr": "Minet-minou, où étais-tu ?"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "берийн литература",
+      "бераш",
+      "халкъан"
+    ],
+    "text": {
+      "ce": "Цициг-мициг,\nХьо мичахь дара?\n- Говраш Ӏамош дара.\n- Говраш мичахь ю?\n- ГӀопа чу йоьхкина.\n- ГӀап мичахь ю?\n- ЦӀаро ягийна.\n- ЦӀе мичахь ю?\n- Хино яйина.\n- Хи мичахь ду?\n- СтаргӀанаша дӀамелла.\n- СтаргӀанаш мичахь ю?\n- Лома тӀехьа яхана.\n- Лам мичахь бу?\n- НӀаьнаша бохийна.\n- НӀаьний мичахь ду?\n- Бедаша диъна.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Цициг-мициг, / Хьо мичахь дара?"
+    },
+    "external_links": [
+      {
+        "label": "Орга. Нохчийн фольклор — Берийн фольклор",
+        "url": "https://orga.narod.ru/folklor/c141.htm"
+      }
+    ],
+    "source": "Орга. «Нохчийн фольклор» — Чеченский фольклор (хӀоттийнарг Ш. А. Джамбеков), Грозный: «Книга», 1991. «Берийн фольклор», XXXIII. Берийн ловзаршца догӀуш хилла хеттарш-жоьпаш, № 2",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "bisultanov-guyre",
+    "type": "poem",
+    "title": {
+      "ce": "Гуьйре",
+      "ru": "Осень",
+      "en": "Autumn",
+      "fr": "L’automne"
+    },
+    "author": "Апти Бисултанов",
+    "author_years": "1959–",
+    "year_written": null,
+    "tags": [
+      "гуьйре",
+      "къастар",
+      "лирика"
+    ],
+    "text": {
+      "ce": "ГӀаргӀулеш дӀаоьху, делхадеш вайн вовшех къастар,\nБезаман мажделла гӀа оьгу шийлачу кийра.\nКхин цхьа а хӀума дац ойлане сан бӀаьргаш хьаста,\nКъанло со, къежло со, доттагӀа, ишттачу дийнахь.\n\nОйлане тӀейогӀу кху нохчийн ярташкахь гуьйре,\nГергара, генара ладоьгӀу, сатуьйсу зама.\nДолало хьаннашца можачу гӀайгӀанийн туьйра,\nДеза хьан къаьхьачу собарца садетта Ӏама.\n\nМила ву догъэцан, хьо теван ишттачу хенахь,\nДахаро къастийна доттагӀа уллохь ца хилча.\nАренан назманаш, аш ойла хьоьстур ю хьенан,\nХиллачун, хиндолчун дозанехь цхьалха цхьаъ висча.\n\nАналлех чекхъюьйлуш, дӀатекха гӀаргӀулийн аса,\nХетало дуьне а, цуьнга ладоьгӀначохь, тийна.\nДӀаоьху, делхадеш, кхайкхадеш вайн вовшех къастар.\nКъанло со, къежло со, доттагӀа, ишттачу дийнахь.",
+      "ru": null,
+      "en": null,
+      "fr": "L’envol des grues dans le ciel déplore notre séparation,\nLes feuilles jaunies de l’amour tombent sur mon cœur glacé.\nRien ne peut réconforter mes yeux égarés,\nJe vieillis, je blanchis mon amie en cette situation.\n\nL’automne mélancolique tombe sur les villages tchétchènes,\nC’est l’époque attendue, espérée, proche et lointaine.\nSur les forêts les contes tristes de l’automne passent,\nL’attente de la patience amère il faut que tu ressasses.\n\nQui peut te consoler, t’apaiser, en ces circonstances,\nSi de l’ami choisi par la vie à ton côté tu sens l’absence ?\nMélopées champêtres, de qui cajolerez-vous les pensées,\nQuand on demeure seul entre l’avenir et le passé ?\n\nA l’horizon les vols de grues lentement s’éloignent,\nIl semble que la terre elle-même, les écoutant, se calme.\nElles passent, déplorent et clament notre séparation,\nJe vieillis, je blanchis mon amie en cette situation."
+    },
+    "text_preview": {
+      "ce": "ГӀаргӀулеш дӀаоьху, делхадеш вайн вовшех къастар, / Безаман мажделла гӀа оьгу шийлачу кийра.",
+      "fr": "L’envol des grues dans le ciel déplore notre séparation, / Les feuilles jaunies de l’amour tombent sur mon cœur glacé."
+    },
+    "external_links": [
+      {
+        "label": "Waynakh Online — Gouyre – L’automne",
+        "url": "http://www.waynakh.com/fr/2014/04/25/gouyre-l-automne-xhouseyn-betelgereev/"
+      }
+    ],
+    "source": "Waynakh Online — « Gouyre – L’automne – Xhouseyn Betelgereev ». Дешнаш: Апти Бисултанов; дӀааьлларг: Хусейн Бетельгериев. Traduction française : Kissa Gatsaeva",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "geshaev-milaya-chechnya",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Милая Чечня",
+      "en": "Dear Chechnya",
+      "fr": "Chère Tchétchénie"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "даймохк",
+      "нохчийчоь",
+      "безам"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Хочу тебя обнять,\nЛюбовью осеня.\nЯ - сын твой, ты мне - мать,\nМилая Чечня.\n\nОгни твои манят\nС конца земли меня,\nМой дом, цветущий сад,\nМилая Чечня.\n\nОрлы над головой\nИ громкий стук коня...\nГде б ни был - ты со мной,\nМилая Чечня.\n\nЯ сердце опалил\nУ твоего огня.\nУдач тебе и сил,\nМилая Чечня.",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Хочу тебя обнять, / Любовью осеня."
+    },
+    "external_links": [
+      {
+        "label": "Орга",
+        "url": "https://orga.narod.ru/geshaev/geshaev_2.htm#p109"
+      }
+    ],
+    "source": "Муса Гешаев. «Ожерелье желаний» (избранные стихи). Москва, 1996",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "geshaev-ya-nenavizhu-slukhi-lozh",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Я ненавижу слухи, ложь…",
+      "en": "I Hate Rumours and Lies…",
+      "fr": "Je hais les rumeurs, le mensonge…"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "оьздангалла",
+      "гӀиллакх",
+      "даймохк"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Я ненавижу слухи, ложь,\nЧто ранят, как острейший нож,\nЯ ненавижу грязь и фальшь -\nВо все века был чист край наш.\n\nЯ ненавижу кровь и месть,\nНа мне лежит вайнахов честь,\nБоюсь всегда я лживых слов,\nВ краю моем живет любовь.\n\nЯ ненавижу злой раздор,\nКлянусь грядою вечных гор,\nОбычай предков не умрет -\nГостеприимен мой народ.\n\nКлянусь и небом и огнем,\nКлянусь и хлебом и вином\nЧто отчий дом - земной мой рай,\nПрекрасней нет тебя, мой край!",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Я ненавижу слухи, ложь, / Что ранят, как острейший нож,"
+    },
+    "external_links": [
+      {
+        "label": "Орга",
+        "url": "https://orga.narod.ru/geshaev/geshaev_2.htm#p148"
+      }
+    ],
+    "source": "Муса Гешаев. «Ожерелье желаний» (избранные стихи). Москва, 1996",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "geshaev-kogda-plachet-zemlya",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Когда плачет земля",
+      "en": "When the Earth Weeps",
+      "fr": "Quand la terre pleure"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "депортаци",
+      "даймохк",
+      "истори"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Вайнахи! Боль свою мы не забудем -\nОна в сердцах навеки проросла.\nЛюбовь к Отчизне Предков не остудим\nОна нас всех в нелегкий час спасла...\n\nНас гнали на машины и в бараки,\nВокруг качались острые штыки.\nКоровы, овцы, лошади, собаки\nКричали вслед от горя и тоски.\n\nНа оскорбленья мы не отвечали.\nКатились слезы горькою рекой,\nКогда больных своих мы оставляли -\nНам запрещали брать больных с собой.\n\nИ, поднимая небосвод хрустальный,\nПривычно травы под ноги стеля,\nГлядела вслед тревожно и печально\nМоя осиротевшая земля...\n\nЗапомним эти страшные мгновенья,\nКогда от горя таял даже снег,\nВедь тысячи невинно убиенных\nНам не простят отныне и вовек!\n\nНемногие обратно возвратились,\nВ чужой земле оставшись навсегда,\nА их сердца с такой надеждой бились -\nЧто не убьют ни ссылка, ни года!..\n\nДень возвращенья был - как озаренье,\nПередо мной стоит он до сих пор:\nСедые горцы, вставши на колени,\nЦелуют вековые камни гор.\n\nИ прятали растерянные лица\nВраги их, низко голову клоня...\nПозволь тебе мне тихо поклониться,\nЗемля моя, любимая Чечня!",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Вайнахи! Боль свою мы не забудем - / Она в сердцах навеки проросла."
+    },
+    "external_links": [
+      {
+        "label": "Орга",
+        "url": "https://orga.narod.ru/geshaev/geshaev_2.htm#p149"
+      }
+    ],
+    "source": "Муса Гешаев. «Ожерелье желаний» (избранные стихи). Москва, 1996",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "geshaev-rodnik",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Родник",
+      "en": "The Spring",
+      "fr": "La source"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "шовда",
+      "лирика",
+      "философия"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Я жажду утолил тобой,\nХрустальным холодом согрелся,\nТвоею отражен водой,\nЯ пристально в себя вгляделся.\n\nТы не был зеркалом кривым,\nЛьстецом подобострастным не был,\nТы был трепещущим, живым,\nМоим земным, доступным небом.\n\nСкатилась капля по щеке\nЛучистой маленькой звездою,\nВ моей опущенной руке\nТы бился рыбкой золотою.\n\nКак будто я поймал мечту\nИ с первой свиделся любовью...\nТвою простую красоту\nЯ навсегда возьму с собою.\n\nТы все отдал мне, что скопил,\nИ я, к твоей склоняясь глуби,\nИ чашу прошлого испил,\nИ будущего чуть пригубил.",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Я жажду утолил тобой, / Хрустальным холодом согрелся,"
+    },
+    "external_links": [
+      {
+        "label": "Орга",
+        "url": "https://orga.narod.ru/geshaev/geshaev_2.htm#p241"
+      }
+    ],
+    "source": "Муса Гешаев. «Ожерелье желаний» (избранные стихи). Москва, 1996",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "geshaev-rechka-detstva",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Речка детства",
+      "en": "The Little River of Childhood",
+      "fr": "La petite rivière de l’enfance"
+    },
+    "author": "Муса Гешаев",
+    "author_years": "1940–2014",
+    "year_written": null,
+    "tags": [
+      "бералла",
+      "дагалецамаш",
+      "лирика"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Было это в детстве\nНа краю села.\nРечка по соседству\nДобрая текла.\nЛасковая песня, -\nТихая вода, -\nЖизнь такой чудесной\nВиделась тогда!..\n\nУлыбнись мне, речка, улыбнись,\nГолубой овечкой притворись,\nКлючевой водою напои,\nНичего плохого не таи!\nПомечтать хочу я, помечтать,\nКак бы мне мальчишкой снова стать\nИ шептаться тихо сам с собой\nНад твоею гладью голубой!..\n\nТы сама немало\nПомнишь лучше всех:\nКак нас целовала\nПод счастливый смех,\nКак звала с откоса\nПрыгнуть в сумрак свой,\nИ смывала слезы\nТеплою волной...\n\nВсех нас ветром сдуло\nИз родных краев.\nНа виски плеснулось\nСеребро твое.\nВ памяти навечно,\nВ сердце - навсегда:\nТоненькая речка,\nДетские года...",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Было это в детстве / На краю села."
+    },
+    "external_links": [
+      {
+        "label": "Орга",
+        "url": "https://orga.narod.ru/geshaev/geshaev_2.htm#p242"
+      }
+    ],
+    "source": "Муса Гешаев. «Ожерелье желаний» (избранные стихи). Москва, 1996",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "zaytemirov-1a",
+    "type": "poem",
+    "title": {
+      "ce": "Ӏа",
+      "ru": "Зима",
+      "en": "Winter",
+      "fr": "L’hiver"
+    },
+    "author": "Зайтемиров Сайдик",
+    "author_years": null,
+    "year_written": null,
+    "tags": [
+      "Ӏа",
+      "Ӏалам",
+      "лирика"
+    ],
+    "text": {
+      "ce": "Арахь хьокху\nШийла мох,\nМохо локху\nШийла шок.\n\nШийла денош,\nШийла Ӏа.\nАрахь Ӏуьллуш\nШера ша.\n\nОьгӀаз оьху\nДера Ӏа,\nЛаьтта оьгу\nЛайн чимаш.\n\nКӀайчу лайца\nБилли куз.\nКуз тӀехь угӀу\nДера борз.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Арахь хьокху / Шийла мох,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/zaytemirov-saidik/1458-1a"
+      }
+    ],
+    "source": "Нохчалла.com",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "akhmatova-ya-zhdu-tebya",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Я жду тебя, ты только позови",
+      "en": "I Am Waiting for You, Just Call Me",
+      "fr": "Je t’attends, appelle-moi seulement"
+    },
+    "author": "Раиса Ахматова",
+    "author_years": "1928–1992",
+    "year_written": null,
+    "tags": [
+      "безам",
+      "лирика",
+      "сатийсам"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Затих аул, под буркою косматой.\nБезмолвных гор опять мне странен вид.\nКакая тишь. В окно пахнуло мятой.\nЯ жду тебя. Ты только позови.\n\nТы знак подай - пройду по перевалам,\nЗвездой прольюсь под грохотом лавин.\nТуман тропу укроет покрывалом,\nНо я пройду. Ты только позови.\n\nПусть бьет гроза, палит полдневный ветер\nИз горших мук восстану для любви\nТы верь\nТы жди\nТы просто будь на свете.\nИ я приду. Ты только позови.",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Затих аул, под буркою косматой. / Безмолвных гор опять мне странен вид."
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/raisa-ahmatova/1210-ya-jdu-tebya"
+      }
+    ],
+    "source": "Раиса Ахматова. «Я жду тебя, ты только позови» — русский текст по сайту Нохчалла.com (переводчик не указан)",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "akhmatova-vse-v-zhizni",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Все в жизни мне давалось нелегко",
+      "en": "Nothing in Life Came Easily to Me",
+      "fr": "Rien dans la vie ne m’a été donné facilement"
+    },
+    "author": "Раиса Ахматова",
+    "author_years": "1928–1992",
+    "year_written": null,
+    "tags": [
+      "дахар",
+      "ойла",
+      "лирика"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Все в жизни мне давалось нелегко,\nНо я всегда трудом брала преграды,\nИ в косы пережитое легло\nСединками, как высшею наградой.\n\nЯ много плакала. Мне слабость не чужда.\nЯ человек, он плачет и смеется.\nНо я боролась с бурями всегда\nИ сквозь туманы шла навстречу солнцу.\n\nЯ огорченьям счета не вела.\nЯ падала и поднималась снова.\nЯ просто не запоминаю зла\nИ крепко помню дружеское слово.",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Все в жизни мне давалось нелегко, / Но я всегда трудом брала преграды,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/raisa-ahmatova/368-%d0%b2%d1%81%d0%b5-%d0%b2-%d0%b6%d0%b8%d0%b7%d0%bd%d0%b8-%d0%bc%d0%bd%d0%b5-%d0%b4%d0%b0%d0%b2%d0%b0%d0%bb%d0%be%d1%81%d1%8c-%d0%bd%d0%b5%d0%bb%d0%b5%d0%b3%d0%ba%d0%be"
+      }
+    ],
+    "source": "Раиса Ахматова. «Все в жизни мне давалось нелегко» — русский текст по сайту Нохчалла.com (переводчик не указан)",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "akhmatova-nebo-sbrosilo-zvezdnuyu-shal",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Небо сбросило звездную шаль",
+      "en": "The Sky Has Cast Off Its Starry Shawl",
+      "fr": "Le ciel a jeté son châle d’étoiles"
+    },
+    "author": "Раиса Ахматова",
+    "author_years": "1928–1992",
+    "year_written": null,
+    "tags": [
+      "даймохк",
+      "нохчийчоь",
+      "лирика"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Небо сбросило звездную шаль,\nГордых маков зарделись огни…\nЯ тебе подарю — мне не жаль! —\nКрасоту недотроги Чечни.\n\nПодарю полевые цветы —\nВсе в предутренних капельках рос,\nЧтобы дальнему северу ты\nИх, как наше дыханье, принес.\n\nТерек наш, как вино, пригуби,\nВ русле он, как в ковше, — через край,\nПолюби ты его, полюби,\nСловно чистый и сильный мой край.\n\nСкалы, сакли… Я выросла тут\nИ мечты обретала свои.\nНаши горы тебе принесут\nСотни тысяч легенд о любви.\n\nВот цветы открывают глаза,\nПьют большими глотками зарю…\nЛучших песен моих голоса\nНа прощанье тебе подарю.",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Небо сбросило звездную шаль, / Гордых маков зарделись огни…"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/raisa-ahmatova/365-%d0%bd%d0%b5%d0%b1%d0%be-%d1%81%d0%b1%d1%80%d0%be%d1%81%d0%b8%d0%bb%d0%be-%d0%b7%d0%b2%d0%b5%d0%b7%d0%b4%d0%bd%d1%83%d1%8e-%d1%88%d0%b0%d0%bb%d1%8c"
+      }
+    ],
+    "source": "Раиса Ахматова. «Небо сбросило звездную шаль» — русский текст по сайту Нохчалла.com (переводчик не указан)",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "akhmatova-ya-segodnya-sovsem-ne-spala",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Я сегодня совсем не спала…",
+      "en": "I Did Not Sleep at All Tonight…",
+      "fr": "Je n’ai pas dormi du tout cette nuit…"
+    },
+    "author": "Раиса Ахматова",
+    "author_years": "1928–1992",
+    "year_written": null,
+    "tags": [
+      "бералла",
+      "дагалецамаш",
+      "лирика"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Я сегодня совсем не спала…\n\nПамять, память, веди меня в детство,\nГде аул примостился у гор,\nГде тревожное детское сердце\nВ тесной сакле живет до сих пор!\n\nДетство! Как я тебя обижала:\nНе ценила ни слез, ни затей…\nТропкой дней от тебя убежала\nВ мир серьезных и взрослых людей.\n\nДни поспешнее стали, короче.\nЯ не знала, не знала тогда,\nЧто бывают бессонные ночи\nИ что сердце болит иногда.\n\nЗа окошком огни вереницей,\nВсе тропинки зима замела,\nИ слеза обжигает ресницы…\nЯ сегодня совсем не спала…",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Я сегодня совсем не спала… / Память, память, веди меня в детство,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/raisa-ahmatova/363-%d1%8f-%d1%81%d0%b5%d0%b3%d0%be%d0%b4%d0%bd%d1%8f-%d1%81%d0%be%d0%b2%d1%81%d0%b5%d0%bc-%d0%bd%d0%b5-%d1%81%d0%bf%d0%b0%d0%bb%d0%b0"
+      }
+    ],
+    "source": "Раиса Ахматова. «Я сегодня совсем не спала…» — русский текст по сайту Нохчалла.com (переводчик не указан)",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "akhmatova-idu-k-tebe-dorogoy-gornoy",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Иду к тебе дорогой горной",
+      "en": "I Come to You by a Mountain Road",
+      "fr": "Je viens à toi par un chemin de montagne"
+    },
+    "author": "Раиса Ахматова",
+    "author_years": "1928–1992",
+    "year_written": null,
+    "tags": [
+      "безам",
+      "лирика",
+      "некъ"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Иду к тебе дорогой горной,\nВ ладони — яркая звезда,\nЯ свет ее, простой и гордый,\nСквозь мрак несу тебе всегда.\n\nА если будет холод лютый,\nЯ солнцем над тобой зажгусь,\nА загрустишь — я стану утром,\nЧтобы, как ночь, исчезла грусть.\n\nВ пути бывают ураганы.\nНо если хлынет долгий дождь,\nЯ радугой весенней стану,\nИ ты под радугой пройдешь.\n\nЗахочешь пить — водой прозрачной\nЯ пробегу среди камней,\nТебя оставят силы, — значит,\nЯ стану силою твоей.\n\nИду к тебе всесильной лаской,\nОткрыв ветрам лицо и грудь,\nЯ без тревоги, без опаски\nС тобою разделю твой путь.",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Иду к тебе дорогой горной, / В ладони — яркая звезда,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/raisa-ahmatova/364-%d0%b8%d0%b4%d1%83-%d0%ba-%d1%82%d0%b5%d0%b1%d0%b5-%d0%b4%d0%be%d1%80%d0%be%d0%b3%d0%be%d0%b9-%d0%b3%d0%be%d1%80%d0%bd%d0%be%d0%b9"
+      }
+    ],
+    "source": "Раиса Ахматова. «Иду к тебе дорогой горной» — русский текст по сайту Нохчалла.com (переводчик не указан)",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "akhmatova-otkrovenie",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Откровение",
+      "en": "Revelation",
+      "fr": "Révélation"
+    },
+    "author": "Раиса Ахматова",
+    "author_years": "1928–1992",
+    "year_written": null,
+    "tags": [
+      "безам",
+      "лирика",
+      "ойла"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Нет, я перед любовью не лгала,\nНе прятала ее от глаз недобрых.\nКак совесть, неподкупна и светла,\nОна вставала из глубин бездонных.\n\nДа, мне досталась дорого она,\nТрудна и высока ее безбрежность…\nИ если я с тобою так нежна,\nТы знай — она мне даровала нежность,\n\nЯ и горда, и мужественна с ней.\nОна меня всегда оберегала,\nИ под защитою любви своей\nЯ — словно речка между берегами.",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Нет, я перед любовью не лгала, / Не прятала ее от глаз недобрых."
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/raisa-ahmatova/366-%d0%be%d1%82%d0%ba%d1%80%d0%be%d0%b2%d0%b5%d0%bd%d0%b8%d0%b5"
+      }
+    ],
+    "source": "Раиса Ахматова. «Откровение» — русский текст по сайту Нохчалла.com (переводчик не указан)",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "akhmatova-vstaval-rassvet",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Вставал рассвет",
+      "en": "Dawn Was Rising",
+      "fr": "L’aube se levait"
+    },
+    "author": "Раиса Ахматова",
+    "author_years": "1928–1992",
+    "year_written": null,
+    "tags": [
+      "безам",
+      "лирика",
+      "Ӏуьйре"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "Вставал рассвет, медлительный и древний,\nБыла земля, как наш огромный дом.\nНас охраняли сонные деревья.\nС тобой рассвет встречали мы вдвоем.\n\nВ моих глазах твои глаза синеют,\nТвоя улыбка — на моих губах…\nЯ стала вдруг слабее и сильнее,\nИ счастье ощутила я, и страх.\n\nЯ оттого кажусь сейчас девчонкой,\nЧто отогрелась на твоей груди.\nИ мы с тобой идем тропинкой тонкой,\nИ звезды догорают впереди.",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "Вставал рассвет, медлительный и древний, / Была земля, как наш огромный дом."
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/raisa-ahmatova/367-%d0%b2%d1%81%d1%82%d0%b0%d0%b2%d0%b0%d0%bb-%d1%80%d0%b0%d1%81%d1%81%d0%b2%d0%b5%d1%82"
+      }
+    ],
+    "source": "Раиса Ахматова. «Вставал рассвет» — русский текст по сайту Нохчалла.com (переводчик не указан)",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "akhmatova-kiparis",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Кипарис",
+      "en": "The Cypress",
+      "fr": "Le cyprès"
+    },
+    "author": "Раиса Ахматова",
+    "author_years": "1928–1992",
+    "year_written": null,
+    "tags": [
+      "даймохк",
+      "Ӏалам",
+      "лирика"
+    ],
+    "text": {
+      "ce": null,
+      "ru": "В земле весенней — красоты начало.\nХоть величав и строен кипарис,\nНо я люблю чеченскую чинару,\nС которой мы бок о бок родились.\n\nКак строен кипарис и скрыто страстен.\nНет, описать его я не смогу!\nСтоит он, словно восхищенный странник,\nНад морем, на высоком берегу.\n\nЯ признаю тебя! Но мне нужнее\nЧинара возле сакли. С первых дней\nПривыкла я во всем делиться с нею:\nОна нежнее, и она родней.",
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ru": "В земле весенней — красоты начало. / Хоть величав и строен кипарис,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/raisa-ahmatova/369-%d0%ba%d0%b8%d0%bf%d0%b0%d1%80%d0%b8%d1%81"
+      }
+    ],
+    "source": "Раиса Ахматова. «Кипарис» — русский текст по сайту Нохчалла.com (переводчик не указан)",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "ahmatukaev-khachalush-yu",
+    "type": "poem",
+    "title": {
+      "ce": "Кхачалуш ю",
+      "ru": "Угасаешь",
+      "en": "You Are Fading Away",
+      "fr": "Tu t’éteins"
+    },
+    "author": "Адам Ахматукаев",
+    "author_years": null,
+    "year_written": null,
+    "tags": [
+      "нана",
+      "кӀант",
+      "сингаттам"
+    ],
+    "text": {
+      "ce": "Еха йоьлхуш, къила яхча санна,\nЙочана хьан тхов тӀебожо хьаьхна.\nНехан бер – хьан цхьалла екъа – цӀарна\nБуьйса яккха догӀур дара, дехча.\n\nЛадарх юьзна, тӀехъоьхур ю пхьегӀа,\nСагӀин кад а хьуна чукховдор бу.\nАмма гӀайгӀа, кху тхов кӀелахь ехарг,\nЦу хьан кийрахь дӀахьулъелла къорра.\n\nМаржа, хьуо а, цуьнан лорах яхна,\nКхачалуш ю, кӀожам санна, хиэбаш…\nХарц дуьненах Ӏехавелла, вахна\nКӀант а хир ву-кх цхьанхьа, аьхна лелаш.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Еха йоьлхуш, къила яхча санна, / Йочана хьан тхов тӀебожо хьаьхна."
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/adam-ahmatukaev/841-khachalush-u"
+      }
+    ],
+    "source": "Нохчалла.com",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "ahmatukaev-hina-huna",
+    "type": "poem",
+    "title": {
+      "ce": "Хиъна хьуна",
+      "ru": "Тебе стало ясно",
+      "en": "You Have Come to Understand",
+      "fr": "Tu as compris"
+    },
+    "author": "Адам Ахматукаев",
+    "author_years": null,
+    "year_written": null,
+    "tags": [
+      "доьзал",
+      "бераш",
+      "ойла"
+    ],
+    "text": {
+      "ce": "ЧӀегӀардигийн каде хьийзар денна\n«Чудерзаре» кхаьчна дели эххар.\nАьзнех хьалабуьзи церан бен а,\nБеро санна, хьан тхов-кӀело бехъеш.\n\nАхь хьайн бӀаьрг ца боккху царна тӀера,\nӀехо гӀерташ ворхӀе дех а дахнарг:\nЗама хиллий хиъна хьуна, беро\nДаий-малий бен ца доьхуш, яхнарг.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "ЧӀегӀардигийн каде хьийзар денна / «Чудерзаре» кхаьчна дели эххар."
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/adam-ahmatukaev/840-hina-huna"
+      }
+    ],
+    "source": "Нохчалла.com",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "ahmatukaev-ala-du-san",
+    "type": "poem",
+    "title": {
+      "ce": "Ала ду сан",
+      "ru": "Мне есть что сказать",
+      "en": "I Have Something to Say",
+      "fr": "J’ai quelque chose à dire"
+    },
+    "author": "Адам Ахматукаев",
+    "author_years": null,
+    "year_written": null,
+    "tags": [
+      "нохчий",
+      "мотт",
+      "даймохк"
+    ],
+    "text": {
+      "ce": "ЧӀагӀо юй хьан? – аьлла,\nШеконе хьо ваьлча,\nАла са а хьоьгуш,\nАла ду сан хьоьга:\n\nДуьне теш а хӀоттош,\nДаредан сан чот ю –\nСан дӀагайта мохк бу,\nСан дӀабийца мотт бу.\n\nВорхӀе да а – нохчий,\nНенан цӀа а – нохчийн.\nСан дӀабийца бух бу,\nСте а нохчийн хӀух ю.\n\nНохчийн цӀарах дийца\nДала суна цӀийца\nСхьакхачийна мукъ бу –\nИ сан сийлахь дукъ ду.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "ЧӀагӀо юй хьан? – аьлла, / Шеконе хьо ваьлча,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/adam-ahmatukaev/839-ala-du-san"
+      }
+    ],
+    "source": "Нохчалла.com",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "ahmatukaev-tskhalla",
+    "type": "poem",
+    "title": {
+      "ce": "Цхьалла",
+      "ru": "Одиночество",
+      "en": "Loneliness",
+      "fr": "Solitude"
+    },
+    "author": "Адам Ахматукаев",
+    "author_years": null,
+    "year_written": null,
+    "tags": [
+      "дахар",
+      "сингаттам",
+      "ойла"
+    ],
+    "text": {
+      "ce": "Дош а лелла даьлла хӀинца хьан,\nХьалха санна, дегӀ а дац каде хьан.\nКогаш тӀаьхьатекхош, меллаша\nХьо дӀашерша, Ӏасанна тӀетеӀаш.\n\nХьоьца дуьне диъна нийсарой\nХӀинца хьуна юххе хьийзаш бац-кха.\nУьш къизачу кхелой, кхолламой\nКъастийна я баьхна хьуна нацкъар.\n\nКху дуьненах чекхваьллехь а хьо,\nДала бина бехаза къинхетам,\nХьан берел а тӀаьхьа кхиъна чкъор\nХьан хенара дац хьан дагах кхета.\n\nХьуна генахула лела уьш,\nХьо тӀевеъча, юху церан пхьоьха.\nАмма дац и хьо дукха а луьйш-м, –\nКъамел хаза лаар ду ахь лоьхург.\n\nАмма яра зама а хьан кхин:\nСинкъерамаш сахуьланга буьйлуш,\nЛовзаршкахь а каде хьийзош дин,\nМехкарий а – хьо гӀенаш чу вуьйлуш.\n\nВорхӀ юьртахь а хьаша вара хьо,\nКъонахашлахь – тхьамдалла хаош а.\nКӀарглуш генадаьлла хийла дов\nДоьрзуш дара, юккъе деъча дош хьан…\n\nДерриге а тӀаьхьадиси и,\nБисна боцуш цхьа а дагахьбаллам.\nМостагӀ хилла, дуьхьалдели кхин –\nШийла, къора, гӀора доцу цхьалла.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Дош а лелла даьлла хӀинца хьан, / Хьалха санна, дегӀ а дац каде хьан."
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/adam-ahmatukaev/838-challa"
+      }
+    ],
+    "source": "Нохчалла.com",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "ahmatukaev-vayn-ghillakh",
+    "type": "poem",
+    "title": {
+      "ce": "Вайн гӀиллакх",
+      "ru": "Наш этикет",
+      "en": "Our Etiquette",
+      "fr": "Notre étiquette"
+    },
+    "author": "Адам Ахматукаев",
+    "author_years": null,
+    "year_written": null,
+    "tags": [
+      "гӀиллакх",
+      "мотт",
+      "оьздангалла"
+    ],
+    "text": {
+      "ce": "Кхузахь-м, хьаха, ненан мотт а буьйцу.\nБуьйцу, хьаха, дуй къера ца хиллал-м.\nСийлахьниг а маьттаздоккхуш дуьйцуш,\nГан а, лан а вайна доьгӀна хилла.\n\nКхузахь леларг кхин гӀиллакх ма деца,\nАьрха долуш хьан хотӀана Ӏама:\nДастамйоккхуш йоккху ворхӀе ден цӀе,\nХьарам юьйцу ворхӀе а хьан нана.\n\nЦу гӀиллакхна къен ма буй хьан мотт а,\nОцу меттан охӀла хьо велахь а.\nАмма сих ма ло юьхьӀаьржахӀотта,\nЭхь-бехкана цо мел Ӏаткъам бахь а.\n\nЦул а, церан цӀокала а валий, –\nХиларх и хьайн бехкамашна хьарам, –\nХьайн са дассош юьхьӀаьржонан балех,\nОьгӀазалла яккхахьа цкъа ара.\n\nНагахь хьайна реза воцург валахь,\nБага юззий дов дӀахьеде цуьнга.\nХьан маттера даьлла цхьа а гӀалат\nТуьдур долуш яц-кха цуьнан «туьнталг».\n\nАмма хӀума дац ахь цуьнан къахьдан,\nАхь а цӀанде са юьхьӀаьржахӀоттарх.\nВайна цунах Ӏаткъамаш хилахь а,\nИ доцург а лаза ду вайн шортта.\n\nКъоман дуьхьа и лазамийн шорто\nДекъалъян вай дина сийлахь ниййат\nКъобалдина, вайна юххе хӀотта\nВогӀучуьнца лелор ду вай гӀиллакх.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Кхузахь-м, хьаха, ненан мотт а буьйцу. / Буьйцу, хьаха, дуй къера ца хиллал-м."
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/adam-ahmatukaev/837-vayn-g1illakh"
+      }
+    ],
+    "source": "Нохчалла.com",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "ahmatukaev-yilbaziyn-bo",
+    "type": "poem",
+    "title": {
+      "ce": "Йилбазийн бӀо",
+      "ru": "Дьявольская рать",
+      "en": "The Devils’ Host",
+      "fr": "L’armée des démons"
+    },
+    "author": "Адам Ахматукаев",
+    "author_years": null,
+    "year_written": null,
+    "tags": [
+      "философия",
+      "ойла",
+      "гӀиллакх"
+    ],
+    "text": {
+      "ce": "ГӀиллакхийн хоршара къаьхкина,\nНахала бевлла цхьа бехкамаш\nЭвхьаза суна тӀе керча.\nЦара, ца кхеташ сан кхетамах,\nШеца, цхьа деккъа догъэтӀар бен,\nЛарйоцу некъ бо сан кертахь.\n\nГӀовгӀанаш уьду цу некъаца.\nЦаьрга ладоьгӀуш, са деха сан,\nЧенан дохк йижаре хьаьгна.\nБӀарлагӀех сибат ца хӀотталуш,\nБӀаьрса а – гӀиртина, хӀоьттина –\nГӀеллуш ду, ченаша аьгна.\n\nЦуьнан къа дахна хир къила сан –\nЛерса ду хьалхачул ира сан,\nТӀех лайна гӀовгӀанийн гӀовгӀа.\nЦара цхьа кхайкхамаш кхайкхабо:\nДоттагӀех тешаме айкхаш бо,\nВежарех – дуй биъна довхой.\n\nМостагӀца гӀиллакхаш леладеш,\nКъуца а гӀиллакхаш леладеш,\nЙилбазийн бӀо бу те стамлуш?\nЦа лууш царех дӀатарвала,\nНиййат деш со-сайх а ларвала,\nХалбата хаа са кӀамлуш,\n\nАс, оцу гӀиллакхех къаьхкина,\nБух-кӀорга каш сайна аьхкича,\nСуо оцу буха дӀатилча,\nТӀаккха а хоьттур ду беламе:\n«Дахар, хьан бакъ мичахь лела те,\nДууш дерг харц дуьне хилча?»",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "ГӀиллакхийн хоршара къаьхкина, / Нахала бевлла цхьа бехкамаш"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/adam-ahmatukaev/834-yilbapiyn-b1o"
+      }
+    ],
+    "source": "Нохчалла.com",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "ahmatukaev-yukha-a-denlur-vu",
+    "type": "poem",
+    "title": {
+      "ce": "Юха а денлур ву",
+      "ru": "Снова оживёшь",
+      "en": "You Will Come to Life Again",
+      "fr": "Tu renaîtras encore"
+    },
+    "author": "Адам Ахматукаев",
+    "author_years": null,
+    "year_written": null,
+    "tags": [
+      "сатира",
+      "философия",
+      "дахар"
+    ],
+    "text": {
+      "ce": "Кисанахь ловзучу шайнаша\nКхетамна ваьккхича гена хьуо,\nӀехалуш самахчу гӀенашна,\nХьовзор бу ахь керла хенагуо.\n\n«Нийсачу» нахерчу бустамехь\nДухар а далийна лартӀе, ахь\nХьайн берийн хенара нускалан\nЦхьа тайпа доккхур ду цӀартӀе а.\n\nКхаъ белла, балха дӀахӀоьттина,\nБолар а, къамел а тодина,\nЛелар ву, кепа чу воьттина,\nХьаналчу дегнашна муо бина.\n\nДозанал ара а баьккхина,\nЦӀеношна пеннал бух буттур бу,\nХьийзош хьайн куьйга кӀел баьхкинарш,\nХьаькамна муьтӀахь чухӀуттур ву.\n\nЦунна тӀе ламазаш дерзадеш, –\nЦул деза ца гойтуш хӀумма а, –\nЦу Ӏамалх дахаран терза деш,\nДуьтур ду дуьненан суннаташ.\n\nЦу «декъалхиларо» хьаьсттинчохь\nДахаро хьо юьстахкхоьссича,\nЮха а денлур ву – хӀумма а\nЙоцучу хӀуманийн умматехь.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Кисанахь ловзучу шайнаша / Кхетамна ваьккхича гена хьуо,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/adam-ahmatukaev/833-uha-a-denlur-vu"
+      }
+    ],
+    "source": "Нохчалла.com",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "ahmatukaev-yukh-yu-san-nana",
+    "type": "poem",
+    "title": {
+      "ce": "Юьхь ю сан, нана",
+      "ru": "Я могу смотреть тебе в глаза, мама",
+      "en": "I Can Look You in the Face, Mother",
+      "fr": "Je peux te regarder en face, mère"
+    },
+    "author": "Адам Ахматукаев",
+    "author_years": null,
+    "year_written": null,
+    "tags": [
+      "нана",
+      "да",
+      "доьзал"
+    ],
+    "text": {
+      "ce": "Ахьчул доггах хьехам бала\nЦхьа а варий, дада?\nАхьчул мерза кхача бан а\nЦхьа а ярий, нана?\n\nКӀентийн ойла-м, тӀемаш айба\nХьаьгна, хьийза арахь.\nШун хебаршка йижна гӀайгӀа\nАйкх ма юьйлу царна.\n\nМолла кхойкхуш, ламазна а\nУьш дӀагулло бертахь,\nӀийдан де а, хьаша санна,\nЛору хӀора кертахь.\n\nАмма ненан гӀийла кхийлам\nБицло, цунна херлуш.\nНенехула дас хьахийна\nДерг а дуьсу эрна.\n\nДовш ду техьа, доьзал аьхна\nАганара буссуш,\nЛуцаш санна, къайлах даьхна\nИрсан декъах дустарш?\n\nДуьхьалхӀотта хьуний, дений\nЮьхь яра-кх сан, нана.\nСох цӀе хоьттинчу тӀаьхьено\nХӀун лелор те кхана?",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Ахьчул доггах хьехам бала / Цхьа а варий, дада?"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/adam-ahmatukaev/830-uh-u-san-nana"
+      }
+    ],
+    "source": "Нохчалла.com",
+    "date_added": "2026-11-11"
+  },
+  {
+    "id": "ahmatukaev-d1akhachalush-du-de-a",
+    "type": "poem",
+    "title": {
+      "ce": "ДӀакхачалуш ду де а…",
+      "ru": "И день подходит к концу…",
+      "en": "The Day, Too, Is Drawing to a Close…",
+      "fr": "Le jour aussi touche à sa fin…"
+    },
+    "author": "Адам Ахматукаев",
+    "author_years": null,
+    "year_written": null,
+    "tags": [
+      "доттагӀалла",
+      "Ӏожалла",
+      "ойла"
+    ],
+    "text": {
+      "ce": "ДӀакхачалуш ду де а, малхехь даьгна,\nДӀо регӀа Ӏенош Ӏожах богу бос.\nДӀаюхуш йолчу пхьоьхано, вайх хьаьгна,\nВайн уьйр-марзонаш доьзалшна чухьо.\n\nТкъа вай-м юха а хӀокху пхьоьханера\nДӀагуллур ду вайх цхьаннан хӀусаме.\nИ гӀиллакх цӀера ду вайн жималлера –\nДӀаса ца довлар, пхьуьйре екъна бен.\n\nТкъа кхана-м, вайна малх а гӀийла гӀоттуш,\nДӀахедар беца пхьоьхане цхьа некъ:\nЮрт шена тӀаьхьайоьлху тезет хӀоттош,\nВайх цхьамма бийр бу тховса тешнабехк.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "ДӀакхачалуш ду де а, малхехь даьгна, / ДӀо регӀа Ӏенош Ӏожах богу бос."
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/adam-ahmatukaev/829-d1akhachalush"
+      }
+    ],
+    "source": "Нохчалла.com",
     "date_added": "2026-11-11"
   }
 ]

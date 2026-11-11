@@ -56,6 +56,7 @@ const AUTHOR_NAMES = {
   'Шаид Рашидов': { en: 'Shaid Rashidov', fr: 'Chaid Rachidov' },
   'Шайхи Арсанукаев': { en: 'Shaikhi Arsanukayev', fr: 'Chaikhi Arsanoukayev' },
   'Шарип Цуруев': { en: 'Sharip Tsuruyev', fr: 'Charip Tsourouyev' },
+  'Ӏабдул-Хьамид Хатуев': { en: 'Abdul-Khamid Khatuyev', fr: 'Abdoul-Khamid Khatouev' },
 };
 
 const LATIN_LANGUAGES = ['en', 'fr'];
