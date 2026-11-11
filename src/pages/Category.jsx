@@ -1,22 +1,24 @@
-import { useMemo } from 'react';
+import { useEffect, useMemo } from 'react';
 import { useParams } from 'react-router-dom';
 import { useTranslation } from '@/hooks/useTranslation';
 import { useSearch } from '@/hooks/useSearch';
+import { usePagination } from '@/hooks/usePagination';
 import { getAllTags } from '@/utils/searchUtils';
+import { buildPageTitle, setPageTitle } from '@/utils/pageMeta';
 import SearchBar from '@/components/features/SearchBar';
-import PoemCard from '@/components/features/PoemCard';
+import CatalogGrid from '@/components/features/CatalogGrid';
 import { catalogWorks } from '@/data/catalog';
+import NotFound from './NotFound';
 import './Category.css';
+
+const VALID_TYPES = ['poem', 'song', 'prose'];
 
 export default function Category() {
   const { type } = useParams(); // 'poem', 'song', 'prose'
   const { t } = useTranslation();
 
   // Pre-filter catalog data by type. useSearch applies content-language filtering.
-  const categoryWorks = useMemo(
-    () => catalogWorks.filter((w) => w.type === type),
-    [type]
-  );
+  const categoryWorks = useMemo(() => catalogWorks.filter((w) => w.type === type), [type]);
 
   const {
     query,
@@ -34,6 +36,24 @@ export default function Category() {
 
   // Map type to translation key
   const titleKey = type === 'poem' ? 'nav_poems' : type === 'song' ? 'nav_songs' : 'nav_prose';
+
+  const paginationKey = JSON.stringify({
+    type,
+    query,
+    tags: filters.tags,
+    sortBy,
+    contentLanguage,
+  });
+  const { visibleCount, showMore } = usePagination(paginationKey);
+  const visibleResults = results.slice(0, visibleCount);
+
+  useEffect(() => {
+    setPageTitle(buildPageTitle([t(titleKey)], t('site_title')));
+  }, [t, titleKey]);
+
+  if (!VALID_TYPES.includes(type)) {
+    return <NotFound />;
+  }
 
   return (
     <div className="category">
@@ -60,19 +80,13 @@ export default function Category() {
       </section>
 
       <section className="category__results">
-        {results.length > 0 ? (
-          <div className="category__grid">
-            {results.map((work) => (
-              <PoemCard
-                key={work.id}
-                work={work}
-                contentLanguage={contentLanguage}
-              />
-            ))}
-          </div>
-        ) : (
-          <p className="category__no-results">{t('search_no_results')}</p>
-        )}
+        <CatalogGrid
+          results={results}
+          visibleResults={visibleResults}
+          visibleCount={visibleCount}
+          showMore={showMore}
+          contentLanguage={contentLanguage}
+        />
       </section>
     </div>
   );

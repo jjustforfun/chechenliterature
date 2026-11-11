@@ -40,11 +40,13 @@ const AUTHOR_NAMES = {
   'Муса Гешаев': { en: 'Musa Geshayev', fr: 'Moussa Gechayev' },
   'Насруди Ярычев': { en: 'Nasrudi Yarychev', fr: 'Nasrudi Yarytchev' },
   'Раиса Ахматова': { en: 'Raisa Akhmatova', fr: 'Raissa Akhmatova' },
+  'Рамазан Берзлоев': { en: 'Ramazan Berzloev', fr: 'Ramazan Berzloev' },
+  'Саид-Хамзат Нунуев': { en: 'Said-Khamzat Nunuev', fr: 'Said-Khamzat Nounouev' },
   'Саид-Хасан Ойбуев': { en: 'Said-Khasan Oybuyev', fr: 'Said-Khassan Oybouyev' },
   'Умар Яричев': { en: 'Umar Yarychev', fr: 'Oumar Yarytchev' },
   'Фариза Цалдаева': { en: 'Fariza Tsaldayeva', fr: 'Fariza Tsaldayeva' },
   'Хава Ясмалина': { en: 'Khava Yasmalina', fr: 'Khava Yasmalina' },
-  'Халкъан': { en: 'Khalqan', fr: 'Khalqan' },
+  Халкъан: { en: 'Khalqan', fr: 'Khalqan' },
   'Хамзат Магомадов': { en: 'Khamzat Magomadov', fr: 'Khamzat Magomadov' },
   'Хасаин Идрисов': { en: 'Khasain Idrisov', fr: 'Khassain Idrisov' },
   'Шаид Рашидов': { en: 'Shaid Rashidov', fr: 'Chaid Rachidov' },
@@ -62,27 +64,81 @@ const CYRILLIC_VOWELS = 'аеёиоуыэюяАЕЁИОУЫЭЮЯ';
  * AUTHOR_NAMES. `'ə'` marks a letter that should be dropped.
  */
 const EN_RULES = {
-  а: 'a', б: 'b', в: 'v', г: 'g', д: 'd', е: 'e', ё: 'yo', ж: 'zh',
-  з: 'z', и: 'i', й: 'y', к: 'k', л: 'l', м: 'm', н: 'n', о: 'o',
-  п: 'p', р: 'r', с: 's', т: 't', у: 'u', ф: 'f', х: 'kh', ц: 'ts',
-  ч: 'ch', ш: 'sh', щ: 'shch', ъ: 'ə', ы: 'y', ь: 'ə', э: 'e',
-  ю: 'yu', я: 'ya', 'Ӏ': '’',
+  а: 'a',
+  б: 'b',
+  в: 'v',
+  г: 'g',
+  д: 'd',
+  е: 'e',
+  ё: 'yo',
+  ж: 'zh',
+  з: 'z',
+  и: 'i',
+  й: 'y',
+  к: 'k',
+  л: 'l',
+  м: 'm',
+  н: 'n',
+  о: 'o',
+  п: 'p',
+  р: 'r',
+  с: 's',
+  т: 't',
+  у: 'u',
+  ф: 'f',
+  х: 'kh',
+  ц: 'ts',
+  ч: 'ch',
+  ш: 'sh',
+  щ: 'shch',
+  ъ: 'ə',
+  ы: 'y',
+  ь: 'ə',
+  э: 'e',
+  ю: 'yu',
+  я: 'ya',
+  Ӏ: '’',
 };
 
 const FR_RULES = {
-  а: 'a', б: 'b', в: 'v', г: 'g', д: 'd', е: 'e', ё: 'yo', ж: 'j',
-  з: 'z', и: 'i', й: 'y', к: 'k', л: 'l', м: 'm', н: 'n', о: 'o',
-  п: 'p', р: 'r', с: 's', т: 't', у: 'ou', ф: 'f', х: 'kh', ц: 'ts',
-  ч: 'tch', ш: 'ch', щ: 'chtch', ъ: 'ə', ы: 'y', ь: 'ə', э: 'e',
-  ю: 'you', я: 'ya', 'Ӏ': '’',
+  а: 'a',
+  б: 'b',
+  в: 'v',
+  г: 'g',
+  д: 'd',
+  е: 'e',
+  ё: 'yo',
+  ж: 'j',
+  з: 'z',
+  и: 'i',
+  й: 'y',
+  к: 'k',
+  л: 'l',
+  м: 'm',
+  н: 'n',
+  о: 'o',
+  п: 'p',
+  р: 'r',
+  с: 's',
+  т: 't',
+  у: 'ou',
+  ф: 'f',
+  х: 'kh',
+  ц: 'ts',
+  ч: 'tch',
+  ш: 'ch',
+  щ: 'chtch',
+  ъ: 'ə',
+  ы: 'y',
+  ь: 'ə',
+  э: 'e',
+  ю: 'you',
+  я: 'ya',
+  Ӏ: '’',
 };
 
 function getRules(language) {
   return language === 'fr' ? FR_RULES : EN_RULES;
-}
-
-function isLatinLetter(char) {
-  return /[A-Za-z]/.test(char);
 }
 
 /**
@@ -119,12 +175,7 @@ function transliterate(author, language) {
     // In English, "е" after a vowel is pronounced as a "y" glide
     // ("Гешаев" → "Geshayev", "Докаев" → "Dokayev").
     let mapped = rule;
-    if (
-      language === 'en' &&
-      char === 'е' &&
-      previous &&
-      CYRILLIC_VOWELS.includes(previous)
-    ) {
+    if (language === 'en' && char === 'е' && previous && CYRILLIC_VOWELS.includes(previous)) {
       mapped = 'ye';
     }
 

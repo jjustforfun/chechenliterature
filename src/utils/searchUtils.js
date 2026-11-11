@@ -44,6 +44,18 @@ export function filterByContentLanguage(works, language) {
 }
 
 /**
+ * Default content-language for a catalog view: the interface language when
+ * it covers at least `minShare` of the works, otherwise 'all' (multilingual
+ * view with per-card language badges). A poor-coverage language as default
+ * would make the catalog look almost empty.
+ */
+export function getDefaultContentLanguage(works, language, minShare = 0.5) {
+  if (!works?.length) return language;
+  const covered = works.filter((work) => hasContentInLanguage(work, language)).length;
+  return covered / works.length >= minShare ? language : 'all';
+}
+
+/**
  * Filters works by type (poem, song, prose).
  * Returns all works if typeFilter is null or 'all'.
  */
@@ -58,9 +70,7 @@ export function filterByType(works, typeFilter) {
  */
 export function filterByTags(works, selectedTags) {
   if (!selectedTags || selectedTags.length === 0) return works;
-  return works.filter((w) =>
-    w.tags?.some((tag) => selectedTags.includes(tag))
-  );
+  return works.filter((w) => w.tags?.some((tag) => selectedTags.includes(tag)));
 }
 
 /**
@@ -107,28 +117,21 @@ export function sortWorks(works, sortBy, lang = 'ce') {
       });
     }
     case 'date':
-      return sorted.sort(
-        (a, b) => new Date(b.date_added || 0) - new Date(a.date_added || 0)
-      );
+      return sorted.sort((a, b) => new Date(b.date_added || 0) - new Date(a.date_added || 0));
     default:
       return sorted;
   }
 }
 
 /**
- * Extracts all unique tags from a list of works.
- * The order is shuffled so the tag cloud shows a different order on every page load.
+ * Extracts all unique tags from a list of works, sorted alphabetically.
+ * The order is stable across page loads (no shuffle) so the tag cloud
+ * is predictable for users and tests.
  */
 export function getAllTags(works) {
   const tagSet = new Set();
   works.forEach((w) => w.tags?.forEach((tag) => tagSet.add(tag)));
-  const tags = Array.from(tagSet);
-  // Fisher–Yates shuffle
-  for (let i = tags.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [tags[i], tags[j]] = [tags[j], tags[i]];
-  }
-  return tags;
+  return Array.from(tagSet).sort((a, b) => a.localeCompare(b));
 }
 
 /**

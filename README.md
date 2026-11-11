@@ -27,6 +27,19 @@ npm run build
 npm run preview
 ```
 
+## Contrôles qualité (P1)
+
+```bash
+npm run validate-data   # cohérence index.json ↔ poems/songs/prose.json
+npm run lint            # ESLint (JS/JSX + scripts)
+npm run format:check    # Prettier (check) / npm run format (write)
+npm run test            # Vitest (30 tests : utils + intégrité données)
+npm run check           # validate-data + lint + test
+```
+
+La CI GitHub Actions (`.github/workflows/ci.yml`) lance `validate-data`,
+`lint`, `test` et `build` à chaque push sur `main` et chaque PR.
+
 ## Как добавить новое произведение
 
 1. Откройте файл `src/data/poems.json` (или `songs.json` / `prose.json`)
@@ -49,18 +62,18 @@ npm run preview
 }
 ```
 
-3. Добавьте краткую запись в `src/data/index.json`:
+3. Régénérez le catalogue léger (source unique = fichiers full) puis validez :
 
-```json
-{
-  "id": "unique-slug",
-  "type": "poem",
-  "title": { "ce": "Цlе", "ru": "Название", "en": null, "fr": null },
-  "author": "Имя автора",
-  "tags": ["тег1", "тег2"],
-  "text_preview": { "ce": "Первые 2 строки..." }
-}
+```bash
+npm run generate-index
+npm run validate-data
 ```
+
+> `src/data/index.json` n'est plus édité à la main : il est généré depuis
+> `poems.json` / `songs.json` / `prose.json` (ordre existant conservé, nouvelles
+> œuvres ajoutées à la fin). `npm run build` lance aussi `validate-data`.
+> Les entrées d'index sans texte plein sont archivées dans
+> `src/data/pending-restore.json` en attente de restauration.
 
 ## Author name transliteration (EN / FR)
 
@@ -69,10 +82,10 @@ canonical spelling of the archive. When the interface language is English or
 French, the UI renders them in Latin script so they can be read and
 pronounced:
 
-| Чеченский (data) | English  | Français     |
-|---|---|---|
-| Муса Гешаев     | Musa Geshayev | Moussa Gechayev |
-| Раиса Ахматова   | Raisa Akhmatova | Raissa Akhmatova |
+| Чеченский (data) | English             | Français             |
+| ---------------- | ------------------- | -------------------- |
+| Муса Гешаев      | Musa Geshayev       | Moussa Gechayev      |
+| Раиса Ахматова   | Raisa Akhmatova     | Raissa Akhmatova     |
 | Шайхи Арсанукаев | Shaikhi Arsanukayev | Chaikhi Arsanoukayev |
 
 The reviewed transcriptions live in `src/utils/authorName.js`
@@ -106,6 +119,34 @@ English or French (`author_en` / `author_fr` derived in `src/data/catalog.js`).
 1. В `vite.config.js` установите `base: '/repository-name/'`
 2. Запустите `npm run build`
 3. Содержимое папки `dist/` задеплойте на GitHub Pages
+
+## Sitemap et SEO
+
+- Chaque page définit son `document.title` (`src/utils/pageMeta.js`) : œuvre —
+  auteur — site, section — site, 404 — site.
+- `public/robots.txt` est committé (pensez à y mettre l'URL absolue du
+  sitemap une fois le domaine connu).
+- `public/sitemap.xml` est **généré** (git-ignoré), jamais committé :
+
+```bash
+npm run generate-sitemap -- --site-url=https://votre-domaine.com
+```
+
+Relancez-le avant chaque déploiement important (nouvelles œuvres = nouvelles
+URLs : `/`, `/category/*`, `/author/*`, `/poem|song|prose/:id`).
+
+## Pages et fonctionnalités (P3)
+
+- **Page auteur** `/author/:slug` (slug = nom cyrillique encodé) : toutes les
+  œuvres d'un auteur, avec recherche et pagination. Liée depuis le nom
+  d'auteur de chaque page d'œuvre.
+- **Partage** sur chaque œuvre : Web Share API sur mobile, copie du lien dans
+  le presse-papiers sur desktop.
+- **Liens externes** : liste classique sur chaque page d'œuvre (le lecteur
+  vidéo YouTube a été retiré — sujet clos, voir historique git). Les URLs
+  `placeholder` restent rejetées par `npm run validate-data`.
+- **Impression** : `@media print` dans `globals.css` (texte seul, sans
+  navigation ni widgets).
 
 ## Лицензия
 
