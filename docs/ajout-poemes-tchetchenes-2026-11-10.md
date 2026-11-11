@@ -2,6 +2,18 @@
 
 > Date d'ajout : 2026-11-10 · Branche `arena/0ae6ff1b-chechenliterature`
 
+> **Note de fusion (2026-11-11).** Ce lot a été préparé sur un fork en retard sur `main`
+> (base du 2026-08-30) : les chiffres et les résultats d'audit ci-dessous décrivent l'état
+> du fork à cette date. Une fois le lot fusionné dans `main` :
+>
+> - `poems.json` : 264 → **283** ; catalogue : 297 → **316** œuvres (`catalog.test.js`) ;
+> - `index.json` est régénéré par `npm run generate-index` (19 fiches ajoutées en fin
+>   d'index, avec `available_languages`) et n'est plus édité à la main ;
+> - `src/data/backups/2026-11-10-palotchka/` n'est **pas conservé** dans le dépôt (comme les
+>   autres sauvegardes depuis `9f05332`). Il contenait l'état du fork avant le lot
+>   (identique au commit `6163314`), pas celui de `main` : la commande `cp` de rollback
+>   citée plus bas ne s'applique donc plus. Pour annuler le lot : `git revert`.
+
 Ajout de **19 poèmes originaux en tchétchène (`ce`)**, de **7 poètes tchétchènes**
 (dont **5 absents de la base jusqu'ici**), avec fiches correspondantes dans
 `src/data/index.json`.
