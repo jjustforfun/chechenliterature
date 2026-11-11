@@ -3447,6 +3447,7 @@
     "id": "ahmatukaev-toska",
     "type": "poem",
     "title": {
+      "ce": "ЦӀазамаш мерза ду Даймехкан арахь…",
       "ru": "Тоску по родине…"
     },
     "author": "Адам Ахматукаев",
@@ -3456,9 +3457,11 @@
       "дахар"
     ],
     "text_preview": {
+      "ce": "ЦӀазамаш мерза ду Даймехкан арахь, / Ахь дууш долчеран – бос бу.",
       "ru": "Тоску по родине едва ли исцелит / Заманчивых плодов заморских вид."
     },
     "available_languages": [
+      "ce",
       "ru"
     ]
   },
@@ -4435,7 +4438,7 @@
     "id": "anonyme-nes-dans-la-nuit",
     "type": "poem",
     "title": {
-      "ce": null,
+      "ce": "Буьйсанна борз ехкаш дуьненчу девлла тхо…",
       "ru": null,
       "en": "We Were Born in the Night",
       "fr": "Nous sommes nés dans la nuit"
@@ -4447,10 +4450,12 @@
       "турпалалла"
     ],
     "text_preview": {
+      "ce": "Буьйсанна борз ехкаш дуьненчу девлла тхо, / Ӏуьйранна лом угӀуш тхан цӀераш техкина.",
       "en": "We were born in the night when the she-wolf gave birth to her cubs, / at dawn, names were given to us, at the roar of the lion,",
       "fr": "Nous sommes nés dans la nuit où la louve mettait bas ses petits, / au matin, on nous donna des noms, au rugissement du lion,"
     },
     "available_languages": [
+      "ce",
       "en",
       "fr"
     ]
@@ -4600,7 +4605,7 @@
       "ce": "ӀиндагӀаш",
       "ru": "Тени",
       "en": "Shadows",
-      "fr": "Ombres"
+      "fr": "Les ombres"
     },
     "author": "Апти Бисултанов",
     "tags": [
@@ -4609,10 +4614,12 @@
       "сингаттам"
     ],
     "text_preview": {
-      "ce": "ӀиндагӀаш - царна а ма деза вовшийн, / Бесачу, даима шийлачу царна,"
+      "ce": "ӀиндагӀаш - царна а ма деза вовшийн, / Бесачу, даима шийлачу царна,",
+      "fr": "Les ombres – elles aussi connaissent l’attachement, / Toujours transparentes et froides pourtant."
     },
     "available_languages": [
-      "ce"
+      "ce",
+      "fr"
     ]
   },
   {
@@ -4622,7 +4629,7 @@
       "ce": "Ас хьан чӀабанех гӀайгӀа юцур ю...",
       "ru": "Я заплету заботу в твои косы…",
       "en": "I Will Braid My Care into Your Tresses…",
-      "fr": "Je tresserai mon souci dans tes nattes…"
+      "fr": "Je tisserai mes peines…"
     },
     "author": "Апти Бисултанов",
     "tags": [
@@ -4631,10 +4638,14 @@
       "лирика"
     ],
     "text_preview": {
-      "ce": "Ас хьан чӀабанех гӀайгӀа юцур ю, / КӀайчу говрана туьйра дуьйцур ду,"
+      "ce": "Ас хьан чӀабанех гӀайгӀа юцур ю, / КӀайчу говрана туьйра дуьйцур ду,",
+      "ru": "Я из кос твоих длинных печаль свою нежно сплету. / И о белом коне сказку тихо тебе расскажу.",
+      "fr": "Je tisserai mes peines avec tes cheveux tressés, / Au cheval blanc mon histoire je conterai,"
     },
     "available_languages": [
-      "ce"
+      "ce",
+      "ru",
+      "fr"
     ]
   },
   {
@@ -7623,6 +7634,1022 @@
     ],
     "text_preview": {
       "ce": "Гур хилла боьгӀна, тӀе дум а биллина. Цунна ша улло а дижина дуьме а хьоьжуш, Ӏаш хилла цхьогал, ша цунна тӀекхевдича, схьалоцур ду-кх ша бохуш."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "geshaev-ya-syn-tvoy",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Я сын твой, милая Чечня…",
+      "en": "I Am Your Son, Dear Chechnya…",
+      "fr": "Je suis ton fils, chère Tchétchénie…"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "даймохк",
+      "нохчийчоь",
+      "безам"
+    ],
+    "text_preview": {
+      "ru": "Я сын твой, милая Чечня, / Ты всех дороже для меня."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-gorzhus-obychayami",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Горжусь обычаями предков…",
+      "en": "I Am Proud of My Forefathers’ Customs…",
+      "fr": "Je suis fier des coutumes de mes ancêtres…"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "даймохк",
+      "гӀиллакх",
+      "сагатдалар"
+    ],
+    "text_preview": {
+      "ru": "Горжусь обычаями предков, / Горжусь, что край мой - дом гостям."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-pesn-o-krae-moem",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Песнь о крае моем",
+      "en": "Song of My Land",
+      "fr": "Chant de mon pays"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "даймохк",
+      "халкъ",
+      "дагалецамаш"
+    ],
+    "text_preview": {
+      "ru": "Петь о горных вершинах / в краю, где живем."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-i-kamni-znali",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "И камни знали то, что я не знал…",
+      "en": "Even the Stones Knew What I Did Not Know…",
+      "fr": "Les pierres mêmes savaient ce que j’ignorais…"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "лаьмнаш",
+      "философия",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ru": "И камни знали то, что я не знал, / И горы пели то, что я не пел,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-pesn-ob-ozere-kezenoy-am",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Песнь об озере Кезеной-Ам",
+      "en": "Song of Lake Kezenoy-Am",
+      "fr": "Chant du lac Kezenoï-Am"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "безам",
+      "къастар",
+      "Ӏалам"
+    ],
+    "text_preview": {
+      "ru": "По преданию, Голубое озеро Чечено-Ингушетии образовалось из слез девушки, которая оплакивала разлуку с любимым / Имена всех чудес вспоминать лишь начни..."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-chernye-dni",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Черные дни",
+      "en": "Black Days",
+      "fr": "Jours noirs"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "депортаци",
+      "истори",
+      "халкъ"
+    ],
+    "text_preview": {
+      "ru": "Многострадальному народу моему / О черных днях поведали мне горы,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-makhmudu",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Махмуду",
+      "en": "To Makhmud",
+      "fr": "À Makhmoud"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "хелхар",
+      "вайнах",
+      "сий"
+    ],
+    "text_preview": {
+      "ru": "Летящий, скользящий, / парящий, бегущий,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "folk-ber-khostush-tuyra-tuyra-dakhana-bokhu",
+    "type": "poem",
+    "title": {
+      "ce": "Туьйра, туьйра дахана боху…",
+      "ru": "Сказка, сказка, говорят, ушла…",
+      "en": "A Tale, a Tale Went Off, They Say…",
+      "fr": "Un conte, un conte s’en est allé, dit-on…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "берийн литература",
+      "бераш",
+      "халкъан"
+    ],
+    "text_preview": {
+      "ce": "Туьйра, туьйра дахана боху, / Лекхачу гаьн тӀе хиина боху,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khettarsh-zhoepash-tsitsig-mitsig",
+    "type": "poem",
+    "title": {
+      "ce": "Цициг-мициг, хьо мичахь дара?",
+      "ru": "Кошка-мошка, где ты была?",
+      "en": "Kitty-Mitty, Where Have You Been?",
+      "fr": "Minet-minou, où étais-tu ?"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "берийн литература",
+      "бераш",
+      "халкъан"
+    ],
+    "text_preview": {
+      "ce": "Цициг-мициг, / Хьо мичахь дара?"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "bisultanov-guyre",
+    "type": "poem",
+    "title": {
+      "ce": "Гуьйре",
+      "ru": "Осень",
+      "en": "Autumn",
+      "fr": "L’automne"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "гуьйре",
+      "къастар",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "ГӀаргӀулеш дӀаоьху, делхадеш вайн вовшех къастар, / Безаман мажделла гӀа оьгу шийлачу кийра.",
+      "fr": "L’envol des grues dans le ciel déplore notre séparation, / Les feuilles jaunies de l’amour tombent sur mon cœur glacé."
+    },
+    "available_languages": [
+      "ce",
+      "fr"
+    ]
+  },
+  {
+    "id": "folk-aganan-eshar-duyshush-ghoza-diysharash",
+    "type": "song",
+    "title": {
+      "ce": "Дуьйшуш, гӀоза дийшараш…",
+      "ru": "Засыпая, спите в радости…",
+      "en": "Sleep in Joy as You Fall Asleep…",
+      "fr": "En vous endormant, dormez dans la joie…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература"
+    ],
+    "text_preview": {
+      "ce": "Дуьйшуш, гӀоза дийшараш, / ГӀоттуш, гӀоза гӀовттараш,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-aganan-eshar-ma-khaza-yu-buysa",
+    "type": "song",
+    "title": {
+      "ce": "Ма хаза ю буьйса…",
+      "ru": "Как прекрасна ночь…",
+      "en": "How Lovely Is the Night…",
+      "fr": "Qu’elle est belle, la nuit…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература"
+    ],
+    "text_preview": {
+      "ce": "Ма хаза ю буьйса, / Мела мох хьоькхуш,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-aganan-eshar-khaza-yina-mamas",
+    "type": "song",
+    "title": {
+      "ce": "Хаза йина мамас…",
+      "ru": "Красивой родила мама…",
+      "en": "Mama Bore Her Beautiful…",
+      "fr": "Maman l’a faite belle…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература"
+    ],
+    "text_preview": {
+      "ce": "Хаза йина мамас, / Шена йина мамас,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-berijn-eshar-tskhogalan-yish",
+    "type": "song",
+    "title": {
+      "ce": "Цхьогалан йиш",
+      "ru": "Песня лисы",
+      "en": "The Fox’s Song",
+      "fr": "La chanson du renard"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература"
+    ],
+    "text_preview": {
+      "ce": "- Долахьа, цхьогал, / Долахьа, цхьогал,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-berijn-eshar-so-voedura-voedura",
+    "type": "song",
+    "title": {
+      "ce": "Со воьдура, воьдура…",
+      "ru": "Шёл я, шёл…",
+      "en": "I Was Walking, Walking…",
+      "fr": "J’allais, j’allais…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература"
+    ],
+    "text_preview": {
+      "ce": "Со воьдура, воьдура, / Хьаьжан цӀа воьдура,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-kinkhegaman-eshar-kuyra-kuyra-erzalakh",
+    "type": "song",
+    "title": {
+      "ce": "Куьйра, куьйра, ерзалахь…",
+      "ru": "Песня при сбивании масла",
+      "en": "Butter-Churning Song",
+      "fr": "Chant du barattage"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Куьйра, куьйра, ерзалахь, / Сихха, куьйра, ерзалахь,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-kinkhegaman-eshar-mangal-ira-tur-khiliy",
+    "type": "song",
+    "title": {
+      "ce": "Мангал, ира тур хилий…",
+      "ru": "Коса, стань острым мечом…",
+      "en": "Scythe, Be a Sharp Sword…",
+      "fr": "Faux, sois une épée tranchante…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Мангал, ира тур хилий, / Бецаш сиха цесталахь."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "khatuev-nokhchiycho",
+    "type": "song",
+    "title": {
+      "ce": "Нохчийчоь",
+      "ru": "Чечня",
+      "en": "Chechnya",
+      "fr": "Ma Tchétchénie…"
+    },
+    "author": "Ӏабдул-Хьамид Хатуев",
+    "tags": [
+      "илли",
+      "нохчийчоь",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "Вайн дегнех кхерсташ ю алу, / Вайн ирсан дайина доь,",
+      "fr": "Nos cœurs dévorés par le feu, / La trace perdue des jours heureux."
+    },
+    "available_languages": [
+      "ce",
+      "fr"
+    ]
+  },
+  {
+    "id": "folk-tqa-so-mukha-kant-kheta-shuna",
+    "type": "prose",
+    "title": {
+      "ce": "Ткъа со муха кӀант хета шуна?",
+      "ru": "А я вам каким молодцем кажусь?",
+      "en": "And What Kind of Lad Do I Seem to You?",
+      "fr": "Et moi, quel gaillard vous parais-je ?"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "халкъан",
+      "дийцар",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Веъна хьаша новкъа хилла, и дӀавахийта дов даьккхина боху, хӀусамдассий, хӀусамнанассий."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-den-veset",
+    "type": "prose",
+    "title": {
+      "ce": "Ден весет",
+      "ru": "Завещание отца",
+      "en": "The Father’s Testament",
+      "fr": "Le testament du père"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "халкъан",
+      "дийцар",
+      "хьехам"
+    ],
+    "text_preview": {
+      "ce": "Дикка хан-зама хьалха вехаш-Ӏаш хилла цхьа дай, кӀанттий. Дас ша леш весет дина хилла кӀанте:"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-niysa-khel",
+    "type": "prose",
+    "title": {
+      "ce": "Нийса кхел",
+      "ru": "Справедливый суд",
+      "en": "A Fair Judgment",
+      "fr": "Un jugement juste"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "халкъан",
+      "дийцар",
+      "хьехам"
+    ],
+    "text_preview": {
+      "ce": "Цхьана къечу мискачу стеган ахча чохь долу жима тӀоьрмиг лачкъийна хилла."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khekale-khusamnana",
+    "type": "prose",
+    "title": {
+      "ce": "Хьекъале хӀусамнана",
+      "ru": "Умная хозяйка",
+      "en": "The Wise Housewife",
+      "fr": "La maîtresse de maison avisée"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "халкъан",
+      "дийцар",
+      "доьзал"
+    ],
+    "text_preview": {
+      "ce": "Лаьмнийн цхьана юьртахь вехаш-Ӏаш хилла цхьа хьекъал долу стаг."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "geshaev-emigratsiya",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Эмиграция",
+      "en": "Emigration",
+      "fr": "Émigration"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "даймохк",
+      "сагатдалар",
+      "бала"
+    ],
+    "text_preview": {
+      "ru": "Черные листья лежат прошлогодние, / снова напомнили они мне о Родине..."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-milaya-chechnya",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Милая Чечня",
+      "en": "Dear Chechnya",
+      "fr": "Chère Tchétchénie"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "даймохк",
+      "нохчийчоь",
+      "безам"
+    ],
+    "text_preview": {
+      "ru": "Хочу тебя обнять, / Любовью осеня."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-ya-nenavizhu-slukhi-lozh",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Я ненавижу слухи, ложь…",
+      "en": "I Hate Rumours and Lies…",
+      "fr": "Je hais les rumeurs, le mensonge…"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "оьздангалла",
+      "гӀиллакх",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ru": "Я ненавижу слухи, ложь, / Что ранят, как острейший нож,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-kogda-plachet-zemlya",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Когда плачет земля",
+      "en": "When the Earth Weeps",
+      "fr": "Quand la terre pleure"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "депортаци",
+      "даймохк",
+      "истори"
+    ],
+    "text_preview": {
+      "ru": "Вайнахи! Боль свою мы не забудем - / Она в сердцах навеки проросла."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-rodnik",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Родник",
+      "en": "The Spring",
+      "fr": "La source"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "шовда",
+      "лирика",
+      "философия"
+    ],
+    "text_preview": {
+      "ru": "Я жажду утолил тобой, / Хрустальным холодом согрелся,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-rechka-detstva",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Речка детства",
+      "en": "The Little River of Childhood",
+      "fr": "La petite rivière de l’enfance"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "бералла",
+      "дагалецамаш",
+      "лирика"
+    ],
+    "text_preview": {
+      "ru": "Было это в детстве / На краю села."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "zaytemirov-1a",
+    "type": "poem",
+    "title": {
+      "ce": "Ӏа",
+      "ru": "Зима",
+      "en": "Winter",
+      "fr": "L’hiver"
+    },
+    "author": "Зайтемиров Сайдик",
+    "tags": [
+      "Ӏа",
+      "Ӏалам",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Арахь хьокху / Шийла мох,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "akhmatova-ya-zhdu-tebya",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Я жду тебя, ты только позови",
+      "en": "I Am Waiting for You, Just Call Me",
+      "fr": "Je t’attends, appelle-moi seulement"
+    },
+    "author": "Раиса Ахматова",
+    "tags": [
+      "безам",
+      "лирика",
+      "сатийсам"
+    ],
+    "text_preview": {
+      "ru": "Затих аул, под буркою косматой. / Безмолвных гор опять мне странен вид."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "akhmatova-vse-v-zhizni",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Все в жизни мне давалось нелегко",
+      "en": "Nothing in Life Came Easily to Me",
+      "fr": "Rien dans la vie ne m’a été donné facilement"
+    },
+    "author": "Раиса Ахматова",
+    "tags": [
+      "дахар",
+      "ойла",
+      "лирика"
+    ],
+    "text_preview": {
+      "ru": "Все в жизни мне давалось нелегко, / Но я всегда трудом брала преграды,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "akhmatova-nebo-sbrosilo-zvezdnuyu-shal",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Небо сбросило звездную шаль",
+      "en": "The Sky Has Cast Off Its Starry Shawl",
+      "fr": "Le ciel a jeté son châle d’étoiles"
+    },
+    "author": "Раиса Ахматова",
+    "tags": [
+      "даймохк",
+      "нохчийчоь",
+      "лирика"
+    ],
+    "text_preview": {
+      "ru": "Небо сбросило звездную шаль, / Гордых маков зарделись огни…"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "akhmatova-ya-segodnya-sovsem-ne-spala",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Я сегодня совсем не спала…",
+      "en": "I Did Not Sleep at All Tonight…",
+      "fr": "Je n’ai pas dormi du tout cette nuit…"
+    },
+    "author": "Раиса Ахматова",
+    "tags": [
+      "бералла",
+      "дагалецамаш",
+      "лирика"
+    ],
+    "text_preview": {
+      "ru": "Я сегодня совсем не спала… / Память, память, веди меня в детство,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "akhmatova-idu-k-tebe-dorogoy-gornoy",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Иду к тебе дорогой горной",
+      "en": "I Come to You by a Mountain Road",
+      "fr": "Je viens à toi par un chemin de montagne"
+    },
+    "author": "Раиса Ахматова",
+    "tags": [
+      "безам",
+      "лирика",
+      "некъ"
+    ],
+    "text_preview": {
+      "ru": "Иду к тебе дорогой горной, / В ладони — яркая звезда,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "akhmatova-otkrovenie",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Откровение",
+      "en": "Revelation",
+      "fr": "Révélation"
+    },
+    "author": "Раиса Ахматова",
+    "tags": [
+      "безам",
+      "лирика",
+      "ойла"
+    ],
+    "text_preview": {
+      "ru": "Нет, я перед любовью не лгала, / Не прятала ее от глаз недобрых."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "akhmatova-vstaval-rassvet",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Вставал рассвет",
+      "en": "Dawn Was Rising",
+      "fr": "L’aube se levait"
+    },
+    "author": "Раиса Ахматова",
+    "tags": [
+      "безам",
+      "лирика",
+      "Ӏуьйре"
+    ],
+    "text_preview": {
+      "ru": "Вставал рассвет, медлительный и древний, / Была земля, как наш огромный дом."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "akhmatova-kiparis",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Кипарис",
+      "en": "The Cypress",
+      "fr": "Le cyprès"
+    },
+    "author": "Раиса Ахматова",
+    "tags": [
+      "даймохк",
+      "Ӏалам",
+      "лирика"
+    ],
+    "text_preview": {
+      "ru": "В земле весенней — красоты начало. / Хоть величав и строен кипарис,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ahmatukaev-khachalush-yu",
+    "type": "poem",
+    "title": {
+      "ce": "Кхачалуш ю",
+      "ru": "Угасаешь",
+      "en": "You Are Fading Away",
+      "fr": "Tu t’éteins"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "нана",
+      "кӀант",
+      "сингаттам"
+    ],
+    "text_preview": {
+      "ce": "Еха йоьлхуш, къила яхча санна, / Йочана хьан тхов тӀебожо хьаьхна."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "ahmatukaev-hina-huna",
+    "type": "poem",
+    "title": {
+      "ce": "Хиъна хьуна",
+      "ru": "Тебе стало ясно",
+      "en": "You Have Come to Understand",
+      "fr": "Tu as compris"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "доьзал",
+      "бераш",
+      "ойла"
+    ],
+    "text_preview": {
+      "ce": "ЧӀегӀардигийн каде хьийзар денна / «Чудерзаре» кхаьчна дели эххар."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "ahmatukaev-ala-du-san",
+    "type": "poem",
+    "title": {
+      "ce": "Ала ду сан",
+      "ru": "Мне есть что сказать",
+      "en": "I Have Something to Say",
+      "fr": "J’ai quelque chose à dire"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "нохчий",
+      "мотт",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "ЧӀагӀо юй хьан? – аьлла, / Шеконе хьо ваьлча,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "ahmatukaev-tskhalla",
+    "type": "poem",
+    "title": {
+      "ce": "Цхьалла",
+      "ru": "Одиночество",
+      "en": "Loneliness",
+      "fr": "Solitude"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "дахар",
+      "сингаттам",
+      "ойла"
+    ],
+    "text_preview": {
+      "ce": "Дош а лелла даьлла хӀинца хьан, / Хьалха санна, дегӀ а дац каде хьан."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "ahmatukaev-vayn-ghillakh",
+    "type": "poem",
+    "title": {
+      "ce": "Вайн гӀиллакх",
+      "ru": "Наш этикет",
+      "en": "Our Etiquette",
+      "fr": "Notre étiquette"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "гӀиллакх",
+      "мотт",
+      "оьздангалла"
+    ],
+    "text_preview": {
+      "ce": "Кхузахь-м, хьаха, ненан мотт а буьйцу. / Буьйцу, хьаха, дуй къера ца хиллал-м."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "ahmatukaev-yilbaziyn-bo",
+    "type": "poem",
+    "title": {
+      "ce": "Йилбазийн бӀо",
+      "ru": "Дьявольская рать",
+      "en": "The Devils’ Host",
+      "fr": "L’armée des démons"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "философия",
+      "ойла",
+      "гӀиллакх"
+    ],
+    "text_preview": {
+      "ce": "ГӀиллакхийн хоршара къаьхкина, / Нахала бевлла цхьа бехкамаш"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "ahmatukaev-yukha-a-denlur-vu",
+    "type": "poem",
+    "title": {
+      "ce": "Юха а денлур ву",
+      "ru": "Снова оживёшь",
+      "en": "You Will Come to Life Again",
+      "fr": "Tu renaîtras encore"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "сатира",
+      "философия",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Кисанахь ловзучу шайнаша / Кхетамна ваьккхича гена хьуо,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "ahmatukaev-yukh-yu-san-nana",
+    "type": "poem",
+    "title": {
+      "ce": "Юьхь ю сан, нана",
+      "ru": "Я могу смотреть тебе в глаза, мама",
+      "en": "I Can Look You in the Face, Mother",
+      "fr": "Je peux te regarder en face, mère"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "нана",
+      "да",
+      "доьзал"
+    ],
+    "text_preview": {
+      "ce": "Ахьчул доггах хьехам бала / Цхьа а варий, дада?"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "ahmatukaev-d1akhachalush-du-de-a",
+    "type": "poem",
+    "title": {
+      "ce": "ДӀакхачалуш ду де а…",
+      "ru": "И день подходит к концу…",
+      "en": "The Day, Too, Is Drawing to a Close…",
+      "fr": "Le jour aussi touche à sa fin…"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "доттагӀалла",
+      "Ӏожалла",
+      "ойла"
+    ],
+    "text_preview": {
+      "ce": "ДӀакхачалуш ду де а, малхехь даьгна, / ДӀо регӀа Ӏенош Ӏожах богу бос."
     },
     "available_languages": [
       "ce"
