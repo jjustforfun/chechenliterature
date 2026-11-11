@@ -3,11 +3,14 @@
  * generate-sitemap.mjs — génère public/sitemap.xml depuis les données.
  *
  * Usage:
- *   node scripts/generate-sitemap.mjs --site-url=https://example.com
+ *   npm run generate-sitemap
  *   npm run generate-sitemap -- --site-url=https://example.com
  *
- * Le domaine de production n'est pas codé en dur : passez l'URL canonique
- * du déploiement (Vercel : Project Settings → Domains).
+ * Lancé par `npm run build` : le sitemap est régénéré à chaque déploiement.
+ *
+ * L'adresse du site est lue dans package.json ("homepage"), seul endroit où
+ * elle est déclarée pour les scripts. --site-url vise ponctuellement un autre
+ * domaine (Vercel : Project Settings → Domains).
  */
 import { readFileSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
@@ -17,11 +20,16 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const DATA_DIR = path.join(ROOT, 'src/data');
 
-const siteUrl = (process.argv.find((a) => a.startsWith('--site-url=')) || '')
-  .slice('--site-url='.length)
-  .replace(/\/$/, '');
-if (!siteUrl || !/^https?:\/\//.test(siteUrl)) {
-  console.error('Usage: node scripts/generate-sitemap.mjs --site-url=https://example.com');
+const SITE_URL_ARG = '--site-url=';
+const siteUrlArg = process.argv.find((a) => a.startsWith(SITE_URL_ARG));
+const { homepage } = JSON.parse(readFileSync(path.join(ROOT, 'package.json'), 'utf-8'));
+const rawSiteUrl = siteUrlArg ? siteUrlArg.slice(SITE_URL_ARG.length) : homepage || '';
+const siteUrl = rawSiteUrl.replace(/\/$/, '');
+if (!/^https?:\/\//.test(siteUrl)) {
+  console.error(
+    'Adresse du site introuvable : renseignez "homepage" dans package.json ' +
+      'ou passez --site-url=https://example.com'
+  );
   process.exit(1);
 }
 

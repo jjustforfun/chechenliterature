@@ -124,18 +124,24 @@ English or French (`author_en` / `author_fr` derived in `src/data/catalog.js`).
 
 ## Sitemap et SEO
 
+- Adresse du site : <https://noxchiindosh.vercel.app/>. Elle est déclarée dans
+  `package.json` (`homepage`) et recopiée dans `public/robots.txt`,
+  `public/llms.txt` et en tête de ce README : si le domaine change, mettez-les
+  à jour ensemble.
 - Chaque page définit son `document.title` (`src/utils/pageMeta.js`) : œuvre —
   auteur — site, section — site, 404 — site.
-- `public/robots.txt` est committé (pensez à y mettre l'URL absolue du
-  sitemap une fois le domaine connu).
-- `public/sitemap.xml` est **généré** (git-ignoré), jamais committé :
+- `public/robots.txt` est committé et annonce l'URL absolue du sitemap.
+- `public/sitemap.xml` est **généré** (git-ignoré), jamais committé.
+  `npm run build` le régénère à chaque build, donc à chaque déploiement : les
+  nouvelles œuvres y entrent sans action manuelle (URLs : `/`, `/authors`,
+  `/category/*`, `/author/*`, `/poem|song|prose/:id`).
+
+Pour le générer à la main, ou pour un autre domaine :
 
 ```bash
-npm run generate-sitemap -- --site-url=https://votre-domaine.com
+npm run generate-sitemap                                    # adresse de package.json
+npm run generate-sitemap -- --site-url=https://example.com  # autre domaine
 ```
-
-Relancez-le avant chaque déploiement important (nouvelles œuvres = nouvelles
-URLs : `/`, `/category/*`, `/author/*`, `/poem|song|prose/:id`).
 
 ## Pages et fonctionnalités (P3)
 
