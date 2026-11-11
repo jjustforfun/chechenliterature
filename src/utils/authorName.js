@@ -48,6 +48,10 @@ const AUTHOR_NAMES = {
   'Хава Ясмалина': { en: 'Khava Yasmalina', fr: 'Khava Yasmalina' },
   Халкъан: { en: 'Khalqan', fr: 'Khalqan' },
   'Хамзат Магомадов': { en: 'Khamzat Magomadov', fr: 'Khamzat Magomadov' },
+  'Хас-Магомед Хаджимурадов': {
+    en: 'Khas-Magomed Khadzhimuradov',
+    fr: 'Khas-Magomed Khadjimouradov',
+  },
   'Хасаин Идрисов': { en: 'Khasain Idrisov', fr: 'Khassain Idrisov' },
   'Шаид Рашидов': { en: 'Shaid Rashidov', fr: 'Chaid Rachidov' },
   'Шайхи Арсанукаев': { en: 'Shaikhi Arsanukayev', fr: 'Chaikhi Arsanoukayev' },

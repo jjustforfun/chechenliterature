@@ -6897,5 +6897,717 @@
     "available_languages": [
       "ce"
     ]
+  },
+  {
+    "id": "yarichev-kayle",
+    "type": "poem",
+    "title": {
+      "ce": "Къайле",
+      "ru": "Тайна",
+      "en": "The Secret",
+      "fr": "Le secret"
+    },
+    "author": "Умар Яричев",
+    "tags": [
+      "безам",
+      "лирика",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Вайшимма дуьйцучух хӀун хир ду техьа? / Экаме туьллуш ду безаман тӀай."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "yarichev-shchepotka-zemli",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Щепотка земли",
+      "en": "A Pinch of Earth",
+      "fr": "Une pincée de terre"
+    },
+    "author": "Умар Яричев",
+    "tags": [
+      "даймохк",
+      "истори",
+      "сагатдалар"
+    ],
+    "text_preview": {
+      "ru": "Не покидайте родину свою, / Чужбина вам Отчизною не станет."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "yarichev-slovo-o-slove",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Слово о слове",
+      "en": "A Word about the Word",
+      "fr": "Parole sur la parole"
+    },
+    "author": "Умар Яричев",
+    "tags": [
+      "философия",
+      "хьехам",
+      "мотт"
+    ],
+    "text_preview": {
+      "ru": "Все имеет свою номинальную цену на свете - / От любви до тепла угольков в неостывшей золе..."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "yarichev-dumy-kamennykh-bashen",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Думы каменных башен",
+      "en": "Thoughts of the Stone Towers",
+      "fr": "Pensées des tours de pierre"
+    },
+    "author": "Умар Яричев",
+    "tags": [
+      "истори",
+      "лаьмнаш",
+      "философия"
+    ],
+    "text_preview": {
+      "ru": "Нас когда-то сложили прапрадеды ваши, не деды, / Подгоняя старательно грани нетесанных плит..."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "yarichev-daymokhk",
+    "type": "poem",
+    "title": {
+      "ce": "Даймохк",
+      "ru": "Даймохк",
+      "en": "Daimokhk (Fatherland)",
+      "fr": "Daïmokhk (Terre des pères)"
+    },
+    "author": "Умар Яричев",
+    "tags": [
+      "даймохк",
+      "истори",
+      "лаьмнаш"
+    ],
+    "text_preview": {
+      "ru": "Явусу Ахмадову / Даже камень становится прахом."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "yarichev-materi-nashi",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Матери наши",
+      "en": "Our Mothers",
+      "fr": "Nos mères"
+    },
+    "author": "Умар Яричев",
+    "tags": [
+      "нана",
+      "доьзал",
+      "лирика"
+    ],
+    "text_preview": {
+      "ru": "Чтобы трудность дорог мы осилить смогли / И надежды огонь не был в сердце погашен,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "yarichev-nane",
+    "type": "poem",
+    "title": {
+      "ce": "Нане",
+      "ru": "Нане",
+      "en": "To My Mother",
+      "fr": "À ma mère"
+    },
+    "author": "Умар Яричев",
+    "tags": [
+      "нана",
+      "доьзал",
+      "безам"
+    ],
+    "text_preview": {
+      "ru": "Матери моей с сыновней любовью посвящается. / Идут года.. И мир, суров и нежен,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "yarichev-pondaru",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Пондару",
+      "en": "To the Pondar",
+      "fr": "Au pondar"
+    },
+    "author": "Умар Яричев",
+    "tags": [
+      "лирика",
+      "безам",
+      "дагалецамаш"
+    ],
+    "text_preview": {
+      "ru": "Всего лишь три, всего лишь три струны. / Мелодия звенящего минора..."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "yarichev-chechenets",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Чеченец",
+      "en": "A Chechen",
+      "fr": "Tchétchène"
+    },
+    "author": "Умар Яричев",
+    "tags": [
+      "нохчо",
+      "тӀом",
+      "яхь"
+    ],
+    "text_preview": {
+      "ru": "Мой гордый дух из глубины веков / Ко мне пришёл от непокорных предков,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "yarichev-chechenskoy-zhenshchine",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Чеченской женщине",
+      "en": "To the Chechen Woman",
+      "fr": "À la femme tchétchène"
+    },
+    "author": "Умар Яричев",
+    "tags": [
+      "нана",
+      "турпалалла",
+      "баркалла"
+    ],
+    "text_preview": {
+      "ru": "Липо Ахметовой из с. Новый Шарой с уважением посвящается. / Нелегкую затрагиваю тему..."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "nunuev-v-kazhdom-atome-mira",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "В каждом атоме мира…",
+      "en": "In Every Atom of the World…",
+      "fr": "Dans chaque atome du monde…"
+    },
+    "author": "Саид-Хамзат Нунуев",
+    "tags": [
+      "философия",
+      "вера",
+      "Ӏожалла"
+    ],
+    "text_preview": {
+      "ru": "В каждом атоме мира / Твоя мудрость, о Бог!"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "nunuev-byl-strannyy-son",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Был странный сон…",
+      "en": "I Had a Strange Dream…",
+      "fr": "J’ai fait un rêve étrange…"
+    },
+    "author": "Саид-Хамзат Нунуев",
+    "tags": [
+      "философия",
+      "вера",
+      "размышление"
+    ],
+    "text_preview": {
+      "ru": "Был странный сон. / В ту ночь нежданно"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "nunuev-yukhaderzar",
+    "type": "poem",
+    "title": {
+      "ce": "Юхадерзар",
+      "ru": "Возвращение",
+      "en": "The Return",
+      "fr": "Le retour"
+    },
+    "author": "Саид-Хамзат Нунуев",
+    "tags": [
+      "гимн",
+      "нохчалла",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "И Дела ша воцуг, накъост ца хиллачахь / Нохчаллех ца духуш, дирзи вай цӀа."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "nunuev-propoved",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Проповедь",
+      "en": "A Sermon",
+      "fr": "Sermon"
+    },
+    "author": "Саид-Хамзат Нунуев",
+    "tags": [
+      "нравственность",
+      "вера",
+      "философия"
+    ],
+    "text_preview": {
+      "ru": "Ангелом по жизни не пройдешь. / Много лжи и грязи в мире этом."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "folk-dagardar-voedush-vara-so",
+    "type": "poem",
+    "title": {
+      "ce": "Воьдуш, воьдуш вара со…",
+      "ru": "Шёл я, шёл я… (считалка)",
+      "en": "Walking, Walking Along I Went… (counting rhyme)",
+      "fr": "J’allais, j’allais mon chemin… (comptine)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "берийн литература",
+      "бераш",
+      "халкъан"
+    ],
+    "text_preview": {
+      "ce": "Воьдуш, воьдуш вара со, / Ког кхерах кхийтира,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "gatsaev-michakh-yu",
+    "type": "song",
+    "title": {
+      "ce": "Мичахь ю?",
+      "ru": "Где ты?",
+      "en": "Where Are You?",
+      "fr": "Où es-tu ?"
+    },
+    "author": "СаьӀид Гацаев",
+    "tags": [
+      "илли",
+      "даймохк",
+      "сагатдалар"
+    ],
+    "text_preview": {
+      "ce": "Со гена дӀаваха, дӀаели жима хан. / Мичахь ю, мичахь ю сан хьоме Нохчийчоь?",
+      "fr": "Je suis parti loin, la jeunesse s’est enfuie. / Où es-tu, où es-tu, ma chère Tchétchénie ?"
+    },
+    "available_languages": [
+      "ce",
+      "fr"
+    ]
+  },
+  {
+    "id": "yarichev-zemlya-ottsov",
+    "type": "song",
+    "title": {
+      "ce": null,
+      "ru": "Земля отцов",
+      "en": "Land of the Fathers",
+      "fr": "La terre de nos pères"
+    },
+    "author": "Умар Яричев",
+    "tags": [
+      "илли",
+      "депортаци",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ru": "Земля отцов, с чего, скажи, начать / С чего начать? - опять вскрываю рану",
+      "fr": "La terre de nos pères / comment commencer?"
+    },
+    "available_languages": [
+      "ru",
+      "fr"
+    ]
+  },
+  {
+    "id": "khadzhimuradov-khm-gostyu-kavkaza",
+    "type": "song",
+    "title": {
+      "ce": null,
+      "ru": "Гостю Кавказа",
+      "en": "To a Guest of the Caucasus",
+      "fr": "À l’hôte du Caucase"
+    },
+    "author": "Хас-Магомед Хаджимурадов",
+    "tags": [
+      "илли",
+      "хьошалла",
+      "кавказ"
+    ],
+    "text_preview": {
+      "ru": "Кавказ! Будь горд! Прекрасен ты и солнцем весь залит, / Но край вайнахов мне при встрече лишь туманит взор."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "khadzhimuradov-khm-zelimkhan",
+    "type": "song",
+    "title": {
+      "ce": null,
+      "ru": "Зелимхан",
+      "en": "Zelimkhan",
+      "fr": "Zelimkhan"
+    },
+    "author": "Хас-Магомед Хаджимурадов",
+    "tags": [
+      "илли",
+      "зеламха",
+      "обарг",
+      "турпала"
+    ],
+    "text_preview": {
+      "ru": "Вот снова диск солнца встаёт из – гор, / И золотом Землю покрыл его взор;"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "khadzhimuradov-khm-chechnya",
+    "type": "song",
+    "title": {
+      "ce": null,
+      "ru": "Чечня",
+      "en": "Chechnya",
+      "fr": "Tchétchénie"
+    },
+    "author": "Хас-Магомед Хаджимурадов",
+    "tags": [
+      "илли",
+      "истори",
+      "депортаци",
+      "нохчийчоь"
+    ],
+    "text_preview": {
+      "ru": "Чечня! Чечня! Что о тебе мы знаем!? / Что ты – былинный край и край легенд!"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "folk-eshar-mettakh-illa",
+    "type": "song",
+    "title": {
+      "ce": "Меттахь Ӏилла цомгуш йоцуш…",
+      "ru": "Не так больна, чтоб лежать в постели…",
+      "en": "Not Ill Enough to Lie in Bed…",
+      "fr": "Pas assez malade pour garder le lit…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "безам",
+      "халкъан"
+    ],
+    "text_preview": {
+      "ce": "Меттахь Ӏилла цомгуш йоцуш, / Ирахь лела могуш йоцуш,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-eshar-ma-belkha-san-shi-barg",
+    "type": "song",
+    "title": {
+      "ce": "Ма белха, сан ши бӀаьрг…",
+      "ru": "Не плачьте, мои глаза…",
+      "en": "Do Not Weep, My Eyes…",
+      "fr": "Ne pleurez pas, mes yeux…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "безам",
+      "халкъан"
+    ],
+    "text_preview": {
+      "ce": "Ма белха, сан ши бӀаьрг, шу хӀунда боьлху, / Ма делха, кийрара дилхи дог, суна."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-eshar-so-yatsara-khan",
+    "type": "song",
+    "title": {
+      "ce": "Со яцара хьан, хаза Ӏуьйре…",
+      "ru": "Не твоей я была, ясное утро…",
+      "en": "I Was Not Yours, Fair Morning…",
+      "fr": "Je n’étais pas à toi, beau matin…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "безам",
+      "халкъан"
+    ],
+    "text_preview": {
+      "ce": "Со яцара хьан, хаза Ӏуьйре, / Со яцара хьан, хаза суьйре,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-eshar-gobakkhina-lam",
+    "type": "song",
+    "title": {
+      "ce": "Гобаьккхина лам бу ала…",
+      "ru": "Скажи, что кругом горы…",
+      "en": "Say There Are Mountains All Around…",
+      "fr": "Dis qu’il y a des montagnes alentour…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "безам",
+      "халкъан"
+    ],
+    "text_preview": {
+      "ce": "Гобаьккхина лам бу ала, / Цу ламанца со ю ала,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-eshar-skhakkheta-dasho-malkh",
+    "type": "song",
+    "title": {
+      "ce": "Схьакхета дашо малх кхетаза белара…",
+      "ru": "Не взошло бы золотое солнце…",
+      "en": "Had the Golden Sun Never Risen…",
+      "fr": "Si le soleil d’or ne s’était pas levé…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "безам",
+      "халкъан"
+    ],
+    "text_preview": {
+      "ce": "Схьакхета дашо малх кхетаза белара, / Чубуза дашо малх бузаза белара,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-eshar-de-khoelina-dara",
+    "type": "song",
+    "title": {
+      "ce": "Де кхоьлина дара алий…",
+      "ru": "Не говори, что день был пасмурным…",
+      "en": "Do Not Say the Day Was Cloudy…",
+      "fr": "Ne dis pas que le jour était couvert…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "безам",
+      "халкъан"
+    ],
+    "text_preview": {
+      "ce": "Де кхоьлина дара алий, / Хьо ца вогӀуш ма висалахь,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-borz-le-loup",
+    "type": "prose",
+    "title": {
+      "ce": "Борз",
+      "ru": "Волк",
+      "en": "The Wolf",
+      "fr": "Le loup"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "туьйра",
+      "халкъан",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "Дукхе-дукха хьалха, вайна дага а ца йогӀучу заман чохь, дуьнен тӀехь инзаре ирча мох баьлла хилла.",
+      "fr": "Il y a très longtemps, en un temps immémorial, un ouragan effroyable se déchaîna sur terre."
+    },
+    "available_languages": [
+      "ce",
+      "fr"
+    ]
+  },
+  {
+    "id": "folk-hunter-and-nart",
+    "type": "prose",
+    "title": {
+      "ce": null,
+      "ru": "Охотник и нарт",
+      "en": "The Hunter and the Nart",
+      "fr": "Le chasseur et le Narte"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "туьйра",
+      "халкъан",
+      "дийцар"
+    ],
+    "text_preview": {
+      "en": "A long time ago, there once lived a husband with his wife. Every morning the husband put his wife up against the door, put an egg on her head and shot it with his rifle."
+    },
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "folk-timour-fairy-tale",
+    "type": "prose",
+    "title": {
+      "ce": null,
+      "ru": "Тимур (сказка)",
+      "en": "Timour (Fairy Tale)",
+      "fr": "Timour (conte)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "туьйра",
+      "халкъан",
+      "дийцар"
+    ],
+    "text_preview": {
+      "en": "Once there was a man that suffered from a sore old back and bad eyesight. It was more than he could bear, so he thought."
+    },
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "folk-emkal",
+    "type": "prose",
+    "title": {
+      "ce": "Эмкал",
+      "ru": "Верблюд",
+      "en": "The Camel",
+      "fr": "Le chameau"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "туьйра",
+      "халкъан",
+      "дийцар"
+    ],
+    "text_preview": {
+      "ce": "Цхьана гуьйренан дийнахь ижу лаха арадевлла хилла хьуьнан акхарой: чай, борзий, цхьогаллий."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khillane-tskhogal",
+    "type": "prose",
+    "title": {
+      "ce": "ХӀиллане цхьогал",
+      "ru": "Хитрая лиса",
+      "en": "The Cunning Fox",
+      "fr": "Le renard rusé"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "туьйра",
+      "халкъан",
+      "дийцар"
+    ],
+    "text_preview": {
+      "ce": "Цхьана заманчохь мацалла хӀун дийр ду а ца хууш дисина цхьогал."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-sutaralla",
+    "type": "prose",
+    "title": {
+      "ce": "Сутаралла",
+      "ru": "Жадность",
+      "en": "Greed",
+      "fr": "L’avidité"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "туьйра",
+      "халкъан",
+      "дийцар"
+    ],
+    "text_preview": {
+      "ce": "Гур хилла боьгӀна, тӀе дум а биллина. Цунна ша улло а дижина дуьме а хьоьжуш, Ӏаш хилла цхьогал, ша цунна тӀекхевдича, схьалоцур ду-кх ша бохуш."
+    },
+    "available_languages": [
+      "ce"
+    ]
   }
 ]
