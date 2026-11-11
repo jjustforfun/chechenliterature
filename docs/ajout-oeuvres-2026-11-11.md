@@ -4,6 +4,8 @@
 
 Ajout de **32 œuvres** d'auteurs tchétchènes ou du folklore tchétchène, transcrites depuis
 des sources en ligne vérifiées : **15 poèmes**, **11 chansons**, **6 textes de prose courte**.
+À la demande de l'utilisateur, **6 de ces œuvres** ont ensuite reçu des traductions
+littérales EN/FR de l'assistant, signalées comme non relues (voir plus bas).
 
 - `src/data/poems.json` : 283 → **298**
 - `src/data/songs.json` : 23 → **34**
@@ -13,7 +15,10 @@ des sources en ligne vérifiées : **15 poèmes**, **11 chansons**, **6 textes d
 - `src/utils/authorName.js` : 1 nouvelle transcription EN/FR (Хас-Магомед Хаджимурадов)
 
 Couverture des textes complets (`npm run validate-data`) :
-`ce` 227 → **241** (+14) · `ru` 84 → **100** (+16) · `en` 49 → **51** (+2) · `fr` 51 → **54** (+3).
+`ce` 227 → **241** (+14) · `ru` 84 → **100** (+16) · `en` 49 → **57** (+8) · `fr` 51 → **57** (+6).
+
+Sur ces ajouts, les textes **issus de sources** sont : `ce` +14, `ru` +16, `en` +2, `fr` +3 ;
+les **traductions de l'assistant** sont : `en` +6, `fr` +3.
 
 ## Instructions lues avant modification
 
@@ -34,21 +39,21 @@ pris **uniquement** dans le vocabulaire existant. `date_added` = `2026-11-11`.
 
 | id | Titre | Auteur | Type | Langues du texte | Source | Palotchkas normalisées |
 |---|---|---|---|---|---|---|
-| `folk-borz-le-loup` | Борз / Волк | Халкъан | prose | ce, fr | [Waynakh Online](http://www.waynakh.com/fr/2015/01/17/le-loup-%D0%B1%D0%BE%D1%80%D0%B7/) | 47 |
-| `gatsaev-michakh-yu` | Мичахь ю? / Где ты? | СаьӀид Гацаев | chanson | ce, fr | [Waynakh Online](http://www.waynakh.com/fr/2014/01/09/micaxh-yu-sakhab-mejidov/) | 7 |
-| `yarichev-zemlya-ottsov` | Земля отцов | Умар Яричев | chanson | ru, fr | [Waynakh Online](http://www.waynakh.com/fr/2012/10/21/la-terre-de-nos-peres-kheda-astamirova/) | — |
+| `folk-borz-le-loup` | Борз / Волк | Халкъан | prose | ce, fr, en\* | [Waynakh Online](http://www.waynakh.com/fr/2015/01/17/le-loup-%D0%B1%D0%BE%D1%80%D0%B7/) | 47 |
+| `gatsaev-michakh-yu` | Мичахь ю? / Где ты? | СаьӀид Гацаев | chanson | ce, fr, en\* | [Waynakh Online](http://www.waynakh.com/fr/2014/01/09/micaxh-yu-sakhab-mejidov/) | 7 |
+| `yarichev-zemlya-ottsov` | Земля отцов | Умар Яричев | chanson | ru, fr, en\* | [Waynakh Online](http://www.waynakh.com/fr/2012/10/21/la-terre-de-nos-peres-kheda-astamirova/) | — |
 | `yarichev-kayle` | Къайле / Тайна | Умар Яричев | poème | ce | [umarlavina.narod.ru](https://umarlavina.narod.ru/new/kajle.htm) | 14 |
 | `yarichev-shchepotka-zemli` | Щепотка земли | Умар Яричев | poème | ru | [umarlavina.narod.ru](https://umarlavina.narod.ru/lavina/shepotka.html) | — |
 | `yarichev-slovo-o-slove` | Слово о слове | Умар Яричев | poème | ru | [umarlavina.narod.ru](https://umarlavina.narod.ru/lavina/slovo.html) | — |
 | `yarichev-dumy-kamennykh-bashen` | Думы каменных башен | Умар Яричев | poème | ru | [umarlavina.narod.ru](https://umarlavina.narod.ru/lavina/dumy.html) | — |
 | `yarichev-daymokhk` | Даймохк | Умар Яричев | poème | ru | [umarlavina.narod.ru](https://umarlavina.narod.ru/lavina/dajmohk.html) | — |
-| `yarichev-materi-nashi` | Матери наши | Умар Яричев | poème | ru | [umarlavina.narod.ru](https://umarlavina.narod.ru/lavina/materi.html) | — |
+| `yarichev-materi-nashi` | Матери наши | Умар Яричев | poème | ru, en\*, fr\* | [umarlavina.narod.ru](https://umarlavina.narod.ru/lavina/materi.html) | — |
 | `yarichev-nane` | Нане | Умар Яричев | poème | ru | [umarlavina.narod.ru](https://umarlavina.narod.ru/lavina/nane.html) | — |
 | `yarichev-pondaru` | Пондару | Умар Яричев | poème | ru | [umarlavina.narod.ru](https://umarlavina.narod.ru/lavina/pondaru.html) | — |
 | `yarichev-chechenets` | Чеченец | Умар Яричев | poème | ru | [umarlavina.narod.ru](https://umarlavina.narod.ru/new/chechenez.htm) | — |
 | `yarichev-chechenskoy-zhenshchine` | Чеченской женщине | Умар Яричев | poème | ru | [umarlavina.narod.ru](https://umarlavina.narod.ru/new/chzhenshine.htm) | — |
-| `nunuev-v-kazhdom-atome-mira` | В каждом атоме мира… | Саид-Хамзат Нунуев | poème | ru | [Нохчалла.com](https://nohchalla.com/literatura/chechenskie-stihi/said-khamzat-nunuev/1616-v-kazhdom-atome-mira) | — |
-| `nunuev-byl-strannyy-son` | Был странный сон… | Саид-Хамзат Нунуев | poème | ru | [Нохчалла.com](https://nohchalla.com/literatura/chechenskie-stihi/said-khamzat-nunuev/1615-byl-strannyj-son) | — |
+| `nunuev-v-kazhdom-atome-mira` | В каждом атоме мира… | Саид-Хамзат Нунуев | poème | ru, en\*, fr\* | [Нохчалла.com](https://nohchalla.com/literatura/chechenskie-stihi/said-khamzat-nunuev/1616-v-kazhdom-atome-mira) | — |
+| `nunuev-byl-strannyy-son` | Был странный сон… | Саид-Хамзат Нунуев | poème | ru, en\*, fr\* | [Нохчалла.com](https://nohchalla.com/literatura/chechenskie-stihi/said-khamzat-nunuev/1615-byl-strannyj-son) | — |
 | `nunuev-yukhaderzar` | Юхадерзар / Возвращение | Саид-Хамзат Нунуев | poème | ce | [Нохчалла.com](https://nohchalla.com/literatura/chechenskie-stihi/said-khamzat-nunuev/1614-yukhaderzar) | 6 |
 | `nunuev-propoved` | Проповедь | Саид-Хамзат Нунуев | poème | ru | [Нохчалла.com](https://nohchalla.com/literatura/chechenskie-stihi/said-khamzat-nunuev/1613-propoved) | — |
 | `khadzhimuradov-khm-gostyu-kavkaza` | Гостю Кавказа | Хас-Магомед Хаджимурадов | chanson | ru | [umarlavina.narod.ru](http://umarlavina.narod.ru/hasmagomed/gostju_kavkaza.htm) | — |
@@ -67,7 +72,9 @@ pris **uniquement** dans le vocabulaire existant. `date_added` = `2026-11-11`.
 | `folk-sutaralla` | Сутаралла / Жадность | Халкъан | prose | ce | [Орга. Нохчийн фольклор](https://orga.narod.ru/folklor/c115.htm#p121) | 15 |
 | `folk-dagardar-voedush-vara-so` | Воьдуш, воьдуш вара со… / Шёл я, шёл я… (считалка) | Халкъан | poème | ce | [Орга. Нохчийн фольклор](https://orga.narod.ru/folklor/c141.htm#p143) | 11 |
 
-Répartition :
+\* = traduction littérale de l'assistant, non relue (signalée dans le champ `source`).
+
+Répartition des textes issus de sources :
 
 - **Tchétchène (14 textes)** : 6 chansons d'amour populaires (« Безаман эшарш »), 3 contes
   d'animaux, 1 comptine, le conte « Борз », la chanson « Мичахь ю? » (Гацаев), « Къайле »
@@ -80,20 +87,42 @@ Répartition :
   tchétchènes*, Fayard, 2002, cité par Waynakh Online), « Où es-tu ? » (trad. Kissa Gatsaeva),
   « La terre de nos pères » (version française chantée par Kheda Astamirova).
 
-Œuvres bilingues : `folk-borz-le-loup` (ce + fr), `gatsaev-michakh-yu` (ce + fr),
-`yarichev-zemlya-ottsov` (ru + fr).
+Œuvres bilingues d'après les sources : `folk-borz-le-loup` (ce + fr),
+`gatsaev-michakh-yu` (ce + fr), `yarichev-zemlya-ottsov` (ru + fr).
 
 **Nouvel auteur ajouté à `AUTHOR_NAMES`** : Хас-Магомед Хаджимурадов → EN *Khas-Magomed
 Khadzhimuradov*, FR *Khas-Magomed Khadjimouradov* (même graphie que Вахит Хаджимурадов,
 qui est un autre auteur).
 
-## Aucun texte inventé
+## Textes sourcés et traductions de l'assistant
 
-- Les champs `text` ne contiennent **que des textes transcrits des sources**. Aucune
-  traduction de l'assistant n'a été intégrée dans `text` (des traductions littérales EN/FR
-  de quelques textes courts peuvent être ajoutées sur demande, signalées comme telles).
-- Comme dans les lots précédents, seules les **traductions des titres** (ru / en / fr, ou
-  ce → ru) sont de l'assistant : traductions littérales **non relues**, à valider par un
+- Les 32 œuvres ont été ajoutées avec **uniquement des textes transcrits des sources**
+  (commit `1272a69`).
+- **À la demande de l'utilisateur (2026-11-11)**, 9 traductions littérales de l'assistant
+  ont ensuite été ajoutées à 6 œuvres courtes du lot :
+
+  | id | Traduction ajoutée | Faite d'après |
+  |---|---|---|
+  | `folk-borz-le-loup` | en | la version française de Frison et Outtier (pas l'original tchétchène) |
+  | `gatsaev-michakh-yu` | en | la version française de Kissa Gatsaeva (pas l'original tchétchène) |
+  | `yarichev-zemlya-ottsov` | en | le texte russe |
+  | `yarichev-materi-nashi` | en, fr | le texte russe |
+  | `nunuev-v-kazhdom-atome-mira` | en, fr | le texte russe |
+  | `nunuev-byl-strannyy-son` | en, fr | le texte russe |
+
+  - Chaque fiche le dit dans son champ `source`, visible sur la page de l'œuvre :
+    « EN : traduction littérale de l'assistant (IA) d'après …, non relue ».
+  - Ce sont des traductions **littérales, sans mètre ni rime, non relues** : à faire valider
+    par un bilingue. Contrôle mécanique effectué : même nombre de vers et de strophes (ou de
+    paragraphes) que le texte de départ.
+  - Les deux traductions anglaises faites d'après le français héritent des écarts de la
+    version française : la dernière phrase de l'original tchétchène de « Борз »
+    (« Даймохк цхьаъ бен бац ») n'y figure pas.
+  - Pour retirer une de ces traductions : remettre `text.<langue>` à `null`, supprimer la
+    mention dans `source`, puis `npm run generate-index`.
+  - Aucune traduction vers le tchétchène ou le russe n'a été produite.
+- Comme dans les lots précédents, les **traductions des titres** (ru / en / fr, ou
+  ce → ru) sont aussi de l'assistant : traductions littérales **non relues**, à valider par un
   bilingue (en particulier les titres des 6 chansons populaires et de la comptine, donnés
   d'après leur premier vers).
 - Les attributions ont été recoupées : « La terre de nos pères » est attribuée à
@@ -197,8 +226,8 @@ Procédure de `docs/prompt-palotchka.md`, appliquée comme pour le lot du 2026-1
 
 ## Vérifications finales
 
-- `npm run validate-data` → ✅ données cohérentes (348 / 348) ; 1 avertissement, antérieur
-  au lot (`mokhmad-mamakaev-hazachu-yoi-tulg`).
+- `npm run validate-data` → ✅ données cohérentes (348 / 348 ; couverture `ce` 241, `ru` 100,
+  `en` 57, `fr` 57) ; 1 avertissement, antérieur au lot (`mokhmad-mamakaev-hazachu-yoi-tulg`).
 - `npm run lint` → OK · `npm run test` → 39 / 39 · `npm run format:check` → OK ·
   `npm run build` → OK.
 - `python3 scripts/verify_data.py` → doublons : aucun nouveau ; index ↔ fichiers complets :

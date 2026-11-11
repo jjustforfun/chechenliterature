@@ -7024,10 +7024,14 @@
       "лирика"
     ],
     "text_preview": {
-      "ru": "Чтобы трудность дорог мы осилить смогли / И надежды огонь не был в сердце погашен,"
+      "ru": "Чтобы трудность дорог мы осилить смогли / И надежды огонь не был в сердце погашен,",
+      "en": "So that we might overcome the hardship of the roads / And the fire of hope not be put out in our hearts,",
+      "fr": "Pour que nous puissions vaincre la dureté des routes / Et que le feu de l’espoir ne s’éteigne pas dans nos cœurs,"
     },
     "available_languages": [
-      "ru"
+      "ru",
+      "en",
+      "fr"
     ]
   },
   {
@@ -7134,10 +7138,14 @@
       "Ӏожалла"
     ],
     "text_preview": {
-      "ru": "В каждом атоме мира / Твоя мудрость, о Бог!"
+      "ru": "В каждом атоме мира / Твоя мудрость, о Бог!",
+      "en": "In every atom of the world / Is Your wisdom, O God!",
+      "fr": "Dans chaque atome du monde / Est Ta sagesse, ô Dieu !"
     },
     "available_languages": [
-      "ru"
+      "ru",
+      "en",
+      "fr"
     ]
   },
   {
@@ -7156,10 +7164,14 @@
       "размышление"
     ],
     "text_preview": {
-      "ru": "Был странный сон. / В ту ночь нежданно"
+      "ru": "Был странный сон. / В ту ночь нежданно",
+      "en": "I had a strange dream. / That night, unexpectedly,",
+      "fr": "J’ai fait un rêve étrange. / Cette nuit-là, à l’improviste,"
     },
     "available_languages": [
-      "ru"
+      "ru",
+      "en",
+      "fr"
     ]
   },
   {
@@ -7245,10 +7257,12 @@
     ],
     "text_preview": {
       "ce": "Со гена дӀаваха, дӀаели жима хан. / Мичахь ю, мичахь ю сан хьоме Нохчийчоь?",
+      "en": "I have gone far away, youth has fled. / Where are you, where are you, my dear Chechnya?",
       "fr": "Je suis parti loin, la jeunesse s’est enfuie. / Où es-tu, où es-tu, ma chère Tchétchénie ?"
     },
     "available_languages": [
       "ce",
+      "en",
       "fr"
     ]
   },
@@ -7269,10 +7283,12 @@
     ],
     "text_preview": {
       "ru": "Земля отцов, с чего, скажи, начать / С чего начать? - опять вскрываю рану",
+      "en": "Land of the fathers, tell me, where shall I begin, / Where to begin? — once more I open up the wound.",
       "fr": "La terre de nos pères / comment commencer?"
     },
     "available_languages": [
       "ru",
+      "en",
       "fr"
     ]
   },
@@ -7493,10 +7509,12 @@
     ],
     "text_preview": {
       "ce": "Дукхе-дукха хьалха, вайна дага а ца йогӀучу заман чохь, дуьнен тӀехь инзаре ирча мох баьлла хилла.",
+      "en": "A very long time ago, in time immemorial, a dreadful hurricane broke loose upon the earth.",
       "fr": "Il y a très longtemps, en un temps immémorial, un ouragan effroyable se déchaîna sur terre."
     },
     "available_languages": [
       "ce",
+      "en",
       "fr"
     ]
   },
