@@ -8654,5 +8654,620 @@
     "available_languages": [
       "ce"
     ]
+  },
+  {
+    "id": "ahtahanov-vesnya-pyanila",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Нас каждый год весна собой пьянила",
+      "en": "Every Year the Spring Would Make Us Drunk",
+      "fr": "Chaque année le printemps nous enivrait"
+    },
+    "author": "Руслан Ахтаханов",
+    "tags": [
+      "лирика",
+      "дахар",
+      "тоска"
+    ],
+    "text_preview": {
+      "ru": "Нас каждый год весна собой пьянила, / Жила Чечня, прекрасная в цвету,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ahtahanov-goryanka",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Горянка",
+      "en": "The Mountain Woman",
+      "fr": "La montagnarde"
+    },
+    "author": "Руслан Ахтаханов",
+    "tags": [
+      "лирика",
+      "нохчийчоь",
+      "безам"
+    ],
+    "text_preview": {
+      "ru": "Тебя ничем не удивишь, горянка. / Ты не живешь бездумно, напоказ."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ahtahanov-ne-paday-duhom-mama",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Не падай духом, Мама, не тужи",
+      "en": "Do Not Lose Heart, Mama, Do Not Grieve",
+      "fr": "Ne perds pas courage, Maman, ne t'afflige pas"
+    },
+    "author": "Руслан Ахтаханов",
+    "tags": [
+      "нана",
+      "безам"
+    ],
+    "text_preview": {
+      "ru": "Как матерям в глаза смотреть? / Как пережить такую муку?"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ahtahanov-mne-pogadalo-vremya",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Мне погадало время по руке…",
+      "en": "Time Read My Palm…",
+      "fr": "Le temps m'a lu les lignes de la main…"
+    },
+    "author": "Руслан Ахтаханов",
+    "tags": [
+      "мотт",
+      "нохчийн мотт",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ru": "Мне погадало время по руке, / И сколько мне оно наговорило!"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ahtahanov-o-terek",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "О Терек! Я к тебе вернусь…",
+      "en": "O Terek! I Will Return to You…",
+      "fr": "Ô Terek ! Je reviendrai vers toi…"
+    },
+    "author": "Руслан Ахтаханов",
+    "tags": [
+      "даймохк",
+      "родина",
+      "дахар"
+    ],
+    "text_preview": {
+      "ru": "В Отчизну я с рожденья врос корнями, / Всем вызовам судьбы наперекор."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ahtahanov-kluch-schastya",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Где он, счастья ключ?",
+      "en": "Where Is the Key to Happiness?",
+      "fr": "Où est-elle, la clé du bonheur ?"
+    },
+    "author": "Руслан Ахтаханов",
+    "tags": [
+      "нравственность",
+      "философия",
+      "вера"
+    ],
+    "text_preview": {
+      "ru": "По морю жизни горькому плывем: / Не стало в юных душах уваженья,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ahtahanov-prostite-nas",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Простите нас, родные старики",
+      "en": "Forgive Us, Dear Elders",
+      "fr": "Pardonnez-nous, chers anciens"
+    },
+    "author": "Руслан Ахтаханов",
+    "tags": [
+      "ойла",
+      "память",
+      "депортаци"
+    ],
+    "text_preview": {
+      "ru": "Родные старики, простите нас, / Вы наши судьбы приняли на плечи."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ahtahanov-geroyu-ismailovu",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Герою России Абдулхакиму Исмаилову",
+      "en": "To Abdulkhakim Ismailov, Hero of Russia",
+      "fr": "À Abdoulkhakim Ismaïlov, héros de Russie"
+    },
+    "author": "Руслан Ахтаханов",
+    "tags": [
+      "война",
+      "зезагаш",
+      "честь"
+    ],
+    "text_preview": {
+      "ru": "Герою России Абдулхакиму Исмаилову, / водрузившему знамя Победы над рейхстагом"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ahtahanov-za-eto-mog-pogibnut-celiy-rod",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "За это мог погибнуть целый род",
+      "en": "For This a Whole Clan Could Have Perished",
+      "fr": "Pour cela tout un clan aurait pu périr"
+    },
+    "author": "Руслан Ахтаханов",
+    "tags": [
+      "честь",
+      "зезагаш",
+      "память"
+    ],
+    "text_preview": {
+      "ru": "Памяти Каты Айсханова, Шамсудина Муртаева и / Марьям Чантиевой, спасших от верной смерти"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ahtahanov-chechency-seyte-znaniy-semena",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Чеченцы, сейте знаний семена",
+      "en": "Chechens, Sow the Seeds of Knowledge",
+      "fr": "Tchétchènes, semez les graines du savoir"
+    },
+    "author": "Руслан Ахтаханов",
+    "tags": [
+      "призыв",
+      "школа",
+      "дагалецамаш"
+    ],
+    "text_preview": {
+      "ru": "Раздвигая мрак тысячелетий, / За Аллахом двигаясь Добром,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ahtahanov-tyazhelaya-rabota-vperedi",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Тяжелая работа впереди",
+      "en": "Hard Work Lies Ahead",
+      "fr": "Un dur labeur nous attend"
+    },
+    "author": "Руслан Ахтаханов",
+    "tags": [
+      "стигал",
+      "нравственность",
+      "призыв"
+    ],
+    "text_preview": {
+      "ru": "Наступит день, и вновь пойдут часы, / Что были остановлены войною."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ahtahanov-chechency-vozvrashchayutsya-nazad",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Чеченцы возвращаются назад",
+      "en": "Chechens Are Coming Back",
+      "fr": "Les Tchétchènes reviennent"
+    },
+    "author": "Руслан Ахтаханов",
+    "tags": [
+      "депортаци",
+      "даймохк",
+      "вера"
+    ],
+    "text_preview": {
+      "ru": "Как не любить тебя, село родное, / Как не любить и как не вспоминать?!"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ahtahanov-gost-sudby-poslanec",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Гость – судьбы посланец",
+      "en": "A Guest Is Fate's Messenger",
+      "fr": "L'hôte est un messager du destin"
+    },
+    "author": "Руслан Ахтаханов",
+    "tags": [
+      "судьба",
+      "философия",
+      "размышление"
+    ],
+    "text_preview": {
+      "ru": "Приезжайте к нам, друзья-кавказцы, / На любимый издревле хинкал."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ahtahanov-voina-idet-nikto-ne-vinovat",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Война идет – никто не виноват",
+      "en": "War Goes On – No One Is to Blame",
+      "fr": "La guerre continue – personne n'est coupable"
+    },
+    "author": "Руслан Ахтаханов",
+    "tags": [
+      "война",
+      "нравственность",
+      "размышление"
+    ],
+    "text_preview": {
+      "ru": "В таблице умноженья все понятно: / Десяток состоит из единиц."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "folk-ier-dakharan-eshar-san-sa-khunda-khiyza",
+    "type": "song",
+    "title": {
+      "ce": "Сан са хӀунда хьийза-техьа…",
+      "ru": "Отчего тоскует моя душа?…",
+      "en": "Why Is My Soul So Restless?…",
+      "fr": "Pourquoi mon âme est-elle si inquiète ?…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "йовхо"
+    ],
+    "text_preview": {
+      "ce": "Сан са хӀунда хьийза-техьа? / Сан са хӀунда гатло-техьа?"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-ier-dakharan-eshar-nanna",
+    "type": "song",
+    "title": {
+      "ce": "Нанна",
+      "ru": "Матери",
+      "en": "To Mother",
+      "fr": "À ma mère"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "йовхо"
+    ],
+    "text_preview": {
+      "ce": "ХӀара суьйренаш йоьхна суна, / ХӀара Ӏуьйренаш йоьхна суна."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-zabare-eshar-akh-kulturni-bolar-dicha",
+    "type": "song",
+    "title": {
+      "ce": "Ахь культурни болар дича…",
+      "ru": "Когда ты стал держаться культурно…",
+      "en": "When You Began to Put On Cultured Airs…",
+      "fr": "Quand tu as pris des airs cultivés…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Ахь культурни болар дича, / Хьо эвлахула волавелча,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-zabare-eshar-kala-aalchi",
+    "type": "song",
+    "title": {
+      "ce": "Кала аьлчи…",
+      "ru": "Скажешь «Кала»…",
+      "en": "If One Says “Kala”…",
+      "fr": "Si l’on dit « Kala »…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Кала аьлчи, / Кали цӀе йолу,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-zabare-eshar-lekhu-lam-te-lo",
+    "type": "song",
+    "title": {
+      "ce": "Лекху лам тӀе ло дуьллийла…",
+      "ru": "Пусть на высокую гору ляжет снег…",
+      "en": "May Snow Lie on the High Mountain…",
+      "fr": "Que la neige couvre la haute montagne…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Лекху лам тӀе ло дуьллийла, / И дешийла вайн поселкехь."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-zabare-eshar-gena-dallalts",
+    "type": "song",
+    "title": {
+      "ce": "Гена даллалц дӀагӀур ду вайшиъ, ла-ла-ла…",
+      "ru": "Мы двое уйдём подальше, ла-ла-ла…",
+      "en": "We Two Shall Go Far Away, la-la-la…",
+      "fr": "Nous deux, nous partirons au loin, la-la-la…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Гена даллалц дӀагӀур ду вайшиъ, ла-ла-ла, / Гена даьлча, ладугӀур вайша, ла-ла-ла,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-zabare-eshar-khan-stoel-tekh-laettash",
+    "type": "song",
+    "title": {
+      "ce": "Хьан стоьл тӀехь лаьтташ…",
+      "ru": "Если на твоём столе не стоит…",
+      "en": "If There Stands on Your Table No…",
+      "fr": "S’il n’y a pas sur ta table…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "- Хьан стоьл тӀехь лаьтташ / Пиремник яцахь,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-zabare-eshar-li-la-li-la-la",
+    "type": "song",
+    "title": {
+      "ce": "Ли-ла-ли-ла-ла…",
+      "ru": "Ли-ла-ли-ла-ла…",
+      "en": "Li-la-li-la-la…",
+      "fr": "Li-la-li-la-la…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Ли-ла-ли-ла-ла / Лекхи ву,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-zabare-eshar-tskha-shi-dog-dekhira",
+    "type": "song",
+    "title": {
+      "ce": "Цхьа ши дог дехира…",
+      "ru": "Попросили два сердца…",
+      "en": "Two Hearts Were Asked For…",
+      "fr": "On a demandé deux cœurs…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Цхьа ши дог дехира, / ТӀаккха безам бахара."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-zabare-eshar-dog-dakha-tsa-dezara-zheroshka",
+    "type": "song",
+    "title": {
+      "ce": "Дог даха ца дезара жерошка…",
+      "ru": "Не стоило влюбляться во вдов…",
+      "en": "One Should Not Have Fallen for Widows…",
+      "fr": "Il ne fallait pas s’éprendre des veuves…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Дог даха ца дезара жерошка, / Сакъера ца дезара жерошка."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-bettan-nur-dayna",
+    "type": "song",
+    "title": {
+      "ce": "Беттан нур дайна, ла-ла-ла…",
+      "ru": "Пропал свет луны, ла-ла-ла…",
+      "en": "The Moonlight Is Lost, la-la-la…",
+      "fr": "La lumière de la lune s’est perdue, la-la-la…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "хелхар"
+    ],
+    "text_preview": {
+      "ce": "Беттан нур дайна, ла-ла-ла, / Маьлхан нур дайна, ла-ла-ла,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-kuygash-ma-khaza",
+    "type": "song",
+    "title": {
+      "ce": "Куьйгаш ма хаза леладо…",
+      "ru": "Как красиво движутся руки…",
+      "en": "How Beautifully the Hands Move…",
+      "fr": "Comme les mains bougent avec grâce…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "хелхар"
+    ],
+    "text_preview": {
+      "ce": "Куьйгаш ма хаза леладо, / Когаш мел хаза лелабо,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-khakha-ezara-volga",
+    "type": "song",
+    "title": {
+      "ce": "Хахка езара сийна \"Волга\" хьо…",
+      "ru": "Ты — синяя «Волга», на которой бы мчаться…",
+      "en": "You Are a Blue “Volga” Made for Driving…",
+      "fr": "Tu es une « Volga » bleue qu’on voudrait conduire…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "хелхар"
+    ],
+    "text_preview": {
+      "ce": "Хахка езара сийна \"Волга\" хьо, / Ядон езара ненан хаза йоӀ хьо..."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-yoya-a-kanta-a",
+    "type": "song",
+    "title": {
+      "ce": "ЙоӀа а, кӀанта а локху хелхаран йиш",
+      "ru": "Плясовая песня девушки и юноши",
+      "en": "Dance Song of a Girl and a Youth",
+      "fr": "Chant de danse d’une jeune fille et d’un jeune homme"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "хелхар"
+    ],
+    "text_preview": {
+      "ce": "- Куьйгаш хаза леладе, / Когаш хаза лелабе,"
+    },
+    "available_languages": [
+      "ce"
+    ]
   }
 ]
