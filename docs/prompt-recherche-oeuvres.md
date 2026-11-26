@@ -2,7 +2,7 @@
 
 > À lire **avant chaque recherche de nouvelles œuvres** à ajouter au portail.
 > Complète `README.md`, `docs/prompt-palotchka.md` et les rapports `docs/ajout-*.md`.
-> Dernière mise à jour : 2026-11-26 (lot 2).
+> Dernière mise à jour : 2026-11-26 (lot 3).
 
 Vous êtes un agent IA chargé de **trouver de vraies œuvres littéraires tchétchènes**
 (poèmes, chants/иллеш, prose) déjà publiées en ligne, et de les ajouter au catalogue
@@ -92,11 +92,11 @@ Le texte utilise `1`/`I` comme palotchka ; vers balisés `<p>`. **Source la plus
 |---|---|---|
 | `c435.htm` | Узамаш (lamentations) | ✅ 13/18 retenues (12 le 2026-11-26 lot 1 + № 14 lot 2). № 6 incomplet ; № 9, 11, 16 coquilles OCR ; № 18 écarté (variante du distique final de `folk-uzam-dakaza-ma-dala-malkh-kheta`). **Épuisée.** |
 | `c454.htm` | Социале-политикан чулацам болу эшарш | ✅ 5/6 (№ 1–5, lot 1). № 6 « Бала бу сан коьртехь » : OCR cassé (`лекьар`, `гог1у`). **Épuisée.** |
-| `c490.htm` | Сатиран эшарш | 🔶 № 3 (lot 1), № 1, 2, 4, 9, 10 (lot 2). **Restent : № 5** (« Сан самукъа долучу хенахь »), **№ 6–8** (cycle « зуда йолу кӀанат »), **№ 11–15** (cycle « Хьешана лекхна эшарш » — quatrains courts, à évaluer soigneusement). |
+| `c490.htm` | Сатиран эшарш | 🔶 № 3 (lot 1), № 1, 2, 4, 9, 10 (lot 2), № 5, 6, 7, 11 (lot 3). **Restent : № 8** (cycle « зуда йолу кӀанат » — proche de № 7), **№ 12–15** (cycle « Хьешана лекхна эшарш » — quatrains courts, variantes à évaluer soigneusement). |
 | `c498.htm` | Лирикан тийжамаш | 🔶 № 3 (lot 1), № 2, 4, 5, 6 (lot 2). № 1 écarté (`TIepa`, substituts latins). **Épuisée.** |
 | `c488.htm` | Забаре эшарш | ✅ № 1–8 (2026-11-25) |
 | `c493.htm` | Хелхаран эшарш | 🔶 № 1, 3, 10, 13 (2026-11-25). № 16 « XIe, месаш » : substituts latins ambigus (à relire sur l'imprimé) ; № 17, 25, 26 fragmentaires. **Autres numéros à vérifier.** |
-| `c457.htm` | Ӏер-дахаран хьокъехь эшарш | 🔶 № 1, 15 (2026-11-25). **Autres numéros à vérifier.** |
+| `c457.htm` | Ӏер-дахаран хьокъехь эшарш | 🔶 № 1, 15 (2026-11-25), № 2, 7, 8, 13, 16 (lot 3). № 3 et 7 partagent un refrain, № 4/5/6/9–12/14/17–18 à vérifier. |
 | `c471.htm` | Безаман эшарш (chants d'amour) | 🔶 6 utilisés le 2026-11-11 (№s 1, 3, 4, 5, 9, 12…). **Autres numéros à vérifier.** |
 | `c20.htm` | Къинхьегаман эшарш (chants de travail) | 🔶 № 18, 26 (2026-11-11). **Autres numéros à vérifier.** |
 | `c141.htm` | Берийн фольклор (берийн / аганан / берийн эшарш) | 🔶 №s 1, 3, 4, 5 (аганан), 3, 4 (берийн), comptine XXXI № 6, хӀеттарш XXXIII № 2 (2026-11-11). **Autres numéros à vérifier.** |
@@ -113,13 +113,19 @@ liste complète dans la rubrique **ОНЛАЙН БИБЛИОТЕКА** (`/z/1753
 - ✅ Dépouillé le 2026-11-26 (lot 1) : œuvres de Ӏаьрби Мамакаев, Гадаев, Сулейманов, Дикаев,
   Сулаев, Саидов Билал, Сатуев, Хатуев, Абдулаев, Гайтукаева, Цуруев, Рашидов, Юсупов, Гацаев,
   Петирова (pages 17556, 17567, 17570, 19889, 20466, 20468 et sous-pages).
-- 🆕 Dépouillé le 2026-11-26 (lot 2) : [`z/17581`](https://www.radiomarsho.com/z/17581) (Сулейманов)
+- 🔶 Dépouillé le 2026-11-26 (lot 2) : [`z/17581`](https://www.radiomarsho.com/z/17581) (Сулейманов)
   → « Дахаран генаш », « Нене », « Борз ю угӀуш », « Кхин цкъа а хьоьжур вац… » ajoutés ;
   « Шовда » déjà au catalogue ; « Шуьнехь Дош (Дагаев Валиде) » écarté (attribution ambiguë).
   [`30401849`](https://www.radiomarsho.com/a/30401849.html) (Гадаев) → « Суьйре, Ӏуьйре гӀийла йогӀу… ».
-- **Restent à dépouiller** : les pages d'index des autres poètes de la bibliothèque
-  (explorer `/z/17538`), notamment les sections 2019–2020 (« охан-бутт 09, 2020 »,
-  « дечкен-бутт 28, 2020 ») qui ajoutent régulièrement de nouveaux textes.
+- 🆕 Dépouillé le 2026-11-26 (lot 3) : première page de [`z/17538`](https://www.radiomarsho.com/z/17538)
+  ( publications 2022 ) — 3 poèmes d'Ильман Юсупов (`29243176`, `31759163`, `31759181`),
+  « Дадин ан » de ШаӀрани Хасаров (`31495711`), « Сан нохчийн йоӀ » de Шаид Рашидов
+  (`31804911`), « ГӀалаташ » de Юсуп Яралиев (`31804934`). Écartés : « ДӀаяла » de
+  Мамакаев (`31804920`), doublon exact de `mokhmad-mamakaev-dyayala` ; « ДоӀа » de
+  Мохьмад Сулаев (`31804926`), attribution ambiguë avec Магомет Сулаев (déjà au catalogue) ;
+  `31804917` (***) et `31804931` (***), sans titre.
+- **Restent à dépouiller** : les pages suivantes de `/z/17538?p=1…` et les pages d'index des
+  autres poètes ; les publications 2019–2020 et 2022 non lues de la rubrique.
 
 ### 4.3 Waynakh Online (`https://www.waynakh.com/`)
 Blog édité par la diaspora tchétchène ; catégories `/fr/`, `/eng/` — poèmes avec traduction
