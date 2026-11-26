@@ -61,6 +61,7 @@ const AUTHOR_NAMES = {
   },
   'Хасаин Идрисов': { en: 'Khasain Idrisov', fr: 'Khassain Idrisov' },
   'Хьусайн Сатуев': { en: 'Khusayn Satuyev', fr: 'Khoussayn Satouyev' },
+  'Хьамзат Талхадов': { en: 'Khamzat Talkhadov', fr: 'Khamzat Talkhadov' },
   'Шаид Рашидов': { en: 'Shaid Rashidov', fr: 'Chaid Rachidov' },
   'Шайхи Арсанукаев': { en: 'Shaikhi Arsanukayev', fr: 'Chaikhi Arsanoukayev' },
   'ШаӀрани Хасаров': { en: 'Sharani Khasarov', fr: 'Charani Khasarov' },

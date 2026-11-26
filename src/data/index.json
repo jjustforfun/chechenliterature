@@ -11474,5 +11474,363 @@
     "available_languages": [
       "ce"
     ]
+  },
+  {
+    "id": "talkhadov-khamzat-veset",
+    "type": "poem",
+    "title": {
+      "ce": "Весет",
+      "ru": "Завещание",
+      "en": "Testament",
+      "fr": "Testament"
+    },
+    "author": "Хьамзат Талхадов",
+    "tags": [
+      "Ӏожалла",
+      "философия",
+      "дин"
+    ],
+    "text_preview": {
+      "ce": "Цкъа мацца кхачор ду"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "talkhadov-khamzat-dagtsa-kamel",
+    "type": "poem",
+    "title": {
+      "ce": "Дагца къамел",
+      "ru": "Разговор с сердцем",
+      "en": "Conversation with the Heart",
+      "fr": "Entretien avec le cœur"
+    },
+    "author": "Хьамзат Талхадов",
+    "tags": [
+      "ойла",
+      "сагатдалар",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Ма чехавехьа со,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "khasarov-sharani-teman-mukamash",
+    "type": "poem",
+    "title": {
+      "ce": "ТӀеман мукъамаш",
+      "ru": "Военные мелодии",
+      "en": "War Melodies",
+      "fr": "Mélodies de la guerre"
+    },
+    "author": "Хьамзат Талхадов",
+    "tags": [
+      "тӀом",
+      "бала",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Йоккха топ кхийти сан эвла,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "khasarov-sharani-lulakhoyn-beshakh",
+    "type": "poem",
+    "title": {
+      "ce": "Лулахойн бешахь",
+      "ru": "В саду соседей",
+      "en": "In the Neighbours’ Garden",
+      "fr": "Dans le jardin des voisins"
+    },
+    "author": "Хьамзат Талхадов",
+    "tags": [
+      "безам",
+      "Ӏалам",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Мотталой хьуна суо веза,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "khasarov-sharani-chirdiga-kerla-sho-dustar",
+    "type": "poem",
+    "title": {
+      "ce": "ЧӀирдига керла шо дустар",
+      "ru": "Как Чирдиг встречает Новый год",
+      "en": "Chirdig Welcomes the New Year",
+      "fr": "Tchirdig fête le Nouvel An"
+    },
+    "author": "Хьамзат Талхадов",
+    "tags": [
+      "керла шо",
+      "доьзал",
+      "берийн литература"
+    ],
+    "text_preview": {
+      "ce": "Тентиг ю. Ю йоккха тиллиг,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "khasarov-sharani-gergarlonash",
+    "type": "poem",
+    "title": {
+      "ce": "Гергарлонаш",
+      "ru": "Родственные связи",
+      "en": "Kinship",
+      "fr": "Les liens de parenté"
+    },
+    "author": "Хьамзат Талхадов",
+    "tags": [
+      "сатира",
+      "забаре",
+      "доьзал"
+    ],
+    "text_preview": {
+      "ce": "Ша хьелийн даьттанан мехча"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-kuygash-mel-khaza-lelado",
+    "type": "song",
+    "title": {
+      "ce": "Куьйгаш мел хаза леладо…",
+      "ru": "Как красиво ты водишь руками…",
+      "en": "How Beautifully You Move Your Hands…",
+      "fr": "Comme tu fais danser tes mains avec grâce…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "хелхар"
+    ],
+    "text_preview": {
+      "ce": "Куьйгаш мел хаза леладо,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-ay-khettarg-malkh-bats",
+    "type": "song",
+    "title": {
+      "ce": "Ӏай кхеттарг малх бац…",
+      "ru": "Что восходит зимой — не солнце…",
+      "en": "What Rises in Winter Is Not the Sun…",
+      "fr": "Ce qui se lève en hiver n’est pas le soleil…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "хелхар",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Ӏай кхеттарг малх бац,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-as-sayna-tsen-karkhash",
+    "type": "song",
+    "title": {
+      "ce": "Ас сайна цӀен кӀархаш оьцур бу…",
+      "ru": "Я куплю себе чистые сапоги…",
+      "en": "I Will Buy Myself Clean Boots…",
+      "fr": "Je m’achèterai des bottes propres…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "хелхар",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Ас сайна цӀен кӀархаш оьцур бу,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-lamanan-lecha",
+    "type": "song",
+    "title": {
+      "ce": "Ламанан леча, ла-ла-ла…",
+      "ru": "Горный сокол, ла-ла-ла…",
+      "en": "Mountain Falcon, la-la-la…",
+      "fr": "Faucon des montagnes, la-la-la…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "хелхар",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Ламанан леча, ла-ла-ла,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-kinkhegaman-eshar-khovza-kakhar",
+    "type": "song",
+    "title": {
+      "ce": "Хьовза, кахьар, хьовза, кахьар…",
+      "ru": "Крутись, кахар, крутись, кахар…",
+      "en": "Turn, Kakhar, Turn, Kakhar…",
+      "fr": "Tourne, kakhar, tourne, kakhar…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Хьовза, кахьар, хьовза, кахьар,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-eshar-akh-sohga-ladogal",
+    "type": "song",
+    "title": {
+      "ce": "Ахь соьга ладогӀал…",
+      "ru": "Послушай меня…",
+      "en": "Listen to Me…",
+      "fr": "Écoute-moi…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Ахь соьга ладогӀал,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-eshar-lekha-popanna-khoekkhu-mokh",
+    "type": "song",
+    "title": {
+      "ce": "Лекхачу попанна хьоькху мох ца оьшу…",
+      "ru": "Высокому тополю не нужен ветер…",
+      "en": "The Tall Poplar Needs No Wind…",
+      "fr": "Le grand peuplier n’a que faire du vent…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "безам",
+      "доьзал"
+    ],
+    "text_preview": {
+      "ce": "Лекхачу попанна хьоькху мох ца оьшу,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-eshar-yish-yalar-da-visarg",
+    "type": "song",
+    "title": {
+      "ce": "Йиш ялар, да виссарг…",
+      "ru": "Песня остаётся, отец уходит…",
+      "en": "The Song Remains, the Father Departs…",
+      "fr": "La chanson demeure, le père s’en va…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "безам",
+      "сагатдалар"
+    ],
+    "text_preview": {
+      "ce": "Йиш ялар, да виссарг, Ӏуьйренин санна,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-sardam-vadarkh-yal-yolush",
+    "type": "song",
+    "title": {
+      "ce": "Вадарх ял йолуш…",
+      "ru": "Чтоб тебе плуг с быком…",
+      "en": "May You Have a Plough and an Ox…",
+      "fr": "Puisses-tu avoir charrue et bœuf…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "бала"
+    ],
+    "text_preview": {
+      "ce": "Вадарх ял йолуш,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-tsqa-khelkhavallats",
+    "type": "song",
+    "title": {
+      "ce": "Цкъа хелхаваллалц…",
+      "ru": "Пока я раз не сплясал…",
+      "en": "Before I Danced Once…",
+      "fr": "Avant même d’avoir dansé une fois…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "хелхар",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Цкъа хелхаваллалц"
+    },
+    "available_languages": [
+      "ce"
+    ]
   }
 ]
