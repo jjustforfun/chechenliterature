@@ -3629,5 +3629,345 @@
     ],
     "source": "Орга. «Нохчийн фольклор» — Чеченский фольклор (хӀоттийнарг Ш. А. Джамбеков), Грозный: «Книга», 1991. «Хелхаран эшарш», № 18",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": "folk-work-urchakh",
+    "type": "song",
+    "title": {
+      "ce": "Урчакх, урчакх, хьовзалахь…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан"
+    ],
+    "text": {
+      "ce": "Урчакх, урчакх, хьовзалахь,\nБабин урчакх стамлолахь.\nХьийза, хьийза, урчакх, сиха,\nХьовза, хьовза, урчакх, чехка.\nТӀаргӀа бацлуш,\nУрчакх стамлуш,\nПасат кӀеда\nХир ма ю.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Урчакх, урчакх, хьовзалахь, / Бабин урчакх стамлолахь."
+    },
+    "external_links": [
+      {
+        "label": "Нохчийн фольклор — Орга",
+        "url": "https://orga.narod.ru/folklor/c20.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор. Сост. Ш. А. Джамбеков, Грозный: Книга, 1991. Къинхьегаман эшарш, № 4. https://orga.narod.ru/folklor/c20.htm",
+    "date_added": "2026-11-26"
+  },
+  {
+    "id": "folk-work-targa-sema",
+    "type": "song",
+    "title": {
+      "ce": "ТӀаргӀа сема балалахь…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан"
+    ],
+    "text": {
+      "ce": "ТӀаргӀа сема балалахь,\nЛам санна хьала айлолахь,\nТӀаргӀа цхьалха балалахь,\nТхан мотт-гӀайба кӀадлолахь.\n\nТӀаргӀа семса балалахь,\nЛомал лекха айлолахь,\nТӀаргӀа цхьалха балалахь,\nКӀайн ло санна, цӀанлолахь.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "ТӀаргӀа сема балалахь, / Лам санна хьала айлолахь,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчийн фольклор — Орга",
+        "url": "https://orga.narod.ru/folklor/c20.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор. Сост. Ш. А. Джамбеков, Грозный: Книга, 1991. Къинхьегаман эшарш, № 6. https://orga.narod.ru/folklor/c20.htm",
+    "date_added": "2026-11-26"
+  },
+  {
+    "id": "folk-work-sharsha",
+    "type": "song",
+    "title": {
+      "ce": "Шарша, шарша, чехка шарша…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан"
+    ],
+    "text": {
+      "ce": "Шарша, шарша, чехка шарша,\nШарде аннаш, шера, шера.\nВоттана сан ира ду,\nАннаш шардан кийча ду.\nШарша, шарша воттана чехка,\nШарде аннаш сиха, шера.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Шарша, шарша, чехка шарша, / Шарде аннаш, шера, шера."
+    },
+    "external_links": [
+      {
+        "label": "Нохчийн фольклор — Орга",
+        "url": "https://orga.narod.ru/folklor/c20.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор. Сост. Ш. А. Джамбеков, Грозный: Книга, 1991. Къинхьегаман эшарш, № 7. https://orga.narod.ru/folklor/c20.htm",
+    "date_added": "2026-11-26"
+  },
+  {
+    "id": "folk-work-tsel",
+    "type": "song",
+    "title": {
+      "ce": "Цел, цел, беркате цел…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан"
+    ],
+    "text": {
+      "ce": "Цел, цел, беркате цел,\nАсар каде хьовзаде,\nЛуьста хьаьжкӀаш нилхаяха,\nДокъар алсам ахь хилийта.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Цел, цел, беркате цел, / Асар каде хьовзаде,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчийн фольклор — Орга",
+        "url": "https://orga.narod.ru/folklor/c20.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор. Сост. Ш. А. Джамбеков, Грозный: Книга, 1991. Къинхьегаман эшарш, № 8. https://orga.narod.ru/folklor/c20.htm",
+    "date_added": "2026-11-26"
+  },
+  {
+    "id": "folk-work-sakh",
+    "type": "song",
+    "title": {
+      "ce": "Сах, сах, сах, каде хьовзалахь…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан"
+    ],
+    "text": {
+      "ce": "Сах, сах, сах, каде хьовзалахь,\nСихха латтах лата, гам.\nАсар човхош, хьаьчкӀ ца лазош,\nӀаьнна сихха кечам бе,\nСискал, кхачам латтабе.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Сах, сах, сах, каде хьовзалахь, / Сихха латтах лата, гам."
+    },
+    "external_links": [
+      {
+        "label": "Нохчийн фольклор — Орга",
+        "url": "https://orga.narod.ru/folklor/c20.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор. Сост. Ш. А. Джамбеков, Грозный: Книга, 1991. Къинхьегаман эшарш, № 9. https://orga.narod.ru/folklor/c20.htm",
+    "date_added": "2026-11-26"
+  },
+  {
+    "id": "folk-work-chod",
+    "type": "song",
+    "title": {
+      "ce": "ЧӀод, чӀод - ира ду…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан"
+    ],
+    "text": {
+      "ce": "ЧӀод, чӀод - ира ду.\nТӀаргӀа хадо атта ду;\nЧӀогӀа куьйгана кӀеда ду,\nТӀаргӀан гали дузуш ду.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "ЧӀод, чӀод - ира ду. / ТӀаргӀа хадо атта ду;"
+    },
+    "external_links": [
+      {
+        "label": "Нохчийн фольклор — Орга",
+        "url": "https://orga.narod.ru/folklor/c20.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор. Сост. Ш. А. Джамбеков, Грозный: Книга, 1991. Къинхьегаман эшарш, № 12. https://orga.narod.ru/folklor/c20.htm",
+    "date_added": "2026-11-26"
+  },
+  {
+    "id": "folk-work-bamba",
+    "type": "song",
+    "title": {
+      "ce": "Бамба, бамба буькъа бу…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан"
+    ],
+    "text": {
+      "ce": "Бамба, бамба буькъа бу,\nБӀаьргаш чӀогӀа кхоьруш ду.\nКуьйга пӀелгаш каде ду.\nБамба сиха лахьор бу.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Бамба, бамба буькъа бу, / БӀаьргаш чӀогӀа кхоьруш ду."
+    },
+    "external_links": [
+      {
+        "label": "Нохчийн фольклор — Орга",
+        "url": "https://orga.narod.ru/folklor/c20.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор. Сост. Ш. А. Джамбеков, Грозный: Книга, 1991. Къинхьегаман эшарш, № 14. https://orga.narod.ru/folklor/c20.htm",
+    "date_added": "2026-11-26"
+  },
+  {
+    "id": "folk-work-kir",
+    "type": "song",
+    "title": {
+      "ce": "КӀир, кӀир, нислолахь…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан"
+    ],
+    "text": {
+      "ce": "КӀир, кӀир, нислолахь,\nХӀусам серлаяккхалахь;\nБеркате хьо хилалахь,\nӀа дӀадаллалц латталахь.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "КӀир, кӀир, нислолахь, / ХӀусам серлаяккхалахь;"
+    },
+    "external_links": [
+      {
+        "label": "Нохчийн фольклор — Орга",
+        "url": "https://orga.narod.ru/folklor/c20.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор. Сост. Ш. А. Джамбеков, Грозный: Книга, 1991. Къинхьегаман эшарш, № 15. https://orga.narod.ru/folklor/c20.htm",
+    "date_added": "2026-11-26"
+  },
+  {
+    "id": "folk-work-dig",
+    "type": "song",
+    "title": {
+      "ce": "Диг, хьо ира хилалахь…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан"
+    ],
+    "text": {
+      "ce": "Диг, хьо ира хилалахь,\nПопах нийса кхеталахь;\nПоп, хьо чехка божалахь,\nДиг, хьо каде хьовзалахь.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Диг, хьо ира хилалахь, / Попах нийса кхеталахь;"
+    },
+    "external_links": [
+      {
+        "label": "Нохчийн фольклор — Орга",
+        "url": "https://orga.narod.ru/folklor/c20.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор. Сост. Ш. А. Джамбеков, Грозный: Книга, 1991. Къинхьегаман эшарш, № 22. https://orga.narod.ru/folklor/c20.htm",
+    "date_added": "2026-11-26"
+  },
+  {
+    "id": "folk-work-raskha-din",
+    "type": "song",
+    "title": {
+      "ce": "Расха дин, хьо болало…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан"
+    ],
+    "text": {
+      "ce": "Расха дин, хьо болало,\nБергаш тухуш чӀогӀа,\nГота, тӀаьхьа йолало,\nКӀорга хорсуш латта.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Расха дин, хьо болало, / Бергаш тухуш чӀогӀа,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчийн фольклор — Орга",
+        "url": "https://orga.narod.ru/folklor/c20.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор. Сост. Ш. А. Джамбеков, Грозный: Книга, 1991. Къинхьегаман эшарш, № 23. https://orga.narod.ru/folklor/c20.htm",
+    "date_added": "2026-11-26"
   }
 ]
