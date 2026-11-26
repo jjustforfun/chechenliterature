@@ -44,6 +44,11 @@ La CI GitHub Actions (`.github/workflows/ci.yml`) lance `validate-data`,
 
 ## Как добавить новое произведение
 
+> **AI agents / вкладчики, добавляющие новые произведения :** lisez d'abord
+> [`docs/prompt-recherche-oeuvres.md`](docs/prompt-recherche-oeuvres.md) (prompt général :
+> sources, conventions, checklist, où chercher) et [`docs/prompt-palotchka.md`](docs/prompt-palotchka.md)
+> (normalisation du palotchka). Chaque ajout doit laisser un rapport `docs/ajout-*.md`.
+
 1. Откройте файл `src/data/poems.json` (или `songs.json` / `prose.json`)
 2. Добавьте новый объект по образцу существующих:
 
