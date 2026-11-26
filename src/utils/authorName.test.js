@@ -9,6 +9,8 @@ describe('getAuthorName', () => {
   it('uses reviewed transcriptions for known authors', () => {
     expect(getAuthorName('Муса Гешаев', 'en')).toBe('Musa Geshayev');
     expect(getAuthorName('Муса Гешаев', 'fr')).toBe('Moussa Gechayev');
+    expect(getAuthorName('Ӏаьрби Мамакаев', 'en')).toBe('Arbi Mamakayev');
+    expect(getAuthorName('СаьӀид Гацаев', 'fr')).toBe('Said Gatsayev');
   });
   it('falls back to transliteration for unknown authors', () => {
     const en = getAuthorName('Тест Тестов', 'en');

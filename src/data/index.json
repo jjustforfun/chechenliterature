@@ -9269,5 +9269,1526 @@
     "available_languages": [
       "ce"
     ]
+  },
+  {
+    "id": "arbi-mamakaev-daymokhk",
+    "type": "poem",
+    "title": {
+      "ce": "Даймохк",
+      "ru": "Родина",
+      "en": "Homeland",
+      "fr": "Patrie"
+    },
+    "author": "Ӏаьрби Мамакаев",
+    "tags": [
+      "даймохк",
+      "лаьмнаш",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "БӀаьстенан Ӏаламо хаздо шу, ламанаш, / Гуьйренан салоно токхдо шу, ламанаш,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "arbi-mamakaev-bargash",
+    "type": "poem",
+    "title": {
+      "ce": "БӀаьргаш",
+      "ru": "Глаза",
+      "en": "Eyes",
+      "fr": "Les yeux"
+    },
+    "author": "Ӏаьрби Мамакаев",
+    "tags": [
+      "лирика",
+      "философия",
+      "дахар",
+      "оьздангалла"
+    ],
+    "text_preview": {
+      "ce": "Маржа-яӀ, бӀаьргаш, шу - / Дагарчун куьзга:"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "gadaev-tsen-berd",
+    "type": "poem",
+    "title": {
+      "ce": "ЦӀен-Берд",
+      "ru": "Красный утёс (Цен-Берд)",
+      "en": "Red Cliff (Tsen-Berd)",
+      "fr": "La Falaise rouge (Tsen-Berd)"
+    },
+    "author": "Мохьмад-Салахь Гадаев",
+    "tags": [
+      "даймохк",
+      "бералла",
+      "философия",
+      "дагалецамаш"
+    ],
+    "text_preview": {
+      "ce": "Ӏожалло Ӏехаво, оьций дӀахьой, / Ял йоцуш вирзинарг, лар йоцуш вов."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "gadaev-darta",
+    "type": "poem",
+    "title": {
+      "ce": "Дарта",
+      "ru": "Горная индейка (Улар)",
+      "en": "The Snowcock",
+      "fr": "Le tétras des neiges"
+    },
+    "author": "Мохьмад-Салахь Гадаев",
+    "tags": [
+      "лаьмнаш",
+      "сагатдалар",
+      "депортаци",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Ламанан дарта ю, хьегӀарехь тийна, / Шерачу аренгахь охьахиъна гуш."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "gadaev-day-bakhna-latta",
+    "type": "poem",
+    "title": {
+      "ce": "Дай баьхна латта",
+      "ru": "Земля предков",
+      "en": "Land of Our Forefathers",
+      "fr": "La terre des ancêtres"
+    },
+    "author": "Мохьмад-Салахь Гадаев",
+    "tags": [
+      "даймохк",
+      "лаьмнаш",
+      "истори",
+      "Ӏалам"
+    ],
+    "text_preview": {
+      "ce": "ХӀар ду-кха / Сан хьоме"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "gadaev-regara-pop",
+    "type": "poem",
+    "title": {
+      "ce": "РегӀара поп",
+      "ru": "Чинара на хребте",
+      "en": "The Plane Tree on the Ridge",
+      "fr": "Le platane sur la crête"
+    },
+    "author": "Мохьмад-Салахь Гадаев",
+    "tags": [
+      "Ӏалам",
+      "даймохк",
+      "ойла",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Наьрт санна, лаьтта и, / Стигала кхийдаш,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "gadaev-samade",
+    "type": "poem",
+    "title": {
+      "ce": "Самаде",
+      "ru": "Пробуди",
+      "en": "Awaken",
+      "fr": "Éveille"
+    },
+    "author": "Мохьмад-Салахь Гадаев",
+    "tags": [
+      "халкъ",
+      "философия",
+      "вера",
+      "маршо"
+    ],
+    "text_preview": {
+      "ce": "Вуткъаниг саттийча шелха, / Айп кхетчахь, онг йоцург телха."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "gadaev-kanta-nene-yazdina-kekhat",
+    "type": "poem",
+    "title": {
+      "ce": "КӀанта нене яздина кехат",
+      "ru": "Письмо сына к матери",
+      "en": "A Son’s Letter to His Mother",
+      "fr": "Lettre d’un fils à sa mère"
+    },
+    "author": "Мохьмад-Салахь Гадаев",
+    "tags": [
+      "нана",
+      "депортаци",
+      "сатийсам",
+      "бала"
+    ],
+    "text_preview": {
+      "ce": "Пекъар-яӀ! / Декъаза хьомсар сан нана!"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "gadaev-uyre-yogu-suyre-yodu",
+    "type": "poem",
+    "title": {
+      "ce": "Ӏуьйре йогӀу, суьйре йоьду…",
+      "ru": "Приходит утро, уходит вечер…",
+      "en": "Morning Comes, Evening Goes…",
+      "fr": "Le matin vient, le soir s’en va…"
+    },
+    "author": "Мохьмад-Салахь Гадаев",
+    "tags": [
+      "бӀаьсте",
+      "Ӏалам",
+      "дахар",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Ӏуьйре йогӀу, суьйре йоьду, / суьйре йогӀу, Ӏуьйре йоьду,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "suleimanov-daymekhkan-illi",
+    "type": "poem",
+    "title": {
+      "ce": "Даймехкан илли",
+      "ru": "Песня Родины",
+      "en": "Song of the Homeland",
+      "fr": "Le chant de la patrie"
+    },
+    "author": "Ахмад Сулейманов",
+    "tags": [
+      "даймохк",
+      "илли",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Массо а суьранна тхан беша долий, / Хьозано юх-юха локху цхьа йиш..."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "suleimanov-ma-dokhkovalla-so",
+    "type": "poem",
+    "title": {
+      "ce": "Ма дохковаьлла со",
+      "ru": "Как же я раскаялся",
+      "en": "How Deeply I Regretted",
+      "fr": "Combien j’ai regretté"
+    },
+    "author": "Ахмад Сулейманов",
+    "tags": [
+      "философия",
+      "оьздангалла",
+      "безам",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Ницкъ болчо гӀело еш / Шел эшначунна,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "suleimanov-dog-dokhde-tse",
+    "type": "poem",
+    "title": {
+      "ce": "Дог дохде цӀе",
+      "ru": "Огонь, согревающий сердце",
+      "en": "The Fire That Warms the Heart",
+      "fr": "Le feu qui réchauffe le cœur"
+    },
+    "author": "Ахмад Сулейманов",
+    "tags": [
+      "хьошалла",
+      "гӀиллакх",
+      "вайнах",
+      "лаьмнаш"
+    ],
+    "text_preview": {
+      "ce": "Сан дин, сой – шиъ дарцо, гӀорош, / Шело даге кхийдайо."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "suleimanov-ma-ala-soga",
+    "type": "poem",
+    "title": {
+      "ce": "Ма ала соьга",
+      "ru": "Не говори мне",
+      "en": "Do Not Tell Me",
+      "fr": "Ne me dis pas"
+    },
+    "author": "Ахмад Сулейманов",
+    "tags": [
+      "безам",
+      "лирика",
+      "сатийсам"
+    ],
+    "text_preview": {
+      "ce": "Бовхачу безамца / Хьайга дог кхийдаш,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "suleimanov-kho-marsha-oyla",
+    "type": "poem",
+    "title": {
+      "ce": "Хьо марша Ӏойла",
+      "ru": "Прощай (Будь счастлива)",
+      "en": "Farewell (Be Well)",
+      "fr": "Adieu (Porte-toi bien)"
+    },
+    "author": "Ахмад Сулейманов",
+    "tags": [
+      "безам",
+      "къастар",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Диц ма де: хьо хир ю / Сан деган эла."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "dikaev-nana",
+    "type": "poem",
+    "title": {
+      "ce": "Нана",
+      "ru": "Мать",
+      "en": "Mother",
+      "fr": "Mère"
+    },
+    "author": "Мохьмад Дикаев",
+    "tags": [
+      "нана",
+      "безам",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "«Макхъелла. Хьо букар / хьовзийна хено."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "dikaev-kinkhetame-nokhchiycho",
+    "type": "poem",
+    "title": {
+      "ce": "Къинхетаме Нохчийчоь",
+      "ru": "Милосердная Чечня",
+      "en": "Merciful Chechnya",
+      "fr": "Tchétchénie miséricordieuse"
+    },
+    "author": "Мохьмад Дикаев",
+    "tags": [
+      "нохчийчоь",
+      "даймохк",
+      "истори",
+      "маршо"
+    ],
+    "text_preview": {
+      "ce": "Балано бӀарзйина / ГӀазотан Нохчийчоь!"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "dikaev-nokhchiyn-khusam",
+    "type": "poem",
+    "title": {
+      "ce": "Нохчийн хӀусам",
+      "ru": "Чеченский дом",
+      "en": "The Chechen Home",
+      "fr": "Le foyer tchétchène"
+    },
+    "author": "Мохьмад Дикаев",
+    "tags": [
+      "хьошалла",
+      "гӀиллакх",
+      "доьзал",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "Суьйре шийла, шийла еъча / Дадас тухий дечиг доккху;"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "dikaev-day-bakhnachu-makhkakh",
+    "type": "poem",
+    "title": {
+      "ce": "Дай баьхначу махкахь",
+      "ru": "В краю предков",
+      "en": "In the Land Where Our Fathers Lived",
+      "fr": "Au pays où vécurent nos pères"
+    },
+    "author": "Мохьмад Дикаев",
+    "tags": [
+      "даймохк",
+      "лирика",
+      "сатийсам"
+    ],
+    "text_preview": {
+      "ce": "Суна гина хийла аре, / Суна гина хийла мохк,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "dikaev-so-tsa-khochush-mettig-bats",
+    "type": "poem",
+    "title": {
+      "ce": "Со ца кхочуш меттиг бац",
+      "ru": "Нет места, куда бы я не добрался",
+      "en": "There Is Nowhere I Do Not Reach",
+      "fr": "Il n’est nul endroit que je n’atteigne"
+    },
+    "author": "Мохьмад Дикаев",
+    "tags": [
+      "дахар",
+      "бералла",
+      "некъ",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Хьовзорхьама, наха олу: / «Хьуна тӀаьхьа-м кхуьур вац,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "dikaev-lurvollachu-stegan-illi",
+    "type": "poem",
+    "title": {
+      "ce": "Лурвоьллачу стеган илли",
+      "ru": "Песня кровника (изгнанника)",
+      "en": "Song of the Outlawed Man",
+      "fr": "Le chant du proscrit"
+    },
+    "author": "Мохьмад Дикаев",
+    "tags": [
+      "оьздангалла",
+      "гӀиллакх",
+      "бала",
+      "философия",
+      "лаьмнаш"
+    ],
+    "text_preview": {
+      "ce": "Лаьхьанах таръелла, / ЧӀир юьртах хьаьрчича,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "sulaev-khin-yistekh",
+    "type": "poem",
+    "title": {
+      "ce": "Хин йистехь",
+      "ru": "У реки",
+      "en": "By the Waterside",
+      "fr": "Au bord de l’eau"
+    },
+    "author": "Магомет Сулаев",
+    "tags": [
+      "безам",
+      "дагалецамаш",
+      "лирика",
+      "буьйса"
+    ],
+    "text_preview": {
+      "ce": "Суьйренца, хилларш дагалоьцуш, / Хин йистехь тийна Ӏара со,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "sulaev-yoiy-zezaggiy",
+    "type": "poem",
+    "title": {
+      "ce": "ЙоӀӀий, зезаггий",
+      "ru": "Девушка и цветок",
+      "en": "The Maiden and the Flower",
+      "fr": "La jeune fille et la fleur"
+    },
+    "author": "Магомет Сулаев",
+    "tags": [
+      "лирика",
+      "Ӏалам",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "ХӀун ницкъ бу, алахь, / Органан йисттехь"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "sulaev-kante",
+    "type": "poem",
+    "title": {
+      "ce": "КӀанте",
+      "ru": "Сыну",
+      "en": "To My Son",
+      "fr": "À mon fils"
+    },
+    "author": "Магомет Сулаев",
+    "tags": [
+      "хьехам",
+      "оьздангалла",
+      "гӀиллакх",
+      "доттагӀалла"
+    ],
+    "text_preview": {
+      "ce": "Ма хилалахь нахаца, кӀант, цкъа а вочех: / Чам боккхий, дӀакхуссу тӀех муьста хьач."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "sulaev-adamalla",
+    "type": "poem",
+    "title": {
+      "ce": "Адамалла",
+      "ru": "Человечность",
+      "en": "Humanity",
+      "fr": "Humanité"
+    },
+    "author": "Магомет Сулаев",
+    "tags": [
+      "гӀиллакх",
+      "оьздангалла",
+      "вайнах",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Вайн ломахь дастаме / Лерина хьаша,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "saidov-bilal-nana",
+    "type": "poem",
+    "title": {
+      "ce": "Нана",
+      "ru": "Мать",
+      "en": "Mother",
+      "fr": "Mère"
+    },
+    "author": "Саидов Билал",
+    "tags": [
+      "нана",
+      "даймохк",
+      "тӀом",
+      "хьехам"
+    ],
+    "text_preview": {
+      "ce": "Дуьххьара мотт Ӏемаш, / Беро хьан цӀе йоккху,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "saidov-bilal-san-stikhe",
+    "type": "poem",
+    "title": {
+      "ce": "Сан стихе",
+      "ru": "Моему стиху",
+      "en": "To My Verse",
+      "fr": "À mon poème"
+    },
+    "author": "Саидов Билал",
+    "tags": [
+      "лирика",
+      "философия",
+      "ойла"
+    ],
+    "text_preview": {
+      "ce": "Цу лаьмнийн баххьашкахь, / Йист йоцчу арешкахь,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "saidov-bilal-ma-kega-sel-sirla",
+    "type": "poem",
+    "title": {
+      "ce": "Ма къега сел сирла",
+      "ru": "Не сияй так ярко",
+      "en": "Do Not Shine So Brightly",
+      "fr": "Ne brille pas d’un tel éclat"
+    },
+    "author": "Саидов Билал",
+    "tags": [
+      "философия",
+      "халкъ",
+      "даймохк",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Ма къега сел сирла, / ДӀавовр ву хьо, олу."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "saidov-bilal-kekhat",
+    "type": "poem",
+    "title": {
+      "ce": "Кехат",
+      "ru": "Письмо",
+      "en": "The Letter",
+      "fr": "La lettre"
+    },
+    "author": "Саидов Билал",
+    "tags": [
+      "безам",
+      "лирика",
+      "ойла"
+    ],
+    "text_preview": {
+      "ce": "Ахь боху, ма язде / Кхин кехат хьайга."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "satuev-nokhchiyn-belkhi",
+    "type": "poem",
+    "title": {
+      "ce": "Нохчийн белхи",
+      "ru": "Чеченский белхи (взаимопомощь)",
+      "en": "Chechen Belkhi (Communal Aid)",
+      "fr": "Le belkhi tchétchène (entraide)"
+    },
+    "author": "Хьусайн Сатуев",
+    "tags": [
+      "гӀиллакх",
+      "хелхар",
+      "оьздангалла",
+      "халкъ"
+    ],
+    "text_preview": {
+      "ce": "Лерехь потт йохуш, тӀараш а лелха, / Лоькхуш бу пондар, етташ ю жиргӀа."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "satuev-nenan-mukamash",
+    "type": "poem",
+    "title": {
+      "ce": "Ненан мукъамаш",
+      "ru": "Напевы матери",
+      "en": "Mother’s Melodies",
+      "fr": "Les mélodies d’une mère"
+    },
+    "author": "Хьусайн Сатуев",
+    "tags": [
+      "нана",
+      "бералла",
+      "илли",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "Хан йоцуш набарха юьйлуш, / Со вакхо аганах таьӀча,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "satuev-lamniyn-ber",
+    "type": "poem",
+    "title": {
+      "ce": "Лаьмнийн бер",
+      "ru": "Дитя гор",
+      "en": "Child of the Mountains",
+      "fr": "Enfant des montagnes"
+    },
+    "author": "Хьусайн Сатуев",
+    "tags": [
+      "лаьмнаш",
+      "маршо",
+      "турпала",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "Лаьмнийн бер – со, / нохчийн ненан шура мелла,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "khatuev-nakostashka",
+    "type": "poem",
+    "title": {
+      "ce": "Накъосташка",
+      "ru": "Товарищам",
+      "en": "To My Companions",
+      "fr": "À mes compagnons"
+    },
+    "author": "Ӏабдул-Хьамид Хатуев",
+    "tags": [
+      "доттагӀалла",
+      "оьздангалла",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Доцург алий, со ма хаставелаш, / Дерг дӀадаккхий, со ма вожаве."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "khatuev-baste-yer-yu",
+    "type": "poem",
+    "title": {
+      "ce": "БӀаьсте ер ю",
+      "ru": "Придёт весна",
+      "en": "Spring Will Come",
+      "fr": "Le printemps viendra"
+    },
+    "author": "Ӏабдул-Хьамид Хатуев",
+    "tags": [
+      "бӀаьсте",
+      "философия",
+      "дахар",
+      "илли"
+    ],
+    "text_preview": {
+      "ce": "БӀаьсте ер ю, дуьне хазлур ду, / Стигла кхийдаш делалур ду лаьмнаш."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "khatuev-yurtkhoshka",
+    "type": "poem",
+    "title": {
+      "ce": "Юьртхошка",
+      "ru": "Односельчанам",
+      "en": "To My Fellow Villagers",
+      "fr": "Aux gens de mon village"
+    },
+    "author": "Ӏабдул-Хьамид Хатуев",
+    "tags": [
+      "даймохк",
+      "нохчийчоь",
+      "лаьмнаш",
+      "сагатдалар"
+    ],
+    "text_preview": {
+      "ce": "Со хьелахь генарчу гӀалахь, / Даймахка ца боккхуш ког,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "abdulaev-as-zhayna-yazdina",
+    "type": "poem",
+    "title": {
+      "ce": "Ас жайна яздина…",
+      "ru": "Я книгу написал…",
+      "en": "I Have Written a Book…",
+      "fr": "J’ai écrit un livre…"
+    },
+    "author": "Леча Абдулаев",
+    "tags": [
+      "ненан мотт",
+      "нохчийн мотт",
+      "мотт",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Ас жайна яздина, / схьагарехь, бовш болчу маттахь."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "abdulaev-khan-yi-kho-nokhchiycho",
+    "type": "poem",
+    "title": {
+      "ce": "Хьан йи хьо, Нохчийчоь?",
+      "ru": "Кто сотворил тебя, Чечня?",
+      "en": "Who Created You, Chechnya?",
+      "fr": "Qui t’a créée, Tchétchénie ?"
+    },
+    "author": "Леча Абдулаев",
+    "tags": [
+      "нохчийчоь",
+      "даймохк",
+      "философия",
+      "бала"
+    ],
+    "text_preview": {
+      "ce": "Хьан йи хьо, Нохчийчоь, / Хьуна дай хӀитта,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "abdulaev-yokkha-stag",
+    "type": "poem",
+    "title": {
+      "ce": "Йоккха стаг",
+      "ru": "Старуха",
+      "en": "The Old Woman",
+      "fr": "La vieille femme"
+    },
+    "author": "Леча Абдулаев",
+    "tags": [
+      "нана",
+      "сингаттам",
+      "бала",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Цул гӀийла хӀума дацара. / КетӀахь иза хиъна Ӏачу"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "gaytukaeva-zama",
+    "type": "poem",
+    "title": {
+      "ce": "Зама",
+      "ru": "Время",
+      "en": "Time",
+      "fr": "Le temps"
+    },
+    "author": "Бана Гайтукаева",
+    "tags": [
+      "философия",
+      "оьздангалла",
+      "гӀиллакх",
+      "бала"
+    ],
+    "text_preview": {
+      "ce": "ХӀун до ахь, хӀун до ахь, / Дакъаза ма яларг,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "tsuruev-barzin-ozhalla",
+    "type": "poem",
+    "title": {
+      "ce": "Барзин Ӏожалла",
+      "ru": "Смерть Барзы",
+      "en": "The Death of Barza",
+      "fr": "La mort de Barza"
+    },
+    "author": "Шарип Цуруев",
+    "tags": [
+      "илли",
+      "истори",
+      "бала",
+      "нохчийчоь"
+    ],
+    "text_preview": {
+      "ce": "Хьо сийсара мичахь вара, Барза? / Хьо тховса а мичахь хир ву, Барза?"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "rashidov-tsa-teshash-chagonekh",
+    "type": "poem",
+    "title": {
+      "ce": "Ца тешаш чӀагӀонех хьо ела къежа…",
+      "ru": "Не веря клятвам, ты улыбаешься…",
+      "en": "Distrusting Vows, You Smile…",
+      "fr": "Sans croire aux serments, tu souris…"
+    },
+    "author": "Шаид Рашидов",
+    "tags": [
+      "безам",
+      "лирика",
+      "къастар"
+    ],
+    "text_preview": {
+      "ce": "Ца тешаш чӀагӀонех хьо ела къежа, / Беснеш а лечкъайо. Хета къиза."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "yusupov-san-illesh-nokhchiykhoh-dissalash",
+    "type": "poem",
+    "title": {
+      "ce": "Сан иллеш, даим а Нохчийчохь диссалаш…",
+      "ru": "Песни мои, навсегда оставайтесь в Чечне…",
+      "en": "My Songs, Remain Forever in Chechnya…",
+      "fr": "Mes chants, demeurez à jamais en Tchétchénie…"
+    },
+    "author": "Ибрагим Юсупов",
+    "tags": [
+      "нохчийчоь",
+      "илли",
+      "даймохк",
+      "къам"
+    ],
+    "text_preview": {
+      "ce": "Сан иллеш, даим а Нохчийчохь диссалаш, / Махкана тешаме олхазарш хилий."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "gatsaev-mokh-beli",
+    "type": "poem",
+    "title": {
+      "ce": "Мох бели…",
+      "ru": "Поднялся ветер…",
+      "en": "The Wind Arose…",
+      "fr": "Le vent s’est levé…"
+    },
+    "author": "СаьӀид Гацаев",
+    "tags": [
+      "некъ",
+      "лаьмнаш",
+      "сагатдалар",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Мох бели – гӀа ца лести. / Ло дуьйжи коьрта тӀе."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "petirova-as-khuna-akh-suna",
+    "type": "poem",
+    "title": {
+      "ce": "Ас хьуна, ахь суна лерина иллеш…",
+      "ru": "Песни, посвящённые мной тебе и тобой мне…",
+      "en": "Songs Dedicated by Me to You and by You to Me…",
+      "fr": "Les chants que nous nous sommes dédiés…"
+    },
+    "author": "Петимат Петирова",
+    "tags": [
+      "безам",
+      "лирика",
+      "илли",
+      "некъ"
+    ],
+    "text_preview": {
+      "ce": "Ас хьуна, ахь суна лерина иллеш, / Хьуна тӀе, суна тӀе вай дина некъаш,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "petirova-ekama-konalla",
+    "type": "poem",
+    "title": {
+      "ce": "Экама къоналла пхийттара йолуш…",
+      "ru": "Когда хрупкой юности минуло пятнадцать…",
+      "en": "When Fragile Youth Turned Fifteen…",
+      "fr": "Quand la frêle jeunesse eut quinze ans…"
+    },
+    "author": "Петимат Петирова",
+    "tags": [
+      "безам",
+      "лирика",
+      "сатийсам"
+    ],
+    "text_preview": {
+      "ce": "Экама къоналла пхийттара йолуш, / Сан гӀенаш хьистинарг хьан амат дац."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-uzam-dakaza-ma-dala-malkh-kheta",
+    "type": "song",
+    "title": {
+      "ce": "Дакъаза ма дала хьо, малх кхета ва дуьне…",
+      "ru": "Да не будешь ты несчастен, солнечный мир…",
+      "en": "May You Not Be Wretched, Sunlit World…",
+      "fr": "Ne sois pas malheureux, monde baigné de soleil…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "философия",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Дакъаза ма дала хьо, малх кхета ва дуьне, / Аьнгале бошхепахь накхармоз санна,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-uzam-suyrenash-yats-bokhu",
+    "type": "song",
+    "title": {
+      "ce": "Суьйренаш яц боху…",
+      "ru": "Говорят, нет вечеров…",
+      "en": "They Say There Are No Evenings…",
+      "fr": "On dit qu’il n’est point de soirs…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "философия",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Суьйренаш яц боху, / Ӏуьйренаш яц боху,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-uzam-chorin-singattame-illi",
+    "type": "song",
+    "title": {
+      "ce": "Чорин сингаттаме илли",
+      "ru": "Печальная песня Чоры",
+      "en": "Chora’s Sorrowful Illi",
+      "fr": "Le chant mélancolique de Tchora"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "истори",
+      "маршо",
+      "сингаттам"
+    ],
+    "text_preview": {
+      "ce": "Юткъачу гӀодаюкъах / Дихкина ва доьхка,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-uzam-chuyna-bolat",
+    "type": "song",
+    "title": {
+      "ce": "И чуьйна болат ма чӀогӀа ду…",
+      "ru": "Как крепка чугунная сталь…",
+      "en": "How Strong Is Cast Steel…",
+      "fr": "Qu’il est dur, l’acier fondu…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "депортаци",
+      "бала",
+      "истори"
+    ],
+    "text_preview": {
+      "ce": "И чуьйна болат ма чӀогӀа ду, / И сенчу цӀаро дагадо."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-uzam-khara-uzam-olu-as",
+    "type": "song",
+    "title": {
+      "ce": "ХӀара узам олу ас, сайн синтем байна…",
+      "ru": "Этот узам пою я, покой потеряв…",
+      "en": "I Sing This Uzam, Having Lost My Peace…",
+      "fr": "Je chante cet ouzam, ayant perdu ma paix…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "безам",
+      "къастар",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "ХӀара узам олу ас, сайн синтем байна. / Соьгара сан бала безамца беъна,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-uzam-soratarchu-maltin-illi",
+    "type": "song",
+    "title": {
+      "ce": "Соратарчу Маьлтин илли",
+      "ru": "Песня Малты из Сората",
+      "en": "The Illi of Malta of Sorat",
+      "fr": "Le chant de Malta de Sorat"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "бала",
+      "лаьмнаш",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Дуьненна го лаьцна / Дохк-марха санна,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-uzam-davala-khan-dela",
+    "type": "song",
+    "title": {
+      "ce": "Давала хьан делаъ, ва мерза ва дуьне…",
+      "ru": "О сладостный мир, кто вкусил тебя вдоволь…",
+      "en": "O Sweet World, Who Ever Tasted You to the Full…",
+      "fr": "Ô doux monde, qui t’a jamais goûté selon son vœu…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "сагатдалар",
+      "истори",
+      "бала"
+    ],
+    "text_preview": {
+      "ce": "Давала хьан делаъ, / Ва мерза ва дуьне,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-uzam-dakaza-ma-dala-go-tuysu",
+    "type": "song",
+    "title": {
+      "ce": "Дакъаза ма дала, го туьйсу хьо дуьне…",
+      "ru": "Вращающийся мир, кого ты приголубил…",
+      "en": "Whirling World, Whom Have You Cherished…",
+      "fr": "Monde tournoyant, qui donc as-tu choyé…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "философия",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Дакъаза ма дала, го туьйсу хьо дуьне, / Цкъа малхо делало, догӀано делхадо."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-uzam-say",
+    "type": "song",
+    "title": {
+      "ce": "Сай",
+      "ru": "Олень",
+      "en": "The Stag",
+      "fr": "Le cerf"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "Ӏалам",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Ламанах бухдуьйлу шал шийла шовданаш / Шен бекъачу кийранна Ӏаббалац ца молуш,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-uzam-yakh-yolu-kentiy",
+    "type": "song",
+    "title": {
+      "ce": "Яхь йолу кӀентий",
+      "ru": "Доблестные сыны",
+      "en": "Valiant Sons",
+      "fr": "Fils valeureux"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "тӀом",
+      "турпала",
+      "истори"
+    ],
+    "text_preview": {
+      "ce": "Да велла диса хьо, / Кийрара дилхи дог,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-uzam-khar-dune-mel-du",
+    "type": "song",
+    "title": {
+      "ce": "ХӀар дуьне мел ду",
+      "ru": "По всему этому миру",
+      "en": "Across This Whole World",
+      "fr": "À travers ce vaste monde"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "ойла",
+      "сингаттам",
+      "депортаци"
+    ],
+    "text_preview": {
+      "ce": "Дуьненна го туьйсуш, / Ма хьаьдда хьийза хьо,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-uzam-tam-siyna-khokha",
+    "type": "song",
+    "title": {
+      "ce": "ХӀе боьду тӀам сийна кхокха…",
+      "ru": "Лети, сизокрылый голубь…",
+      "en": "O Blue-Winged Dove Flying Yonder…",
+      "fr": "Ô colombe aux ailes bleues qui t’envoles…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "сагатдалар",
+      "тӀом",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "ХӀе боьду тӀам сийна кхокха, / Зен-зулам доцуш ДегӀастане кхачахь,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-eshar-bay-te-bayrakh",
+    "type": "song",
+    "title": {
+      "ce": "Бай тӀе байракх ва етташ…",
+      "ru": "Водружая знамя на лугу… (Песня о Шамиле)",
+      "en": "Planting the Banner on the Meadow… (Song of Shamil)",
+      "fr": "Plantant l’étendard sur le pré… (Chant de Chamil)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "истори",
+      "турпала",
+      "тӀом"
+    ],
+    "text_preview": {
+      "ce": "Бай тӀе байракх ва етташ, / БӀо ловзо Шамил,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-eshar-tsokaloman-bibolat",
+    "type": "song",
+    "title": {
+      "ce": "ЦӀоькъалоьман ва санна, цӀе йолу Биболат…",
+      "ru": "Биболат, чьё имя гремит, как у барса…",
+      "en": "Bibolat, Renowned Like the Snow Leopard…",
+      "fr": "Bibolat, au renom de panthère…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "истори",
+      "турпала"
+    ],
+    "text_preview": {
+      "ce": "ЦӀоькъалоьман ва санна, цӀе йолу Биболат, / Хьан цӀе ма южийла лоьман южуш а."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-eshar-khara-uyrenash-tuoluchu",
+    "type": "song",
+    "title": {
+      "ce": "ХӀара Ӏуьйренаш туолучу хенахь…",
+      "ru": "В пору, когда хорошеют утра… (Плач сестры)",
+      "en": "When the Mornings Grow Fair… (A Sister’s Lament)",
+      "fr": "À l’heure où les matins s’embellissent… (Complainte d’une sœur)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "бала",
+      "истори",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "ХӀара Ӏуьйренаш туолучу хенахь, / ХӀара суьйренаш туолучу хенахь,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-eshar-lamanan-agongakha",
+    "type": "song",
+    "title": {
+      "ce": "Ламанан агӀонгахьа…",
+      "ru": "На горном склоне, когда поднялась пурга…",
+      "en": "On the Mountainside When the Thick Blizzard Rose…",
+      "fr": "Au flanc des monts quand s’est levée la tourmente…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "истори",
+      "маршо",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Ламанан агӀонгахьа / Дуькъа дарц ва даьлча,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-eshar-borza-kh-yatsiy-siyna-sibrekh",
+    "type": "song",
+    "title": {
+      "ce": "Борза-х яций хьо, сийна Сибрех…",
+      "ru": "Ведь не из бронзы ты, синяя Сибирь…",
+      "en": "You Are Not Made of Bronze, Blue Siberia…",
+      "fr": "Tu n’es donc pas d’airain, bleue Sibérie…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "истори",
+      "маршо"
+    ],
+    "text_preview": {
+      "ce": "Борза-х яций хьо, сийна Сибрех, / Болатан яций хьо, сийна Сибрех,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-tiyzham-tam-botsu-lecha",
+    "type": "song",
+    "title": {
+      "ce": "ТӀам боцу леча ду со…",
+      "ru": "Я — сокол бескрылый… (Лирический плач)",
+      "en": "I Am a Wingless Falcon… (Lyric Lament)",
+      "fr": "Je suis un faucon sans ailes… (Complainte lyrique)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "бала",
+      "доьзал",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "ТӀам боцу леча ду со, / ГӀа доцу сара бу со,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-satiran-eshar-khetachu-malkhatsa",
+    "type": "song",
+    "title": {
+      "ce": "Кхетачу малхаца, бузучу малхаца…",
+      "ru": "На восходе и на закате ты пришёл к реке…",
+      "en": "At Sunrise and Sunset You Came to the Riverbank…",
+      "fr": "Au lever comme au coucher du soleil tu es venu au bord de l’eau…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "сатира",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Кхетачу малхаца, бузучу малхаца, / Хазачу суьренца хин йисте веара хьо."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "tokkaev-gechdelakh-latta",
+    "type": "song",
+    "title": {
+      "ce": "Гечделахь, Латта",
+      "ru": "Прости, Земля",
+      "en": "Forgive Us, O Land",
+      "fr": "Pardonne, ô Terre"
+    },
+    "author": "Сулейман Токкаев",
+    "tags": [
+      "илли",
+      "даймохк",
+      "ненан мотт",
+      "гӀиллакх",
+      "оьздангалла"
+    ],
+    "text_preview": {
+      "ce": "ХӀай, Латта, ахь гечдир дуй, / Хьо эрна хьоьшуш болчарна,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "sulaev-aganan-yish",
+    "type": "song",
+    "title": {
+      "ce": "Аганан йиш",
+      "ru": "Колыбельная песня",
+      "en": "Cradle Song",
+      "fr": "Berceuse"
+    },
+    "author": "Магомет Сулаев",
+    "tags": [
+      "илли",
+      "бералла",
+      "нана",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "Мархаш дӀатеттина, / ЦӀеххьана къегина,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "khatuev-chekhyeli-san-yotsa-baste",
+    "type": "song",
+    "title": {
+      "ce": "Чекхъели сан йоца бӀаьсте",
+      "ru": "Прошла моя короткая весна",
+      "en": "My Brief Spring Has Ended",
+      "fr": "Mon court printemps s’est achevé"
+    },
+    "author": "Ӏабдул-Хьамид Хатуев",
+    "tags": [
+      "илли",
+      "безам",
+      "къастар",
+      "гуьйре",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Чекх ели сан йоца бӀаьсте, / Доьлхуш ду гуьйренан дерз."
+    },
+    "available_languages": [
+      "ce"
+    ]
   }
 ]
