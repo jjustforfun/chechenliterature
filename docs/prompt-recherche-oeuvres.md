@@ -2,7 +2,7 @@
 
 > À lire **avant chaque recherche de nouvelles œuvres** à ajouter au portail.
 > Complète `README.md`, `docs/prompt-palotchka.md` et les rapports `docs/ajout-*.md`.
-> Dernière mise à jour : 2026-11-26 (lot 3).
+> Dernière mise à jour : 2026-11-26 (lot 4).
 
 Vous êtes un agent IA chargé de **trouver de vraies œuvres littéraires tchétchènes**
 (poèmes, chants/иллеш, prose) déjà publiées en ligne, et de les ajouter au catalogue
@@ -95,14 +95,17 @@ Le texte utilise `1`/`I` comme palotchka ; vers balisés `<p>`. **Source la plus
 | `c490.htm` | Сатиран эшарш | 🔶 № 3 (lot 1), № 1, 2, 4, 9, 10 (lot 2), № 5, 6, 7, 11 (lot 3). **Restent : № 8** (cycle « зуда йолу кӀанат » — proche de № 7), **№ 12–15** (cycle « Хьешана лекхна эшарш » — quatrains courts, variantes à évaluer soigneusement). |
 | `c498.htm` | Лирикан тийжамаш | 🔶 № 3 (lot 1), № 2, 4, 5, 6 (lot 2). № 1 écarté (`TIepa`, substituts latins). **Épuisée.** |
 | `c488.htm` | Забаре эшарш | ✅ № 1–8 (2026-11-25) |
-| `c493.htm` | Хелхаран эшарш | 🔶 № 1, 3, 10, 13 (2026-11-25). № 16 « XIe, месаш » : substituts latins ambigus (à relire sur l'imprimé) ; № 17, 25, 26 fragmentaires. **Autres numéros à vérifier.** |
-| `c457.htm` | Ӏер-дахаран хьокъехь эшарш | 🔶 № 1, 15 (2026-11-25), № 2, 7, 8, 13, 16 (lot 3). № 3 et 7 partagent un refrain, № 4/5/6/9–12/14/17–18 à vérifier. |
-| `c471.htm` | Безаман эшарш (chants d'amour) | 🔶 6 utilisés le 2026-11-11 (№s 1, 3, 4, 5, 9, 12…). **Autres numéros à vérifier.** |
-| `c20.htm` | Къинхьегаман эшарш (chants de travail) | 🔶 № 18, 26 (2026-11-11). **Autres numéros à vérifier.** |
+| `c493.htm` | Хелхаран эшарш | 🔶 № 1, 3, 10, 13 (2026-11-25), № 2, 14, 18, 21, 23 (lot 4). № 16 « XIe, месаш » : substituts latins ambigus (à relire sur l'imprimé) ; № 17, 25, 26 fragmentaires. **Restent à vérifier : № 4–9, 11, 12, 15, 19, 20, 22, 24** (courts, souvent des distiques à refrain « ла-ла-ла »). |
+| `c457.htm` | Ӏер-дахаран хьокъехь эшарш | 🔶 № 1, 15 (2026-11-25), № 2, 7, 8, 13, 16 (lot 3). Relu intégralement le lot 4 : № 3 reprend le refrain de № 7 ; restent **№ 4, 5, 6, 9, 10, 11, 12, 14, 17–34** (longues complaintes de la fille sans frère / de la mère — comparer à № 15 « Нанна » avant ajout). |
+| `c471.htm` | Безаман эшарш (chants d'amour) | 🔶 **Au catalogue : № 1, 2, 6, 7, 8, 13** (2026-11-11) **+ № 3, 22, 29** (lot 4). Restent **№ 4, 5, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 30–37** (longues complaintes où alternent les couplets de la fille et de la mère ; comparer à `folk-ier-dakharan-eshar-nanna`). |
+| `c20.htm` | Къинхьегаман эшарш (chants de travail) | 🔶 **Au catalogue : № 18, 26** (2026-11-11) **+ № 1 & 2** (réunis en une seule fiche, lot 4). Restent **№ 3–17, 19–25, 27–31** et **№ 1–5** de la section finale « Къинхьегамах лаьцна эшарш » (textes de 2 à 8 vers, souvent de simples cris de travail — retenir seulement ceux qui ont un vrai contenu). |
 | `c141.htm` | Берийн фольклор (берийн / аганан / берийн эшарш) | 🔶 №s 1, 3, 4, 5 (аганан), 3, 4 (берийн), comptine XXXI № 6, хӀеттарш XXXIII № 2 (2026-11-11). **Autres numéros à vérifier.** |
+| `c36.htm` | Сардамаш (imprécations rituelles) | 🔶 № 7 (lot 4). № 5, 6, 9, 13, 14 sont des **anecdotes en prose** encadrant des formules ; № 1–4, 8, 10–12 sont des formules d'un à quatre vers (matière possible, à valider). |
 | `c447.htm` | Халкъан новеллаш | ✅ № 4, 5, 7, 8 (2026-11-11 lot 2) |
 | `c115.htm` | Contes d'animaux / fables | 🔶 « Эмкал » (Эмкал), « ХӀиллане цхьогал », « Сутаралла » (2026-11-11) |
 | `c415.htm`, `c418.htm` | (autres sections) | ❌ coquilles OCR irrécupérables (`Юайчу`, `белахъ`) — 2026-11-26 |
+| `c502.htm` | Сатира а, забаре а (37 histoires drôles) | ❌ hors périmètre poèmes/chants : `дийцарш` en prose (relèverait de `prose.json`) — relu lot 4 |
+| `c401.htm`, `c227.htm`, autres grandes иллеш | corpus héroïque `c251`–`c421` | ❌/⏸ **corruption de colonne uCoz** : l'initiale du premier mot de chaque vers est rejetée sur la ligne précédente (« Цlонтарой ва Дада » au lieu de « цlонтарой ва Дада »). Restitution impossible sans l'imprimé ; à traiter avec relecture — constat lot 4 |
 
 ### 4.2 Маршо Радио — онлайн-библиотека (`https://www.radiomarsho.com/`)
 Bibliothèque audio de poèmes tchétchènes, avec texte intégral par page (`/a/<id>.html`).
@@ -117,6 +120,20 @@ liste complète dans la rubrique **ОНЛАЙН БИБЛИОТЕКА** (`/z/1753
   → « Дахаран генаш », « Нене », « Борз ю угӀуш », « Кхин цкъа а хьоьжур вац… » ajoutés ;
   « Шовда » déjà au catalogue ; « Шуьнехь Дош (Дагаев Валиде) » écarté (attribution ambiguë).
   [`30401849`](https://www.radiomarsho.com/a/30401849.html) (Гадаев) → « Суьйре, Ӏуьйре гӀийла йогӀу… ».
+- 🆕 Dépouillé le 2026-11-26 (lot 4) : pages `p=1`, `p=2` et `p=3` de
+  [`z/17538`](https://www.radiomarsho.com/z/17538) (publications 2021–2022) et toutes les pages
+  listées ci-dessus. Retenus : « Весет » et « Дагца къамел » de **Хьамзат Талхадов** (nouvel
+  auteur → `AUTHOR_NAMES`), et 4 poèmes de **ШаӀрани Хасаров** (« ТӀеман мукъамаш », « Лулахойн
+  бешахь », « ЧӀирдига керла шо дустар », « Гергарлонаш »). Écartés : « Поэт » d'Ильман Юсупов
+  (prose), « Стигла-гӀала* » (notes lexicales de bas de page à arbitrer), « Ӏуьйре йогӀу, суьйре
+  йоьду… » de Гадаев (variante de `gadaev-suyre-uyre-ghiyyla-yoghu`), « Махкахошка » de Хатуев
+  (à comparer), 5 pages d'Апти Бисултанов (recoupement des 37 fiches à faire).
+  **Restent à dépouiller** : « Хьонке дахар » et 10 autres poèmes de ШаӀрани Хасаров (pages
+  `31495720`, `31495709`, `31495714`, `31495705`, `31041954`, `31041956`, `31041960`, `31038870`,
+  `31038867`, `31034408`, `31034404`), les 5 pages d'Апти Бисултанов (`28010735`, `30662617`,
+  `28980904`, `27387696`, `27368820`), « ЙоьӀан доӀа » de Хатуев (`29472792`), « Цхьа некъ » /
+  « Иэсан биста йисте » de Муса Бексултанов (`31759190`, `31759199`, prose), « Со хьуна йоьгӀна яц… »
+  d'Абузар Айдамиров (`28125870`), « Нохчийчоьне » de Сулейманов Юсуп (`30875919`).
 - 🆕 Dépouillé le 2026-11-26 (lot 3) : première page de [`z/17538`](https://www.radiomarsho.com/z/17538)
   ( publications 2022 ) — 3 poèmes d'Ильман Юсупов (`29243176`, `31759163`, `31759181`),
   « Дадин ан » de ШаӀрани Хасаров (`31495711`), « Сан нохчийн йоӀ » de Шаид Рашидов
@@ -124,8 +141,9 @@ liste complète dans la rubrique **ОНЛАЙН БИБЛИОТЕКА** (`/z/1753
   Мамакаев (`31804920`), doublon exact de `mokhmad-mamakaev-dyayala` ; « ДоӀа » de
   Мохьмад Сулаев (`31804926`), attribution ambiguë avec Магомет Сулаев (déjà au catalogue) ;
   `31804917` (***) et `31804931` (***), sans titre.
-- **Restent à dépouiller** : les pages suivantes de `/z/17538?p=1…` et les pages d'index des
-  autres poètes ; les publications 2019–2020 et 2022 non lues de la rubrique.
+- **Restent à dépouiller** : les pages `p=4` et suivantes de `/z/17538`, et les pages d'index
+  des autres poètes (ex. [`z/17581`](https://www.radiomarsho.com/z/17581) pour Сулейманов,
+  dorénavant épuisée côté poèmes) ; les publications 2019–2020 non lues de la rubrique.
 
 ### 4.3 Waynakh Online (`https://www.waynakh.com/`)
 Blog édité par la diaspora tchétchène ; catégories `/fr/`, `/eng/` — poèmes avec traduction
