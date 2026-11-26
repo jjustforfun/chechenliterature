@@ -10790,5 +10790,351 @@
     "available_languages": [
       "ce"
     ]
+  },
+  {
+    "id": "suleimanov-daharan-genash",
+    "type": "poem",
+    "title": {
+      "ce": "Дахаран генаш",
+      "ru": "Ветви жизни",
+      "en": "Branches of Life",
+      "fr": "Les branches de la vie"
+    },
+    "author": "Ахмад Сулейманов",
+    "tags": [
+      "дахар",
+      "хьехам",
+      "къонаха"
+    ],
+    "text_preview": {
+      "ce": "ГӀала яккха со ца воллу,- / Цул чӀогӀа ду адаман дог..."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "suleimanov-nene",
+    "type": "poem",
+    "title": {
+      "ce": "Нене",
+      "ru": "Матери",
+      "en": "To Mother",
+      "fr": "À ma mère"
+    },
+    "author": "Ахмад Сулейманов",
+    "tags": [
+      "нана",
+      "безам",
+      "доьзал"
+    ],
+    "text_preview": {
+      "ce": "Куьг ца кхочче ваьлча гена / ХӀинцаъ хьоьга ла ца ло."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "suleimanov-borz-yu-ugush",
+    "type": "poem",
+    "title": {
+      "ce": "Борз ю угӀуш…",
+      "ru": "Волк воет…",
+      "en": "The Wolf Howls…",
+      "fr": "Le loup hurle…"
+    },
+    "author": "Ахмад Сулейманов",
+    "tags": [
+      "Ӏалам",
+      "философия",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Борз ю угӀуш дера-дера. / Дарцо тӀаьхьара лоькху йиш."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "suleimanov-kkhin-tskha-a-khoezhur",
+    "type": "poem",
+    "title": {
+      "ce": "Кхин цкъа а хьоьжур вац со бӀаьсте яре…",
+      "ru": "Больше ни разу не гляну я на приход весны…",
+      "en": "No Longer Will I Ever Look upon the Coming Spring…",
+      "fr": "Je ne verrai plus jamais venir le printemps…"
+    },
+    "author": "Ахмад Сулейманов",
+    "tags": [
+      "безам",
+      "лирика",
+      "зезагаш"
+    ],
+    "text_preview": {
+      "ce": "Кхин цкъа а хьоьжур вац / Со бӀаьсте яре,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "gadaev-suyre-uyre-giyla-yogu",
+    "type": "poem",
+    "title": {
+      "ce": "Суьйре, Ӏуьйре гӀийла йогӀу…",
+      "ru": "Вечер, утро наступает медленно…",
+      "en": "Evening, the Morning Comes Slowly…",
+      "fr": "Le soir, le matin vient lentement…"
+    },
+    "author": "Мохьмад-Салахь Гадаев",
+    "tags": [
+      "безам",
+      "сагатдалар",
+      "сингаттам"
+    ],
+    "text_preview": {
+      "ce": "Суьйре, Ӏуьйре гӀийла йогӀу, / Буьйсанаш ас шийла йоху,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-uzam-khara-nazma-olu-sha",
+    "type": "song",
+    "title": {
+      "ce": "ХӀара назма олу ша…",
+      "ru": "Эту назму он читает…",
+      "en": "He Recites This Nazm…",
+      "fr": "Il récite cette nazm…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "вера",
+      "сингаттам",
+      "бала"
+    ],
+    "text_preview": {
+      "ce": "ХӀара назма олу ша, / ГӀелвелла олу ша."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-tiyzham-duene-dezash-khyo",
+    "type": "song",
+    "title": {
+      "ce": "Дуьне дезаш хьоьх дисча…",
+      "ru": "Когда мир остаётся тебе дорогим…",
+      "en": "When the World Remains Dear to You…",
+      "fr": "Quand le monde te reste cher…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "бала",
+      "доьзал",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Дуьне дезаш хьоьх дисча, / Нанас йинчо муха хьоьшур ду;"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-tiyzham-san-ken-daka",
+    "type": "song",
+    "title": {
+      "ce": "Сан къен дакъа…",
+      "ru": "Моя бедная доля…",
+      "en": "My Poor Lot…",
+      "fr": "Mon pauvre lot…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "бала",
+      "доьзал",
+      "сагатдалар"
+    ],
+    "text_preview": {
+      "ce": "Сан къен дакъа, деца йинарг яла хьан, / Юьртан пхьоьханах яьккхи ахьа со,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-tiyzham-suyranna-ma-yelkha",
+    "type": "song",
+    "title": {
+      "ce": "Суьйранна ма елха…",
+      "ru": "Не плачь вечером…",
+      "en": "Weep Not in the Evening…",
+      "fr": "Ne pleure pas le soir…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "нана",
+      "бала",
+      "сингаттам"
+    ],
+    "text_preview": {
+      "ce": "Суьйранна ма елха, со вина сан нана, / Гуьйранна ема елха, со вина сан нана."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-tiyzham-kho-tsomgush-vuy",
+    "type": "song",
+    "title": {
+      "ce": "Хьо цомгуш вуй тхайна хиънехь…",
+      "ru": "Услышав, что ты болен…",
+      "en": "If We Heard That You Were Ill…",
+      "fr": "Si nous apprenions que tu es malade…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "бала",
+      "доьзал",
+      "Ӏожалла"
+    ],
+    "text_preview": {
+      "ce": "Хьо цомгуш вуй тхайна хиънехь, / Хьо гӀелвеллий тхайна хиънехь,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-satiran-eshar-tskha-miska-stag",
+    "type": "song",
+    "title": {
+      "ce": "Цхьа миска стаг…",
+      "ru": "Один бедный человек…",
+      "en": "One Poor Man…",
+      "fr": "Un pauvre homme…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "сатира",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Цхьа миска стаг зуда ю хьан, / Цхьа чоь юьззина доьзал бу хьан,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-satiran-eshar-gatan-khechin",
+    "type": "song",
+    "title": {
+      "ce": "Гатан хечин маьӀгаш ю…",
+      "ru": "Штаны из холста…",
+      "en": "Canvas Trousers…",
+      "fr": "Un pantalon de toile…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "сатира",
+      "забаре",
+      "хьехам"
+    ],
+    "text_preview": {
+      "ce": "Гатан хечин маьӀгаш ю нанаяларий, / Шолан куча киснаш ду нанаяларий,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-satiran-eshar-korekh-kor",
+    "type": "song",
+    "title": {
+      "ce": "Корехь кор ма ца оьшу…",
+      "ru": "Дверь в двери не нужна…",
+      "en": "No Door Is Needed behind a Door…",
+      "fr": "Nul besoin de porte derrière une porte…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "сатира",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Корехь кор ма ца оьшу, / НеӀрехь неӀ ма ца оьшу,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-satiran-eshar-basaro-tsiyina",
+    "type": "song",
+    "title": {
+      "ce": "Басаро цӀийина…",
+      "ru": "Подкрасив глаза косметикой…",
+      "en": "Having Painted Her Eyes with Kohl…",
+      "fr": "S'étant fardée les yeux…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "сатира",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Басаро цӀийина, дари-да-да-да, / Пударо кӀаййина, дари-да-да-да,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-satiran-eshar-as-tsa-dinar",
+    "type": "song",
+    "title": {
+      "ce": "Ас ца динарг хьан дер олий…",
+      "ru": "О том, кто похваляется…",
+      "en": "About One Who Boasts…",
+      "fr": "Sur un vantard…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "сатира",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Ас ца динарг хьан дер олий, / Динарг дохо мила ву олий,"
+    },
+    "available_languages": [
+      "ce"
+    ]
   }
 ]
