@@ -12151,5 +12151,225 @@
     "available_languages": [
       "ce"
     ]
+  },
+  {
+    "id": "folk-work-khovza-belan-muk",
+    "type": "song",
+    "title": {
+      "ce": "Хьовза, хьовза белан мукъ хьо…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "фольклор",
+      "эшарш",
+      "къинхьегам"
+    ],
+    "text_preview": {
+      "ce": "Хьовза, хьовза белан мукъ хьо,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-work-urs-ira",
+    "type": "song",
+    "title": {
+      "ce": "Урс, хьо урс, ва ира урс…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "фольклор",
+      "эшарш",
+      "къинхьегам"
+    ],
+    "text_preview": {
+      "ce": "Урс, хьо урс, ва ира урс,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-work-lasta-mangal",
+    "type": "song",
+    "title": {
+      "ce": "Ласта мангал, цаста буц…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "фольклор",
+      "эшарш",
+      "къинхьегам"
+    ],
+    "text_preview": {
+      "ce": "Ласта мангал, цаста буц,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-work-kuyra-lasta",
+    "type": "song",
+    "title": {
+      "ce": "Куьйра, куьйра, ласта…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "фольклор",
+      "эшарш",
+      "къинхьегам"
+    ],
+    "text_preview": {
+      "ce": "Куьйра, куьйра, ласта,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-work-kuyra-erza",
+    "type": "song",
+    "title": {
+      "ce": "Куьйра, куьйра, ерза…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "фольклор",
+      "эшарш",
+      "къинхьегам"
+    ],
+    "text_preview": {
+      "ce": "Куьйра, куьйра, ерза,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-work-dig-pop",
+    "type": "song",
+    "title": {
+      "ce": "Диг тоха, поп, боха…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "фольклор",
+      "эшарш",
+      "къинхьегам"
+    ],
+    "text_preview": {
+      "ce": "Диг тоха,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-work-khokh-beza",
+    "type": "song",
+    "title": {
+      "ce": "Хьокх, хьокх, беза хьокх…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "фольклор",
+      "эшарш",
+      "къинхьегам"
+    ],
+    "text_preview": {
+      "ce": "Хьокх, хьокх, беза хьокх,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-work-yalta-yalta",
+    "type": "song",
+    "title": {
+      "ce": "Ялта, ялта, хьекъалахь…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "фольклор",
+      "эшарш",
+      "къинхьегам"
+    ],
+    "text_preview": {
+      "ce": "Ялта, ялта, хьекъалахь,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-work-ts1e-latosh",
+    "type": "song",
+    "title": {
+      "ce": "КӀур, кӀур, дӀанехьа бала…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "фольклор",
+      "эшарш",
+      "къинхьегам"
+    ],
+    "text_preview": {
+      "ce": "КӀур, кӀур, дӀанехьа бала,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-work-chovh-mangal",
+    "type": "song",
+    "title": {
+      "ce": "ЧовхӀ, човхӀ, ира мангал…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "фольклор",
+      "эшарш",
+      "къинхьегам"
+    ],
+    "text_preview": {
+      "ce": "ЧовхӀ, човхӀ, ира мангал,"
+    },
+    "available_languages": [
+      "ce"
+    ]
   }
 ]
