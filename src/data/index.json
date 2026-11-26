@@ -12042,5 +12042,114 @@
     "available_languages": [
       "ce"
     ]
+  },
+  {
+    "id": "khasarov-sharani-zha-dazhor",
+    "type": "poem",
+    "title": {
+      "ce": "Жа дажор",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "ШаӀрани Хасаров",
+    "tags": [
+      "лирика",
+      "дахар",
+      "лаьмнаш"
+    ],
+    "text_preview": {
+      "ce": "Стиглахь бохло хӀинца малх. / Серлабевлла хьийза нах,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "khatuev-yoian-doa",
+    "type": "poem",
+    "title": {
+      "ce": "ЙоьӀан доӀа",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Ӏабдул-Хьамид Хатуев",
+    "tags": [
+      "иман",
+      "доьзал"
+    ],
+    "text_preview": {
+      "ce": "Везан дела! / Лохьа тхуна"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-ber-khostush-khala-vogu",
+    "type": "poem",
+    "title": {
+      "ce": "Хьала вогӀу",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "берийн литература",
+      "бераш",
+      "халкъан"
+    ],
+    "text_preview": {
+      "ce": "Хьала вогӀу / Сай вогӀу,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-work-toha-metig",
+    "type": "song",
+    "title": {
+      "ce": "Тоха метиг, Ӏотта бел…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Тоха метиг, Ӏотта бел, / Дейша асар цӀенна."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-work-tukar-kade-dolalo",
+    "type": "song",
+    "title": {
+      "ce": "Тукар, каде долало…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Тукар, каде долало, / Нийса хаза хадайе."
+    },
+    "available_languages": [
+      "ce"
+    ]
   }
 ]
