@@ -41,6 +41,7 @@ const AUTHOR_NAMES = {
   'Насруди Ярычев': { en: 'Nasrudi Yarychev', fr: 'Nasrudi Yarytchev' },
   'Раиса Ахматова': { en: 'Raisa Akhmatova', fr: 'Raissa Akhmatova' },
   'Рамазан Берзлоев': { en: 'Ramazan Berzloev', fr: 'Ramazan Berzloev' },
+  'Руслан Ахтаханов': { en: 'Ruslan Akhtakhanov', fr: 'Rouslan Akhtakhanov' },
   'Саид-Хамзат Нунуев': { en: 'Said-Khamzat Nunuev', fr: 'Said-Khamzat Nounouev' },
   'Саид-Хасан Ойбуев': { en: 'Said-Khasan Oybuyev', fr: 'Said-Khassan Oybouyev' },
   'Умар Яричев': { en: 'Umar Yarychev', fr: 'Oumar Yarytchev' },
