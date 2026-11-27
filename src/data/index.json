@@ -12675,5 +12675,328 @@
     "available_languages": [
       "ce"
     ]
+  },
+  {
+    "id": "folk-adatty-poezia-dog1a-doiyta",
+    "type": "song",
+    "title": {
+      "ce": "Къошкури хӀара ю, ДогӀа даийта, дели! Амин!…",
+      "ru": "Пусть горе тебе будет, заклинание (Амин!)",
+      "en": "May grief be yours, the charm (Amin!)",
+      "fr": "Que la peine te soit donnée, le charme (Amin !)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре",
+      "мотт"
+    ],
+    "text_preview": {
+      "ce": "Къошкури хӀара ю, / ДогӀа даийта, дели! Амин! / ХӀай-вай, кӀентий! / ДогӀа лолахь, дели! Амин! / ХӀартӀа-буьртӀа ши буьртӀа, / Даьттан чохь йоькаш. / ХӀай-вай, …"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-adatty-poezia-khocalai",
+    "type": "song",
+    "title": {
+      "ce": "Хьогалай, Хьогалай!…",
+      "ru": "Хьогалай, Хьогалай!",
+      "en": "Khoghalay, Khoghalay!",
+      "fr": "Khoghalay, Khoghalay !"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре",
+      "бала"
+    ],
+    "text_preview": {
+      "ce": "Хьогалай, Хьогалай! / Сигал мела даайта. / Лаьтта хьани доссайта, / Ден до бузайта, / Ненан ога саттайта!"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-adatty-poezia-nus-dekala",
+    "type": "song",
+    "title": {
+      "ce": "Нус декъала ян даьхкинера тхо…",
+      "ru": "Пусть не будет тебе беды (песнь о путнике)",
+      "en": "May no misfortune befall you (the magpie song)",
+      "fr": "Que le malheur ne t'atteigne pas (chant de la pie)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре",
+      "йовхо"
+    ],
+    "text_preview": {
+      "ce": "Нус декъала ян даьхкинера тхо. / Нус декъала йойла ворхӀ воӀаца. / Элан йоӀ санна, декъала хуьлда хьо, / Нийсархой хьайх хьегош, ирс-аьтту хуьлда хьан, / Яйчу ч…"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-adatty-poezia-toha-tarash",
+    "type": "song",
+    "title": {
+      "ce": "Тоха тӀараш, вай вовшийн дика ду…",
+      "ru": "Молоти в сторону, пусть наш джигит будет удачлив",
+      "en": "Thresh to the side, may our horseman have good fortune",
+      "fr": "Bats vers le côté, que notre cavalier soit heureux"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре",
+      "лаьмнаш"
+    ],
+    "text_preview": {
+      "ce": "Тоха тӀараш, вай вовшийн дика ду, / Лакха пондар, вай вовшийн дика ду! / Кхин хьийзар дац вай / Вай вешин дикане. / Нускал, хьо делха ма делха, / ХӀара ловзар х…"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-tiizhamas-yo1-nanna-tyizhar",
+    "type": "song",
+    "title": {
+      "ce": "Ва-а, со, нанас йинарг, яла хьан делаӀ!…",
+      "ru": "О мать моя, горе тебе! (плач невестки)",
+      "en": "O mother of mine, what grief! (the bride's lament)",
+      "fr": "Ô ma mère, quel chagrin ! (plainte de la mariée)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "безам",
+      "бала"
+    ],
+    "text_preview": {
+      "ce": "Ва-а, со, нанас йинарг, яла хьан делаӀ! / Хьан гӀийлачу доьзалан бӀаьра / Со муха хьоьжур-те? / Ва, со, нанас йинарг, яла хьан! / Вай, дела яла хьан, со, нанас …"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-tiizhamas-tshha-ben-votsu-nana",
+    "type": "song",
+    "title": {
+      "ce": "Цхьаъ бен воцу нанас винарг, нанас йинарг яла хьан!…",
+      "ru": "Нет никого, кроме матери… (плач невестки)",
+      "en": "No one but my mother… (the bride's lament)",
+      "fr": "Personne à part ma mère… (plainte de la mariée)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "безам",
+      "бала"
+    ],
+    "text_preview": {
+      "ce": "Цхьаъ бен воцу нанас винарг, / Нанас йинарг яла хьан! / Бодане латта нуьре хийла, / Ва нанас йинарг яла хьан. / Готта латта паргӀат хийла, / Ва-а нанас йинарг я…"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-tiizhamas-kur-botsush",
+    "type": "song",
+    "title": {
+      "ce": "КӀур боцуш цунна гонах хьаьвзи-теша хьо, Ва-а нана яла хьан!…",
+      "ru": "Ты устала, мать моя! (плач невестки)",
+      "en": "You are tired, my mother! (the bride's lament)",
+      "fr": "Tu es fatiguée, ma mère ! (plainte de la mariée)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "безам",
+      "бала"
+    ],
+    "text_preview": {
+      "ce": "КӀур боцуш цунна гонах хьаьвзи-теша хьо, / Ва-а нана яла хьан! / Нехан яй кхехкачу хьаьвзи-теша хьо, / Ва-а нана яла хьан! / Кхевддинчохь куьг диси-техьа хьан, …"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-tiizhamas-veshina-maquemud",
+    "type": "song",
+    "title": {
+      "ce": "Ва-а, Махьмуд, вешина йинар яла хьан!…",
+      "ru": "О Махмуд, вести пришли! (плач невестки)",
+      "en": "O Mahmud, the tidings have come! (the bride's lament)",
+      "fr": "Ô Mahmud, les nouvelles sont arrivées ! (plainte de la mariée)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "безам",
+      "бала"
+    ],
+    "text_preview": {
+      "ce": "Ва-а, Махьмуд, вешина йинар яла хьан! / Хьан кегийчу кӀорнешна / ХӀун дийр ду-те оха, / Вешина йинар яла хьан! / Во-о вешина йинар яларг, / Ма эрна ара дехи-кха…"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-tidamash-kur-irx",
+    "type": "song",
+    "title": {
+      "ce": "КӀур ирх оьхуш белахь, йоькхана хир ю…",
+      "ru": "Если колодец высох — беда",
+      "en": "If the well has dried up — misfortune",
+      "fr": "Si le puits est à sec — malheur"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "мотт",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "КӀур ирх оьхуш белахь, йоькхана хир ю, / Нагахь агӀор оьхуш белахь, кхоьлина хир ю олу."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-tidamash-mott-tsa-khuu-ber",
+    "type": "song",
+    "title": {
+      "ce": "Мотт ца хуу бер \"бур-бур\" деш делахь…",
+      "ru": "Кто не знает слова «бур-бур» — тому горе",
+      "en": "Who does not know the saying 'bur-bur' — grief for him",
+      "fr": "Qui ne connaît le proverbe « bur-bur » — malheur pour lui"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "мотт",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Мотт ца хуу бер \"бур-бур\" деш делахь - йочана хир ю олу."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-soviet-era-sheripov-aslanbek",
+    "type": "song",
+    "title": {
+      "ce": "Халкъ балехь латтадар… (Асланбек Шерипов)",
+      "ru": "Он погиб за Родину (Асланбек Шерипов)",
+      "en": "He fell for the Motherland (Aslanbek Sheripov)",
+      "fr": "Il est tombé pour la patrie (Aslanbek Cheripov)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "даймохк",
+      "турпала",
+      "война"
+    ],
+    "text_preview": {
+      "ce": "Халкъ балехь латтадар / Дагна Ӏаьткъина, / Хьалхоша нах бацор / Даге ла ца делла, / Майра дог кхехкаш, / Къийсаме велира / Асланбек Шерипов. / Балехь латтийна, …"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-soviet-era-basten-zezaga",
+    "type": "song",
+    "title": {
+      "ce": "БӀаьстенан зезагаш хазделла ма доьлху…",
+      "ru": "Не радуйся чужой радости (Маржан)",
+      "en": "Do not rejoice in another's joy (Marzhan)",
+      "fr": "Ne te réjouis pas du bonheur d'autrui (Marjan)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "безам",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "БӀаьстенан зезагаш хазделла ма доьлху, / Лахенца аренаш сенъелла ма йоьлху, / Кху беттан дейтталгӀа де дӀадолуш ма лаьтта, / ДейтталгӀачу шерачу хьо юлуш ма лаь…"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-soviet-era-kinkhegam-yish",
+    "type": "song",
+    "title": {
+      "ce": "Къинхьегамах йиш…",
+      "ru": "Песня о полевых работах",
+      "en": "Song of the field work",
+      "fr": "Chant des travaux des champs"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "къинхьегам",
+      "лаьмнаш"
+    ],
+    "text_preview": {
+      "ce": "Тхаьш бен болх бина баьлчи, / Тхан белхалой тола боьлчи, / Элира боху Сайдуллас: / Тхан компани вовшахкхетта. / Тхаьш беш болу болх бина бевлчи, / Тхан белхалой…"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-beriyn-eshar-tsitsko-pondar",
+    "type": "song",
+    "title": {
+      "ce": "Цицко пондар лекхира…",
+      "ru": "Кукушка пела (берийн эшар)",
+      "en": "The cuckoo sings (Beriyn eshar)",
+      "fr": "Le coucou chante (Beriyn eshar)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре",
+      "йовхо"
+    ],
+    "text_preview": {
+      "ce": "Цицко пондар лекхира, / Дахко вота туьйхира, / Асет хелхаелира, / Дудас зуда ялийра."
+    },
+    "available_languages": [
+      "ce"
+    ]
   }
 ]

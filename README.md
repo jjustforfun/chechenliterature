@@ -35,7 +35,7 @@ npm run preview
 npm run validate-data   # cohérence index.json ↔ poems/songs/prose.json
 npm run lint            # ESLint (JS/JSX + scripts)
 npm run format:check    # Prettier (check) / npm run format (write)
-npm run test            # Vitest (30 tests : utils + intégrité données)
+npm run test            # Vitest (39 tests : utils + intégrité données)
 npm run check           # validate-data + lint + test
 ```
 
