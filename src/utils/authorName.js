@@ -29,6 +29,7 @@ const AUTHOR_NAMES = {
   'Заурбек Хамерзаев': { en: 'Zaurbek Khamerzayev', fr: 'Zaourbek Khamerzayev' },
   'Зелимхан Яндарбиев': { en: 'Zelimkhan Yandarbiyev', fr: 'Zelimkhan Yandarbiev' },
   'Ибрагим Юсупов': { en: 'Ibragim Yusupov', fr: 'Ibragim Youssoupov' },
+  'Хеда Батаева': { en: 'Kheda Batayeva', fr: 'Kheda Bataïeva' },
   'Исхан Матагов': { en: 'Iskhan Matagov', fr: 'Iskhan Matagov' },
   'Касумов Сайдмохьмад': { en: 'Kasumov Saydmokhmad', fr: 'Kassoumov Saydmokhmad' },
   'Леча Абдулаев': { en: 'Lecha Abdulayev', fr: 'Letcha Abdoulayev' },
