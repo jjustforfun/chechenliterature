@@ -12371,5 +12371,309 @@
     "available_languages": [
       "ce"
     ]
+  },
+  {
+    "id": "yusupov-bayttamal",
+    "type": "poem",
+    "title": {
+      "ce": "Байттамал, кхин суна карор дац дешнаш...",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Ибрагим Юсупов",
+    "tags": [
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Байттамал, кхин суна карор дац дешнаш,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "bataeva-sin-khasa",
+    "type": "poem",
+    "title": {
+      "ce": "Син хьаса ца гучохь",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Хеда Батаева",
+    "tags": [
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "БӀаьргашна бӀаьрзе хилий, яха боху соьга,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-tsallakum",
+    "type": "song",
+    "title": {
+      "ce": "ЦӀаллакум - цӀакум…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "ЦӀаллакум - цӀакум,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-tsiminki",
+    "type": "song",
+    "title": {
+      "ce": "Циминки новкъа…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Циминки новкъа"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-vai-dala-yazde",
+    "type": "song",
+    "title": {
+      "ce": "Вай дала язде…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Вай дала язде"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-vai-san-korni",
+    "type": "song",
+    "title": {
+      "ce": "Вай, вай, сан кӀорни…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Вай, вай, сан кӀорни,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-katokhna",
+    "type": "song",
+    "title": {
+      "ce": "Катоьхна схьалаьцна…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Катоьхна схьалаьцна"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-vai-dela-guo",
+    "type": "song",
+    "title": {
+      "ce": "Вай дела гӀуо шуьша…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Вай дела гӀуо шуьша"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-kain-basar",
+    "type": "song",
+    "title": {
+      "ce": "КӀайн басар кхачийна, ла-ла-ла…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "КӀайн басар кхачийна, ла-ла-ла,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-vattai-san-korni",
+    "type": "song",
+    "title": {
+      "ce": "Ваттай, сан кӀорни…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Ваттай, сан кӀорни,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-okhyakhozhush",
+    "type": "song",
+    "title": {
+      "ce": "Охьахьожуш вала…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Охьахьожуш вала,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-bakkhiichu-nakha",
+    "type": "song",
+    "title": {
+      "ce": "Баккхийчу наха хьо ваккха боху…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Баккхийчу наха хьо ваккха боху,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-khelkharan-eshar-datokha-tarash",
+    "type": "song",
+    "title": {
+      "ce": "ДӀатоха тӀараш, ла-ла-ла…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "ДӀатоха тӀараш, ла-ла-ла!"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "folk-satiran-eshar-kho-nearkh",
+    "type": "song",
+    "title": {
+      "ce": "Хьо неӀарх чу ваьлчахьана…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "сатира"
+    ],
+    "text_preview": {
+      "ce": "Хьо неӀарх чу ваьлчахьана,"
+    },
+    "available_languages": [
+      "ce"
+    ]
   }
 ]
