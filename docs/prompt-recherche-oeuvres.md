@@ -2,7 +2,7 @@
 
 > À lire **avant chaque recherche de nouvelles œuvres** à ajouter au portail.
 > Complète `README.md`, `docs/prompt-palotchka.md` et les rapports `docs/ajout-*.md`.
-> Dernière mise à jour : 2026-11-26 (lot 6).
+> Dernière mise à jour : 2026-11-27 (lot folklore — cf. `docs/ajout-folklore-poemes-chants-2026-11-27.md`).
 
 Vous êtes un agent IA chargé de **trouver de vraies œuvres littéraires tchétchènes**
 (poèmes, chants/иллеш, prose) déjà publiées en ligne, et de les ajouter au catalogue
@@ -80,7 +80,7 @@ python3 scripts/verify_data.py  # palotchka résiduels + doublons
 - `source` : « Auteur. Titre (Source, date de publication) » — suivre le style des fiches
   existantes, ex. `Сулейманов Ахьмад. Нене (Маршо Радио, онлайн-библиотека; охан-бутт 09, 2020)`.
 
-## 4. OÙ CHERCHER — inventaire des sources (état au 2026-11-26)
+## 4. OÙ CHERCHER — inventaire des sources (état au 2026-11-27)
 
 Légende : ✅ exploitée sans doublon · 🔶 partiellement exploitée · ❌ écartée (OCR/doublons) · 🆕 utilisée récemment
 
@@ -88,8 +88,19 @@ Légende : ✅ exploitée sans doublon · 🔶 partiellement exploitée · ❌ �
 Recueil : *Чеченский фольклор (Нохчийн фольклор)*, сост. **Ш. А. Джамбеков**, Грозный : «Книга», 1991.
 Le texte utilise `1`/`I` comme palotchka ; vers balisés `<p>`. **Source la plus fiable et la plus dense.**
 
+> **Piège `source` :** plusieurs titres de section du livre commencent par le **chiffre 1**
+> («1адатийн поэзи», «1аламан хийцамаш», «1ер-дахарехь… »). Ce `1` est un **numéro de
+> chapitre**, pas une palotchka : il déclenche l'audit `verify_data.py`. Écrire
+> «Адатийн поэзи» (глава I), «Аламан хийцамаш» (раздел 1), etc., en conservant la
+> référence réelle. Même règle pour les champs `title.ce` (cf. `c209` § 1аламан).
+
 | Page | Section | État |
 |---|---|---|
+| `c5.htm` | **1адатийн поэзи** (I. ДогӀа доьхуш локхуш йолу эшарш ; II. Зуда ялор-йигарца йоьзна эшарш ; III. Говр хьовзон йиш) | 🆕 Dépouillé le 2026-11-27 (lot folklore) : **4 retenus** (I-1, I-4, II-1, II-3). Restent I-2, I-3 (variantes de I-1), II-2, II-4, III (à relire). **Section peu fournie.** |
+| `c27.htm` | **Тийжамаш** (ЙоӀ нанна / ЙоӀ дена / Зуда цӀийндена / Йиша вешина / Йиша йишина / Нана кӀантана / Вешин йоӀ девешина тийжар) | 🆕 Dépouillé le 2026-11-27 : **4 retenus** (14, 13, 20, 21). **Restent № 1–12, 15–19** (complaintes très proches, incipit «Нанас йинарг яла хьан »). |
+| `c209.htm` | **Халкъан тидамаш** (1аламан хийцамаш, Г1ан, Адаман дегӀан меженаш, Некъ, Хьаша, 1ожалла, Рицкъа, Къоьлла, Т1ехьийза йоӀ, Амал, Нускал, ДегӀ даккхар, Сардамаш, Сий, Ирс, Кхиболу тидамаш) | 🆕 Dépouillé le 2026-11-27 : **2 retenus** (1аламан № 2 et № 8 — les seuls avec refrain binaire). **Reste très important :** le reste de «1аламан хийцамаш» (№ 1, 3–7, 9–25) et toutes les autres rubriques — ce sont des formules d'une à deux lignes (поговорки), à traiter comme sentences rimées, pas comme chants. |
+| `c521.htm` | **Советан заманан фольклор** | 🆕 Dépouillé le 2026-11-27 : **3 retenus** (№ 1 «Шерипов Асланбек », № 2 «БӀаьстенан зезагаш хазделла ма доьлху », № 4 «Къинхьегамах йиш »). **Restent № 3, 5–59** : corpus cohérent de chants de guerre et de parti soviétique, **entièrement inexploité** — parfait pour un lot dédié. Attention : plusieurs pièces chantent **Staline** (№ 24–31, 42) — arbitrage éditorial à trancher. |
+| `c141.htm` | **Берийн фольклор** | 🔶 XXIX. «Берийн эшарш» : **1 retenu le 2026-11-27** (№ 1 «Цицко пондар лекхира ») ; № 4 «Со воьдура, воьдура» **doublon exact** de `folk-berijn-eshar-so-voedura-voedura` (écarté) ; № 2, 3 restent. **Sections I–XXVIII** (Чехкааларш, Дагардарш, Т1ехбеттам, Вовшийн хьовзош…) : devinettes et formules de jeu — **relèvent de `prose.json`**, pas des chants. |
 | `c435.htm` | Узамаш (lamentations) | ✅ 13/18 retenues (12 le 2026-11-26 lot 1 + № 14 lot 2). № 6 incomplet ; № 9, 11, 16 coquilles OCR ; № 18 écarté (variante du distique final de `folk-uzam-dakaza-ma-dala-malkh-kheta`). **Épuisée.** |
 | `c454.htm` | Социале-политикан чулацам болу эшарш | ✅ 5/6 (№ 1–5, lot 1). № 6 « Бала бу сан коьртехь » : OCR cassé (`лекьар`, `гог1у`). **Épuisée.** |
 | `c490.htm` | Сатиран эшарш | 🔶 № 3 (lot 1), № 1, 2, 4, 9, 10 (lot 2), № 5, 6, 7, 11 (lot 3). **Restent : № 8** (cycle « зуда йолу кӀанат » — proche de № 7), **№ 12–15** (cycle « Хьешана лекхна эшарш » — quatrains courts, variantes à évaluer soigneusement). |
@@ -106,6 +117,23 @@ Le texte utilise `1`/`I` comme palotchka ; vers balisés `<p>`. **Source la plus
 | `c415.htm`, `c418.htm` | (autres sections) | ❌ coquilles OCR irrécupérables (`Юайчу`, `белахъ`) — 2026-11-26 |
 | `c502.htm` | Сатира а, забаре а (37 histoires drôles) | ❌ hors périmètre poèmes/chants : `дийцарш` en prose (relèverait de `prose.json`) — relu lot 4 |
 | `c401.htm`, `c227.htm`, autres grandes иллеш | corpus héroïque `c251`–`c421` | ❌/⏸ **corruption de colonne uCoz** : l'initiale du premier mot de chaque vers est rejetée sur la ligne précédente (« Цlонтарой ва Дада » au lieu de « цlонтарой ва Дада »). Restitution impossible sans l'imprimé ; à traiter avec relecture — constat lot 4 |
+
+**Sections d'Orga relevées le 2026-11-27 et écartées (prose, devinettes ou proverbes) :**
+
+| Page | Section | État |
+|---|---|---|
+| `c3.htm` | Халкъан исбаьхьаллин хазна | ❌ prose — proverbes en development → `prose.json` |
+| `c8.htm` | Мифаш (Акхаройн дай, Акхаройн Ӏу, Турс, Пхьармат, Г1амашкин аьлда, Хьуьнан йоӀ…) | ❌ prose — récits mythiques → `prose.json` |
+| `c36.htm` | Сардамаш (imprécations rituelles) | 🔶 № 7 au catalogue (lot 4) ; № 1–4, 8, 10–12 = formules d'un à quatre vers (matière possible) ; № 5, 6, 9, 13, 14 = **anecdotes en prose** encadrant des formules |
+| `c39.htm` | Наьрт-аьрстхойн дийцарш | ❌ prose — contes |
+| `c83.htm` | Хьадисаш (легенды) | ❌ prose — récits |
+| `c97.htm` | Туьйранаш (Инзаре тамашийначу х1умнех лаьцна) | ❌ prose — récits épiques |
+| `c127.htm` | Ӏер-дахаран хьокъехь долу туьйранаш | ❌ prose — récits épiques |
+| `c162.htm` | Шира дийцарш (преданеш) | ❌ prose — récits épiques |
+| `c190.htm` | Кицанаш | ❌ **proverbes d'une seule ligne** avec références de collecte (НХК-14, АДШ-1224…) — hors périmètre « poèmes et chants » ; éventuellement `prose.json` |
+| `c202.htm` | Х1етал-металш | ❌ **énigmes** (« Х1етал-метал хаийла хьуна: …? ») — hors périmètre ; la section « Халкъан тидамаш » recoupe `c209` |
+| `c516.htm` | Аларш | ❌ proverbes en prose avec nota bene → `prose.json` |
+| `c549.htm` | Билгалдаккхар | ❌ prose — essai detail anthropologique |
 
 ### 4.2 Маршо Радио — онлайн-библиотека (`https://www.radiomarsho.com/`)
 Bibliothèque audio de poèmes tchétchènes, avec texte intégral par page (`/a/<id>.html`).
