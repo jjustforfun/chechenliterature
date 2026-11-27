@@ -239,7 +239,7 @@ for (const work of allWorks) {
           .join('')}</ul>`
       : '';
 
-  const body = `<main><article>
+  const body = `<main class="container seo-fallback"><article>
 <nav aria-label="Breadcrumb"><a href="/">Нохчийн дош</a> / <a href="/category/${work.type}">${escapeHtml(GENRE_LABELS[work.type].ce)}</a> / <a href="/author/${encodeURIComponent(work.author)}">${escapeHtml(authorDisplay)}</a></nav>
 <header><h1>${escapeHtml(mainTitle)}</h1>${altTitlesHtml ? `<p>${altTitlesHtml}</p>` : ''}<p>${escapeHtml(authorDisplay)}${work.author_years ? ` (${escapeHtml(work.author_years)})` : ''}</p></header>
 ${textSectionsHtml}
@@ -287,7 +287,7 @@ for (const [author, works] of worksByAuthor.entries()) {
     })
     .join('');
 
-  const body = `<main><article>
+  const body = `<main class="container seo-fallback"><article>
 <nav><a href="/">Нохчийн дош</a> / <a href="/authors">Яздархой / Authors</a></nav>
 <h1>${escapeHtml(display)}</h1>
 <p>${works.length} works</p>
@@ -334,7 +334,7 @@ for (const [author, works] of worksByAuthor.entries()) {
       url: canonicalUrl,
       numberOfItems: sortedAuthors.length,
     },
-    body: `<main><h1>Яздархой / Chechen Authors (${sortedAuthors.length})</h1><ul>${listHtml}</ul></main>`,
+    body: `<main class="container seo-fallback"><h1>Яздархой / Chechen Authors (${sortedAuthors.length})</h1><ul>${listHtml}</ul></main>`,
   });
   writeRouteHtml('authors', html);
 }
@@ -367,7 +367,7 @@ for (const [type, works] of [
       url: canonicalUrl,
       numberOfItems: works.length,
     },
-    body: `<main><h1>${escapeHtml(labels.ce)} / ${escapeHtml(labels.en)} (${works.length})</h1><ul>${listHtml}</ul></main>`,
+    body: `<main class="container seo-fallback"><h1>${escapeHtml(labels.ce)} / ${escapeHtml(labels.en)} (${works.length})</h1><ul>${listHtml}</ul></main>`,
   });
   writeRouteHtml(path.join('category', type), html);
 }
@@ -381,7 +381,7 @@ for (const [type, works] of [
         `<li><a href="/${w.type}/${w.id}">${escapeHtml(firstTitle(w).text)}</a> — ${escapeHtml(w.author)}</li>`
     )
     .join('');
-  const homeBody = `<main>
+  const homeBody = `<main class="container seo-fallback">
 <header><h1>Нохчийн дош (Noxçiyn Doş) — Нохчийн литературан портал</h1>
 <p>Chechen Literature Portal: ${poems.length} poems (байташ), ${songs.length} songs (иллеш), and ${prose.length} prose works across Chechen, Russian, English, and French.</p></header>
 <nav><a href="/category/poem">Байташ / Poetry (${poems.length})</a> · <a href="/category/song">Иллеш / Songs (${songs.length})</a> · <a href="/category/prose">Проза / Prose (${prose.length})</a> · <a href="/authors">Яздархой / Authors (${namedAuthors.length})</a></nav>
