@@ -5,7 +5,7 @@ import { useTranslation } from '@/hooks/useTranslation';
 import { useSearch } from '@/hooks/useSearch';
 import { usePagination } from '@/hooks/usePagination';
 import { getAllTags } from '@/utils/searchUtils';
-import { getAuthorName } from '@/utils/authorName';
+import { getAuthorName, isNamedAuthor } from '@/utils/authorName';
 import { buildPageTitle, setPageTitle } from '@/utils/pageMeta';
 import SearchBar from '@/components/features/SearchBar';
 import CatalogGrid from '@/components/features/CatalogGrid';
@@ -64,7 +64,7 @@ export default function Author() {
   return (
     <div className="author">
       <header className="author__header">
-        <span className="author__eyebrow">{t('author_label')}</span>
+        {isNamedAuthor(author) && <span className="author__eyebrow">{t('author_label')}</span>}
         <h1 className="author__title">{authorName}</h1>
         <p className="author__count">
           {contentWorks.length} {t('works_label').toLowerCase()}

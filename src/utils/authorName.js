@@ -16,26 +16,62 @@
  * spelling can be reviewed.
  */
 
+/**
+ * Attributions collectives / anonymes stockées dans `work.author` (ex. "Халкъан"
+ * pour les poèmes et chants populaires, qui n'est pas un nom de personne).
+ */
+const NON_AUTHOR_LABELS = {
+  Халкъан: {
+    ce: 'Халкъан',
+    ru: 'Народное (фольклор)',
+    en: 'Chechen folklore',
+    fr: 'Folklore tchétchène',
+  },
+  'Anonyme tchétchène': {
+    ce: 'Нохчийн аноним',
+    ru: 'Чеченский аноним',
+    en: 'Chechen anonymous',
+    fr: 'Anonyme tchétchène',
+  },
+};
+
 const AUTHOR_NAMES = {
+  'Абуева Хадижат': { en: 'Abuyeva Khadizhat', fr: 'Abouyeva Khadijat' },
   'Абузар Айдамиров': { en: 'Abuzar Aydamirov', fr: 'Abouzar Aydamirov' },
   'Адам Ахматукаев': { en: 'Adam Akhatukayev', fr: 'Adam Akhatoukayev' },
   'Аза Атагинская': { en: 'Aza Ataginskaya', fr: 'Aza Ataginskaya' },
+  'Альберт Батукаев': { en: 'Albert Batukayev', fr: 'Albert Batoukayev' },
   'Апти Бисултанов': { en: 'Apti Bisultanov', fr: 'Apti Bissoultanov' },
+  'Асет Халикова': { en: 'Aset Khalikova', fr: 'Asset Khalikova' },
   'Ахмад Сулейманов': { en: 'Akhmad Suleymanov', fr: 'Akhmad Souleymanov' },
+  'Байхаджиев Зайнди': { en: 'Baykhadzhiyev Zayndi', fr: 'Baykhadjiev Zayndi' },
   'Бана Гайтукаева': { en: 'Bana Gaytukayeva', fr: 'Bana Gaytoukayeva' },
+  'Бексултанов Муса': { en: 'Beksultanov Musa', fr: 'Beksoultanov Moussa' },
   'Ваха Докаев': { en: 'Vakha Dokayev', fr: 'Vakha Dokayev' },
   'Вахит Хаджимурадов': { en: 'Vakhit Khadzhimuradov', fr: 'Vakhit Khadjimouradov' },
+  'Даудов Гилани': { en: 'Daudov Gilani', fr: 'Daoudov Gilani' },
+  'Даудов Рамзан': { en: 'Daudov Ramzan', fr: 'Daoudov Ramzan' },
+  'Джанаралиев Ӏимран': { en: 'Dzhanaraliyev Imran', fr: 'Djanaraliev Imran' },
   'Зайтемиров Сайдик': { en: 'Zaytemirov Saydik', fr: 'Zaytemirov Saydik' },
+  'Залина Мусаева': { en: 'Zalina Musayeva', fr: 'Zalina Moussayeva' },
   'Заурбек Хамерзаев': { en: 'Zaurbek Khamerzayev', fr: 'Zaourbek Khamerzayev' },
   'Зелимхан Яндарбиев': { en: 'Zelimkhan Yandarbiyev', fr: 'Zelimkhan Yandarbiev' },
+  'Зура Ицмеолорд': { en: 'Zura Itsmeolord', fr: 'Zoura Itsmeolord' },
   'Ибрагим Юсупов': { en: 'Ibragim Yusupov', fr: 'Ibragim Youssoupov' },
-  'Хеда Батаева': { en: 'Kheda Batayeva', fr: 'Kheda Bataïeva' },
+  'Ильман Юсупов': { en: 'Ilman Yusupov', fr: 'Ilman Youssoupov' },
+  'Инуркаев Сулейман': { en: 'Inurkayev Suleyman', fr: 'Inourkayev Souleyman' },
+  'Исмаил Керимов': { en: 'Ismail Kerimov', fr: 'Ismail Kerimov' },
   'Исхан Матагов': { en: 'Iskhan Matagov', fr: 'Iskhan Matagov' },
   'Касумов Сайдмохьмад': { en: 'Kasumov Saydmokhmad', fr: 'Kassoumov Saydmokhmad' },
   'Леча Абдулаев': { en: 'Lecha Abdulayev', fr: 'Letcha Abdoulayev' },
   'Магомед Мамакаев': { en: 'Magomed Mamakayev', fr: 'Magomed Mamakayev' },
   'Магомет Сулаев': { en: 'Magomet Sulayev', fr: 'Magomet Soulayev' },
   'Марем Нохчиева': { en: 'Marem Nokhchieva', fr: 'Marem Nokhtchieva' },
+  'Мариет Ичаева': { en: 'Mariet Ichayeva', fr: 'Mariet Itchayeva' },
+  'Межидов Сахьаб': { en: 'Mezhidov Sakhab', fr: 'Mejidov Sakhab' },
+  'Микаил Исин Элдин': { en: 'Mikail Isin Eldin', fr: 'Mikail Isin Eldin' },
+  'Минкаилов Хьаяби': { en: 'Minkailov Khayabi', fr: 'Minkailov Khayabi' },
+  'Минцаев Ӏальви': { en: 'Mintsayev Alvi', fr: 'Mintsayev Alvi' },
   'Мохьмад Дикаев': { en: 'Mokhmad Dikayev', fr: 'Mokhmad Dikayev' },
   'Мохьмад Мамакаев': { en: 'Mokhmad Mamakayev', fr: 'Mokhmad Mamakayev' },
   'Мохьмад-Салахь Гадаев': { en: 'Mokhmad-Salakh Gadayev', fr: 'Mokhmad-Salakh Gadayev' },
@@ -45,29 +81,37 @@ const AUTHOR_NAMES = {
   'Петимат Петирова': { en: 'Petimat Petirova', fr: 'Petimat Petirova' },
   'Раиса Ахматова': { en: 'Raisa Akhmatova', fr: 'Raissa Akhmatova' },
   'Рамазан Берзлоев': { en: 'Ramazan Berzloev', fr: 'Ramazan Berzloev' },
+  'Рамзан Джамбулатов': { en: 'Ramzan Dzhambulatov', fr: 'Ramzan Djamboulatov' },
+  'Роза Бино': { en: 'Rosa Bino', fr: 'Rosa Bino' },
   'Руслан Ахтаханов': { en: 'Ruslan Akhtakhanov', fr: 'Rouslan Akhtakhanov' },
   'Саид-Хамзат Нунуев': { en: 'Said-Khamzat Nunuev', fr: 'Said-Khamzat Nounouev' },
   'Саид-Хасан Ойбуев': { en: 'Said-Khasan Oybuyev', fr: 'Said-Khassan Oybouyev' },
   'Саидов Билал': { en: 'Saidov Bilal', fr: 'Saidov Bilal' },
+  'Сайдуллаев Хьасан': { en: 'Saydullayev Khasan', fr: 'Saydoullayev Khassan' },
   'СаьӀид Гацаев': { en: 'Said Gatsayev', fr: 'Said Gatsayev' },
   'Сулейман Токкаев': { en: 'Suleyman Tokkayev', fr: 'Souleyman Tokkayev' },
+  'Сулейманов Юсуп': { en: 'Suleymanov Yusup', fr: 'Souleymanov Youssoup' },
   'Умар Яричев': { en: 'Umar Yarychev', fr: 'Oumar Yarytchev' },
   'Фариза Цалдаева': { en: 'Fariza Tsaldayeva', fr: 'Fariza Tsaldayeva' },
   'Хава Ясмалина': { en: 'Khava Yasmalina', fr: 'Khava Yasmalina' },
-  Халкъан: { en: 'Khalqan', fr: 'Khalqan' },
   'Хамзат Магомадов': { en: 'Khamzat Magomadov', fr: 'Khamzat Magomadov' },
   'Хас-Магомед Хаджимурадов': {
     en: 'Khas-Magomed Khadzhimuradov',
     fr: 'Khas-Magomed Khadjimouradov',
   },
   'Хасаин Идрисов': { en: 'Khasain Idrisov', fr: 'Khassain Idrisov' },
-  'Хьусайн Сатуев': { en: 'Khusayn Satuyev', fr: 'Khoussayn Satouyev' },
+  'Хеда Батаева': { en: 'Kheda Batayeva', fr: 'Kheda Bataïeva' },
+  'Хизриев Адам': { en: 'Khizriyev Adam', fr: 'Khizriev Adam' },
   'Хьамзат Талхадов': { en: 'Khamzat Talkhadov', fr: 'Khamzat Talkhadov' },
+  'Хьусайн Сатуев': { en: 'Khusayn Satuyev', fr: 'Khoussayn Satouyev' },
   'Шаид Рашидов': { en: 'Shaid Rashidov', fr: 'Chaid Rachidov' },
   'Шайхи Арсанукаев': { en: 'Shaikhi Arsanukayev', fr: 'Chaikhi Arsanoukayev' },
-  'ШаӀрани Хасаров': { en: 'Sharani Khasarov', fr: 'Charani Khasarov' },
   'Шарип Цуруев': { en: 'Sharip Tsuruyev', fr: 'Charip Tsourouyev' },
+  'ШаӀрани Хасаров': { en: 'Sharani Khasarov', fr: 'Charani Khasarov' },
+  'Эдильсултанов Ӏабаз': { en: 'Edilsultanov Abaz', fr: 'Edilsoultanov Abaz' },
   'Юсуп Яралиев': { en: 'Yusup Yaraliyev', fr: 'Youssoup Yaraliev' },
+  'Ясаев Мохьмад': { en: 'Yasayev Mokhmad', fr: 'Yassayev Mokhmad' },
+  'Яшуркаев Султан': { en: 'Yashurkayev Sultan', fr: 'Yachourkayev Soultan' },
   'Ӏабдул-Хьамид Хатуев': { en: 'Abdul-Khamid Khatuyev', fr: 'Abdoul-Khamid Khatouev' },
   'Ӏаьрби Мамакаев': { en: 'Arbi Mamakayev', fr: 'Arbi Mamakayev' },
 };
@@ -222,11 +266,19 @@ function transliterate(author, language) {
 
 /**
  * Returns the author name rendered for the given interface language.
- * Chechen ("ce") and Russian ("ru") keep the original Cyrillic spelling;
- * English and French use the reviewed Latin transcription.
+ * Collective/folk labels ("Халкъан", "Anonyme tchétchène") are translated
+ * semantically instead of being transliterated as personal names.
+ * Named authors keep Cyrillic for Chechen ("ce") and Russian ("ru") and use
+ * the reviewed Latin transcription for English ("en") and French ("fr").
  */
 export function getAuthorName(author, language) {
   if (!author) return author;
+
+  const nonAuthor = NON_AUTHOR_LABELS[author];
+  if (nonAuthor) {
+    return nonAuthor[language] || nonAuthor.en || author;
+  }
+
   if (!LATIN_LANGUAGES.includes(language)) return author;
 
   const reviewed = AUTHOR_NAMES[author]?.[language];
@@ -239,6 +291,16 @@ export function getAuthorName(author, language) {
  */
 export function getWorkAuthor(work, language) {
   return getAuthorName(work?.author, language);
+}
+
+/** True when `author` represents a real person rather than a folk/anonymous label. */
+export function isNamedAuthor(author) {
+  return Boolean(author) && !NON_AUTHOR_LABELS[author];
+}
+
+/** True when `author` has a reviewed EN/FR transcription in AUTHOR_NAMES. */
+export function hasReviewedAuthorName(author) {
+  return Boolean(AUTHOR_NAMES[author]?.en && AUTHOR_NAMES[author]?.fr);
 }
 
 /** True when the given language renders author names in Latin script. */

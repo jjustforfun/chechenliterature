@@ -7,6 +7,7 @@ describe('catalogWorks (lightweight, index-only)', () => {
     const nana = catalogWorks.find((w) => w.id === 'nana');
     expect(nana.author_en).toBe('Shaikhi Arsanukayev');
     expect(nana.available_languages).toContain('ce');
+    expect(nana.date_added).toMatch(/^\d{4}-\d{2}-\d{2}$/);
   });
 });
 

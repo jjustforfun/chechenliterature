@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useLanguage } from '@/context/LanguageContext';
 import { useTranslation } from '@/hooks/useTranslation';
-import { getAuthorName } from '@/utils/authorName';
+import { getAuthorName, isNamedAuthor } from '@/utils/authorName';
 import { buildPageTitle, setPageTitle } from '@/utils/pageMeta';
 import Input from '@/components/ui/Input';
 import { catalogWorks } from '@/data/catalog';
@@ -37,7 +37,7 @@ export default function Authors() {
   const authorsList = useMemo(() => {
     const map = new Map();
     for (const work of catalogWorks) {
-      if (!work.author) continue;
+      if (!isNamedAuthor(work.author)) continue;
       if (!map.has(work.author)) {
         map.set(work.author, {
           canonical: work.author,

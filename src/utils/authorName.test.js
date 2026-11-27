@@ -1,5 +1,10 @@
 import { describe, it, expect } from 'vitest';
-import { getAuthorName, getWorkAuthor } from './authorName.js';
+import {
+  getAuthorName,
+  getWorkAuthor,
+  hasReviewedAuthorName,
+  isNamedAuthor,
+} from './authorName.js';
 
 describe('getAuthorName', () => {
   it('keeps Cyrillic for ce/ru', () => {
@@ -11,6 +16,15 @@ describe('getAuthorName', () => {
     expect(getAuthorName('Муса Гешаев', 'fr')).toBe('Moussa Gechayev');
     expect(getAuthorName('Ӏаьрби Мамакаев', 'en')).toBe('Arbi Mamakayev');
     expect(getAuthorName('СаьӀид Гацаев', 'fr')).toBe('Said Gatsayev');
+    expect(getAuthorName('Бексултанов Муса', 'fr')).toBe('Beksoultanov Moussa');
+  });
+  it('translates collective/folk labels semantically instead of treating them as person names', () => {
+    expect(getAuthorName('Халкъан', 'ce')).toBe('Халкъан');
+    expect(getAuthorName('Халкъан', 'ru')).toBe('Народное (фольклор)');
+    expect(getAuthorName('Халкъан', 'en')).toBe('Chechen folklore');
+    expect(getAuthorName('Халкъан', 'fr')).toBe('Folklore tchétchène');
+    expect(getAuthorName('Anonyme tchétchène', 'en')).toBe('Chechen anonymous');
+    expect(getAuthorName('Anonyme tchétchène', 'fr')).toBe('Anonyme tchétchène');
   });
   it('falls back to transliteration for unknown authors', () => {
     const en = getAuthorName('Тест Тестов', 'en');
@@ -21,6 +35,16 @@ describe('getAuthorName', () => {
   });
   it('passes through falsy values', () => {
     expect(getAuthorName('', 'en')).toBe('');
+  });
+});
+
+describe('isNamedAuthor & hasReviewedAuthorName', () => {
+  it('distinguishes real authors from folk/anonymous labels', () => {
+    expect(isNamedAuthor('Халкъан')).toBe(false);
+    expect(isNamedAuthor('Anonyme tchétchène')).toBe(false);
+    expect(isNamedAuthor('Муса Гешаев')).toBe(true);
+    expect(hasReviewedAuthorName('Муса Гешаев')).toBe(true);
+    expect(hasReviewedAuthorName('Халкъан')).toBe(false);
   });
 });
 

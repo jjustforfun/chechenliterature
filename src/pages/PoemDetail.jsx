@@ -10,7 +10,7 @@ import {
   hasContentInLanguage,
 } from '@/utils/contentLanguage';
 import { findSimilarWorks } from '@/utils/searchUtils';
-import { getWorkAuthor } from '@/utils/authorName';
+import { getWorkAuthor, isNamedAuthor } from '@/utils/authorName';
 import { buildPageTitle, setPageTitle } from '@/utils/pageMeta';
 import SimilarWorks from '@/components/features/SimilarWorks';
 import Tag from '@/components/ui/Tag';
@@ -209,7 +209,8 @@ export default function PoemDetail() {
             : work.type === 'song'
               ? t('filter_songs').toLowerCase()
               : t('filter_prose').toLowerCase()}{' '}
-          {t('author_label').toLowerCase()}: {authorName}
+          {isNamedAuthor(work.author) ? `${t('author_label').toLowerCase()}: ` : ''}
+          {authorName}
           {work.author_years && ` (${work.author_years})`}.
           {work.year_written && ` ${t('year_label')}: ${work.year_written}.`}
         </p>

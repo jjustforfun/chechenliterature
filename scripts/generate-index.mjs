@@ -8,8 +8,8 @@
  *   - ajoute à la FIN les œuvres du full absentes de l'index (ordre des fichiers full)
  *   - supprime de l'index les ids sans full (orphelins) — ils doivent d'abord
  *     être archivés dans pending-restore.json (voir --dry-run pour auditer)
- *   - resynchronise title/author/tags/text_preview/available_languages depuis
- *     le full (normalise à 7 clés ; available_languages rend l'index
+ *   - resynchronise title/author/tags/text_preview/available_languages/date_added
+ *     depuis le full (normalise à 8 clés ; available_languages rend l'index
  *     autosuffisant pour le filtrage par langue, sans charger les textes)
  *
  * Usage:
@@ -71,6 +71,7 @@ function toIndexEntry(full) {
     tags: full.tags || [],
     text_preview: textPreview,
     available_languages: availableLanguages,
+    date_added: full.date_added || null,
   };
 }
 
@@ -94,7 +95,7 @@ console.log(
   `manquants (ajoutés à l'index): ${missing.length}${missing.length ? ' -> ' + missing.map((w) => w.id).join(', ') : ''}`
 );
 
-// Détecte les désynchronisations qui seront écrasées (titre/auteur/tags/preview)
+// Détecte les désynchronisations qui seront écrasées (titre/auteur/tags/preview/date)
 let resync = 0;
 for (const entry of next) {
   const old = indexById.get(entry.id);
@@ -109,6 +110,7 @@ for (const entry of next) {
       tags: old.tags,
       text_preview: old.text_preview,
       available_languages: old.available_languages,
+      date_added: old.date_added ?? null,
     }) !== JSON.stringify(entry)
   ) {
     resync += 1;

@@ -3,6 +3,7 @@ import indexData from './index.json';
 import poemsData from './poems.json';
 import songsData from './songs.json';
 import proseData from './prose.json';
+import { hasReviewedAuthorName, isNamedAuthor } from '../utils/authorName.js';
 
 // Miroir allégé de scripts/validate-data.mjs : protège la règle P0
 // "index.json est généré depuis le full, jamais édité à la main".
@@ -41,5 +42,19 @@ describe('data integrity (P0 guardrail)', () => {
       }
     }
     expect(bad).toEqual([]);
+  });
+
+  it('every index entry keeps date_added synchronized with its full record', () => {
+    const fullById = new Map(full.map((w) => [w.id, w]));
+    const outOfSync = indexData
+      .filter((w) => (w.date_added || null) !== (fullById.get(w.id)?.date_added || null))
+      .map((w) => w.id);
+    expect(outOfSync).toEqual([]);
+  });
+
+  it('every named author in the catalog has a reviewed EN/FR transcription', () => {
+    const authors = [...new Set(indexData.map((w) => w.author).filter(isNamedAuthor))];
+    const missing = authors.filter((author) => !hasReviewedAuthorName(author));
+    expect(missing).toEqual([]);
   });
 });

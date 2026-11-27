@@ -124,16 +124,26 @@ index.forEach((w, i) => {
   if (indexIds.has(w.id)) errors.push(`${where}: id dupliqué dans index.json "${w.id}"`);
   indexIds.add(w.id);
   if (!TYPES.includes(w.type)) errors.push(`${where}: "type" invalide`);
-  // Schéma attendu du catalogue léger : exactement ces 7 clés.
+  // Schéma attendu du catalogue léger : exactement ces 8 clés.
   // available_languages rend l'index autosuffisant pour le filtrage par langue
-  // (les textes pleins sont chargés à la demande sur les pages d'œuvres).
-  const expected = ['author', 'available_languages', 'id', 'tags', 'text_preview', 'title', 'type']
+  // (les textes pleins sont chargés à la demande sur les pages d'œuvres),
+  // et date_added permet le tri par date sans charger les textes complets.
+  const expected = [
+    'author',
+    'available_languages',
+    'date_added',
+    'id',
+    'tags',
+    'text_preview',
+    'title',
+    'type',
+  ]
     .sort()
     .join(',');
   const actual = Object.keys(w).sort().join(',');
   if (actual !== expected) {
     warnings.push(
-      `${where}: clés inattendues (attendu id/type/title/author/tags/text_preview/available_languages, trouvé: ${Object.keys(w).sort().join(',')})`
+      `${where}: clés inattendues (attendu id/type/title/author/tags/text_preview/available_languages/date_added, trouvé: ${Object.keys(w).sort().join(',')})`
     );
   }
   if (!fullById.has(w.id)) {
@@ -147,6 +157,12 @@ index.forEach((w, i) => {
       warnings.push(
         `${where}: author désynchronisé (index=${JSON.stringify(w.author)} full=${JSON.stringify(full.author)})`
       );
+    const fullDate = full.date_added || null;
+    if ((w.date_added || null) !== fullDate) {
+      errors.push(
+        `${where}: date_added désynchronisé (index=${JSON.stringify(w.date_added)} full=${JSON.stringify(fullDate)}) — relancez generate-index`
+      );
+    }
     const derived = LANGS.filter((lang) => isPresent(full.text?.[lang]));
     if (JSON.stringify(w.available_languages) !== JSON.stringify(derived)) {
       errors.push(
