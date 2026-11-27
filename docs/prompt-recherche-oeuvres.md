@@ -2,7 +2,7 @@
 
 > À lire **avant chaque recherche de nouvelles œuvres** à ajouter au portail.
 > Complète `README.md`, `docs/prompt-palotchka.md` et les rapports `docs/ajout-*.md`.
-> Dernière mise à jour : 2026-11-27 (lot 3 — cf. `docs/ajout-oeuvres-2026-11-27-lot3.md`).
+> Dernière mise à jour : 2026-11-27 (lot 4 — cf. `docs/ajout-oeuvres-2026-11-27-lot4.md` ; **632 œuvres**).
 
 Vous êtes un agent IA chargé de **trouver de vraies œuvres littéraires tchétchènes**
 (poèmes, chants/иллеш, prose) déjà publiées en ligne, et de les ajouter au catalogue
@@ -106,13 +106,13 @@ Le texte utilise `1`/`I` comme palotchka ; vers balisés `<p>`. **Source la plus
 | `c490.htm` | Сатиран эшарш | 🔶 № 3 (lot 1), № 1, 2, 4, 9, 10 (lot 2), № 5, 6, 7, 11 (lot 3). **Restent : № 8** (cycle « зуда йолу кӀанат » — proche de № 7), **№ 12–15** (cycle « Хьешана лекхна эшарш » — quatrains courts, variantes à évaluer soigneusement). |
 | `c498.htm` | Лирикан тийжамаш | 🔶 № 3 (lot 1), № 2, 4, 5, 6 (lot 2). № 1 écarté (`TIepa`, substituts latins). **Épuisée.** |
 | `c488.htm` | Забаре эшарш | ✅ № 1–8 (2026-11-25) |
-| `c493.htm` | Хелхаран эшарш | 🔶 № 1, 3, 10, 13 (2026-11-25), № 2, 14, 18, 21, 23 (lot 4). № 16 « XIe, месаш » : substituts latins ambigus (à relire sur l'imprimé) ; № 17, 25, 26 fragmentaires. **Restent à vérifier : № 4–9, 11, 12, 15, 19, 20, 22, 24** (courts, souvent des distiques à refrain « ла-ла-ла »). |
+| `c493.htm` | Хелхаран эшарш | 🔶 № 1, 3, 10, 13 (2026-11-25), № 2, 14, 18, 21, 23 (lot 4). № 16 « XIe, месаш » : substituts latins ambigus (à relire sur l'imprimé) ; № 17, 25, 26 fragmentaires. **Au catalogue lot 4 : № 11, 15, 26** (`folk-khelkharan-kora-dulkhal-kor`, `folk-khelkharan-khovshiyn-dovlal`, `folk-khelkharan-tohal-tarash`). **Restent à vérifier : № 4–9, 12, 19, 20, 22, 24, 25** filtrés doublons (№ 11, 15, 22, 24, 26 déjà ; № 12 `folk-khelkharan-eshar-kain-basar`, № 22 `folk-khelkharan-eshar-bakkhiichu-nakha`…) (courts, souvent des distiques à refrain « ла-ла-ла »). |
 | `c457.htm` | Ӏер-дахаран хьокъехь эшарш | 🔶 № 1, 15 (2026-11-25), № 2, 7, 8, 13, 16 (lot 3). Relu intégralement le lot 4 : № 3 reprend le refrain de № 7 ; restent **№ 4, 5, 6, 9, 10, 11, 12, 14, 17–34** (longues complaintes de la fille sans frère / de la mère — comparer à № 15 « Нанна » avant ajout). |
 | `c471.htm` | Безаман эшарш (chants d'amour) | 🔶 **Au catalogue : № 1, 2, 6, 7, 8, 13** (2026-11-11) **+ № 3, 22, 29** (lot 4). Restent **№ 4, 5, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 30–37** (longues complaintes où alternent les couplets de la fille et de la mère ; comparer à `folk-ier-dakharan-eshar-nanna`). |
 | `c20.htm` | Къинхьегаман эшарш (chants de travail) | 🔶 **Au catalogue : № 1–2** (réunis en une fiche, lot 4), **№ 4, 6–9, 12, 14–15, 22–23** (lot 5), **№ 18 et 26** (2026-11-11). **Restent : № 3, 5, 10–11, 13, 16–17, 19–21, 24–25, 27–31**. Dans la section finale « Къинхьегамах лаьцна эшарш », ajoutés **№ 1 et 4** (lot 6) ; restent **№ 2, 3 et 5**. Les textes très courts ne sont retenus que s'ils ont un contenu distinct des variantes déjà au catalogue. |
 | `c141.htm` | Берийн фольклор (берийн / аганан / берийн эшарш) | 🔶 № 1, 3, 4, 5 (аганан эшарш), № 3, 4 (берийн эшарш), comptines XXXI № 3 (lot 6) et № 6 (2026-11-11), questions-réponses XXXIII № 2 (2026-11-11). **Autres numéros à vérifier** ; distinguer les comptines autonomes des formules de jeu. |
 | `c36.htm` | Сардамаш (imprécations rituelles) | 🔶 № 7 (lot 4). № 5, 6, 9, 13, 14 sont des **anecdotes en prose** encadrant des formules ; № 1–4, 8, 10–12 sont des formules d'un à quatre vers (matière possible, à valider). |
-| `c447.htm` | Халкъан новеллаш | ✅ № 4, 5, 7, 8 (2026-11-11 lot 2) |
+| `c447.htm` | Халкъан новеллаш | ✅ № 1, 2, 3, 4, 5, 7, 8 (№ 1–3 lot 4 2026-11-27 ; № 4, 5, 7, 8 lot 2) ; restent № 6, 9 + autres |
 | `c115.htm` | Contes d'animaux / fables | 🔶 « Эмкал » (Эмкал), « ХӀиллане цхьогал », « Сутаралла » (2026-11-11) |
 | `c415.htm`, `c418.htm` | (autres sections) | ❌ coquilles OCR irrécupérables (`Юайчу`, `белахъ`) — 2026-11-26 |
 | `c502.htm` | Сатира а, забаре а (37 histoires drôles) | ❌ hors périmètre poèmes/chants : `дийцарш` en prose (relèverait de `prose.json`) — relu lot 4 |
@@ -191,6 +191,14 @@ Sites de poésie amateur ; sources de poèmes **en tchétchène** d'auteurs cont
 - Utilisé 2026-11-10 (Вахит Хаджимурадов, Заурбек Хамерзаев, Исхан Матагов, Марем Нохчиева,
   Хасаин Идрисов, Фариза Цалдаева).
 - Recherche efficace : `site:stihi.ru нохчийн мотт`, `site:stihi.ru Даймохк`, etc.
+
+### 4.7 Ministère de l'éducation et des sciences de Tchétchénie — «Материалы на чеченском языке» (`https://mon95.ru/press-center/materialy-na-chechenskom-yazyke`)
+Site `mon95.ru`. **Nouvelle source lot 4** : prose d'auteur tchétchène en tchétchène, essais.
+- Utilisé : **Гайрбекова Маряьм «Нохчийн мотт – сан дозалла!»**
+  (`.../gairbekova-m-nokhchiin-mott-san-dozalla`, → `gairbekova-nohchiyn-mott-san-dozalla`,
+  **nouveau auteur** `Гайрбекова Маряьм` → `AUTHOR_NAMES`). `1`/`I`→`Ӏ`, `–`,`…`,`«»`, citations
+  (`К.Паустовский`,`Л.Н.Толстой`,`Кунта-Хьажас`) conservées. `type=prose`.
+- À explorer : autres pièces de la rubrique `Материалы на чеченском языке` (prose + poésie nommés).
 
 ### 4.6 Autres sources déjà mobilisées (garder en tête)
 - `umarlavina.narod.ru` — site perso d'**Умар Яричев** (poèmes ce/ru) — utilisé 2026-11-11.

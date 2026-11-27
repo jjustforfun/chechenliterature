@@ -43,6 +43,7 @@ const AUTHOR_NAMES = {
   'Алла Дудаева': { en: 'Alla Dudayeva', fr: 'Alla Doudayeva' },
   'Альберт Батукаев': { en: 'Albert Batukayev', fr: 'Albert Batoukayev' },
   'Апти Бисултанов': { en: 'Apti Bisultanov', fr: 'Apti Bissoultanov' },
+  'Гайрбекова Маряьм': { en: 'Gairbekova Maryam', fr: 'Gaïrbekova Maryam' },
   'Асет Халикова': { en: 'Aset Khalikova', fr: 'Asset Khalikova' },
   'Ахмад Сулейманов': { en: 'Akhmad Suleymanov', fr: 'Akhmad Souleymanov' },
   'Байхаджиев Зайнди': { en: 'Baykhadzhiyev Zayndi', fr: 'Baykhadjiev Zayndi' },

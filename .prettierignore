@@ -8,3 +8,5 @@ docs
 src/data/*.json
 src/data/pending-restore.json
 package-lock.json
+
+src/data/backups/

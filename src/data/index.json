@@ -14400,5 +14400,241 @@
       "ru"
     ],
     "date_added": "2026-11-27"
+  },
+  {
+    "id": "gatsaev-yukha-a",
+    "type": "poem",
+    "title": {
+      "ce": "Юха а…",
+      "ru": "Снова…",
+      "en": "Again…",
+      "fr": "Encore…"
+    },
+    "author": "СаьӀид Гацаев",
+    "tags": [
+      "лирика",
+      "даймохк",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Юха а гуьйре ю,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "khasarov-sharani-samakh-ginakh",
+    "type": "poem",
+    "title": {
+      "ce": "Самах, гӀенах…",
+      "ru": "Тучи, дождь…",
+      "en": "Clouds, rain…",
+      "fr": "Nuages, pluie…"
+    },
+    "author": "ШаӀрани Хасаров",
+    "tags": [
+      "лирика",
+      "безам",
+      "дог"
+    ],
+    "text_preview": {
+      "ce": "Самах, гӀенах езаелларг,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "khasarov-sharani-hintsa-yats",
+    "type": "poem",
+    "title": {
+      "ce": "ХӀинца яц хьо хьалха санна…",
+      "ru": "Теперь ты уже не тот…",
+      "en": "Now you are not as before…",
+      "fr": "Maintenant tu n'es plus comme avant…"
+    },
+    "author": "ШаӀрани Хасаров",
+    "tags": [
+      "лирика",
+      "дог",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "ХӀинца яц хьо хьалха санна."
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-kora-dulkhal-kor",
+    "type": "song",
+    "title": {
+      "ce": "Кора дуьхьал кор делара хьан…",
+      "ru": "Напротив двери дверь…",
+      "en": "Door against door…",
+      "fr": "Porte contre porte…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "хелхар",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Кора дуьхьал кор делара хьан, ла-ла-ла,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-khovshiyn-dovlal",
+    "type": "song",
+    "title": {
+      "ce": "Когаш ма хаза лелабо…",
+      "ru": "Ноги изящно двигаются…",
+      "en": "Feet moving gracefully…",
+      "fr": "Les pieds bougent avec grâce…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "хелхар",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Когаш ма хаза лелабо, Куьйгаш ма хаза леладо, Декъала хила хьо,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-tohal-tarash",
+    "type": "song",
+    "title": {
+      "ce": "Тоха тӀараш, довла хелха…",
+      "ru": "Руки внутрь, ноги внутрь…",
+      "en": "Hands inside, feet inside…",
+      "fr": "Mains dedans, pieds dedans…"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "хелхар",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Тоха тӀараш, Довла хелха, КӀотархойн кӀентий, Ла-ла-ла!"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-novella-suddhochun-khel",
+    "type": "prose",
+    "title": {
+      "ce": "Суьдхочун кхел",
+      "ru": "Право судьи",
+      "en": "Judge's discretion",
+      "fr": "Le pouvoir du juge"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "дийцар",
+      "халкъан",
+      "истори",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "ЦХЬАЬНА нахе цхьа хьаша веана хилла. Суьйранна чӀара а кхерзина, хӀорш хӀума кхалла охьахевшича, легашкахь даьӀахк йисина, хьаша велла. ХӀусамдас, хӀинца хӀа…"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-novella-mollanash",
+    "type": "prose",
+    "title": {
+      "ce": "Молланаш",
+      "ru": "Муллы",
+      "en": "Mullahs",
+      "fr": "Les mollahs"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "дийцар",
+      "халкъан",
+      "истори",
+      "сатира"
+    ],
+    "text_preview": {
+      "ce": "Цхьана юьрта молла вахийтина хилла. Юха сарахь оцу юьртара нах схьагулбина хилла бах оцу моллано. Оцу нахе хаьттина моллас: - Ламаз дой аша? - аьлла. До шаьш…"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-novella-nenan-hyehar",
+    "type": "prose",
+    "title": {
+      "ce": "Ненан хьехар",
+      "ru": "Наставление матери",
+      "en": "Mother's instruction",
+      "fr": "L'enseignement de la mère"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "дийцар",
+      "халкъан",
+      "истори",
+      "нана"
+    ],
+    "text_preview": {
+      "ce": "Цхьа ши доттагӀ хилла Ӏаш. Цхьаммо аьлла вукхуьнга, зуда яло волла ша аьлла. Вукхо аьлла, тӀаккха мила ю и я мукъана, зуда яло хала ду, вониг нислахь хӀун де…"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "gairbekova-nohchiyn-mott-san-dozalla",
+    "type": "prose",
+    "title": {
+      "ce": "Нохчийн мотт – сан дозалла!",
+      "ru": "Чеченский язык — моё достояние!",
+      "en": "The Chechen language is my treasure!",
+      "fr": "La langue tchétchène est mon trésor !"
+    },
+    "author": "Гайрбекова Маряьм",
+    "tags": [
+      "эссе",
+      "нохчийн мотт",
+      "гӀиллакх"
+    ],
+    "text_preview": {
+      "ce": "Цхьана а деших, ахчанах эца а, терзанца оза а йиш йоцу хазна ю ненан мотт. Дуьненан къаьмнех вай къасториг а, вайх къам дийриг а – иза нохчийн мотт бу. Цунах…"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
   }
 ]
