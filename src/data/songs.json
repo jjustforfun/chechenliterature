@@ -5707,5 +5707,125 @@
     ],
     "source": "Нохчалла.com — «Берийн фольклор» (XVI. Малх мархашна юккъехь къайлабаьлча…)",
     "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-kora-dulkhal-kor",
+    "type": "song",
+    "title": {
+      "ce": "Кора дуьхьал кор делара хьан…",
+      "ru": "Напротив двери дверь…",
+      "en": "Door against door…",
+      "fr": "Porte contre porte…"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "хелхар",
+      "лирика"
+    ],
+    "text": {
+      "ce": "Кора дуьхьал кор делара хьан, ла-ла-ла,\nНеӀар дуьхьал неӀ елар хьан, ла-ла-ла;\nЦхьа урам гена хета, ла-ла-ла,\nТхан урамехь велара хьо, ла-ла-ла!",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Кора дуьхьал кор делара хьан, ла-ла-ла,"
+    },
+    "external_links": [
+      {
+        "label": "Орга — Хелхаран эшарш",
+        "url": "https://orga.narod.ru/folklor/c493.htm"
+      },
+      {
+        "label": "Нохчийн фольклор",
+        "url": "https://orga.narod.ru/folklor/main.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор (сост. Ш. А. Джамбеков, Грозный: «Книга», 1991). Хелхаран эшарш, № 11",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-khovshiyn-dovlal",
+    "type": "song",
+    "title": {
+      "ce": "Когаш ма хаза лелабо…",
+      "ru": "Ноги изящно двигаются…",
+      "en": "Feet moving gracefully…",
+      "fr": "Les pieds bougent avec grâce…"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "хелхар",
+      "лирика"
+    ],
+    "text": {
+      "ce": "Когаш ма хаза лелабо, Куьйгаш ма хаза леладо, Декъала хила хьо,\nсан кӀорни, Хелха ма хаза долу хьо.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Когаш ма хаза лелабо, Куьйгаш ма хаза леладо, Декъала хила хьо,"
+    },
+    "external_links": [
+      {
+        "label": "Орга — Хелхаран эшарш",
+        "url": "https://orga.narod.ru/folklor/c493.htm"
+      },
+      {
+        "label": "Нохчийн фольклор",
+        "url": "https://orga.narod.ru/folklor/main.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор (сост. Ш. А. Джамбеков, Грозный: «Книга», 1991). Хелхаран эшарш, № 15",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-tohal-tarash",
+    "type": "song",
+    "title": {
+      "ce": "Тоха тӀараш, довла хелха…",
+      "ru": "Руки внутрь, ноги внутрь…",
+      "en": "Hands inside, feet inside…",
+      "fr": "Mains dedans, pieds dedans…"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "хелхар",
+      "лирика"
+    ],
+    "text": {
+      "ce": "Тоха тӀараш, Довла хелха, КӀотархойн кӀентий, Ла-ла-ла!\nНаьӀаран мачаш, Лоьдгин куьрсаш, ЧӀогӀа томка, Ла-ла-ла!\nЧудовлий довла, Охьаховший довла, КӀотархойн кӀентий, Ла-ла-ла!",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Тоха тӀараш, Довла хелха, КӀотархойн кӀентий, Ла-ла-ла!"
+    },
+    "external_links": [
+      {
+        "label": "Орга — Хелхаран эшарш",
+        "url": "https://orga.narod.ru/folklor/c493.htm"
+      },
+      {
+        "label": "Нохчийн фольклор",
+        "url": "https://orga.narod.ru/folklor/main.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор (сост. Ш. А. Джамбеков, Грозный: «Книга», 1991). Хелхаран эшарш, № 26",
+    "date_added": "2026-11-27"
   }
 ]
