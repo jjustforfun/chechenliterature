@@ -24,3 +24,6 @@ public/sitemap.xml
 *.sln
 *.sw?
 .vercel
+
+# sauvegardes palotchka / données (non committées)
+src/data/backups/
