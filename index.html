@@ -58,7 +58,13 @@
         }
       }
     </script>
+    <style>
+      .js-loading .seo-fallback {
+        display: none;
+      }
+    </style>
     <script>
+      document.documentElement.classList.add('js-loading');
       (function () {
         try {
           var saved = localStorage.getItem('theme');
