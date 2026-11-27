@@ -6,9 +6,9 @@
 
 ## Archive Overview
 
-- **Total works**: 609 (421 poems, 162 songs/illesh, 26 prose works)
-- **Full-text language coverage**: Chechen (`ce`: 466), Russian (`ru`: 139), English (`en`: 57), French (`fr`: 61)
-- **Named authors**: 82 Chechen poets and writers, plus 155+ traditional Chechen folklore works (`Халкъан`)
+- **Total works**: 622 (426 poems, 166 songs/illesh, 30 prose works)
+- **Full-text language coverage**: Chechen (`ce`: 475), Russian (`ru`: 143), English (`en`: 57), French (`fr`: 61)
+- **Named authors**: 85 Chechen poets and writers, plus 155+ traditional Chechen folklore works (`Халкъан`)
 - **Full catalog for LLMs**: [llms-full.txt](https://noxchiindosh.vercel.app/llms-full.txt)
 - **XML Sitemap**: [sitemap.xml](https://noxchiindosh.vercel.app/sitemap.xml)
 

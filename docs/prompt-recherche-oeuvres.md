@@ -2,7 +2,7 @@
 
 > À lire **avant chaque recherche de nouvelles œuvres** à ajouter au portail.
 > Complète `README.md`, `docs/prompt-palotchka.md` et les rapports `docs/ajout-*.md`.
-> Dernière mise à jour : 2026-11-27 (lot 2 — cf. `docs/ajout-oeuvres-2026-11-27-lot2.md`).
+> Dernière mise à jour : 2026-11-27 (lot 3 — cf. `docs/ajout-oeuvres-2026-11-27-lot3.md`).
 
 Vous êtes un agent IA chargé de **trouver de vraies œuvres littéraires tchétchènes**
 (poèmes, chants/иллеш, prose) déjà publiées en ligne, et de les ajouter au catalogue
@@ -157,7 +157,7 @@ liste complète dans la rubrique **ОНЛАЙН БИБЛИОТЕКА** (`/z/1753
   йоьду… » de Гадаев (variante de `gadaev-suyre-uyre-ghiyyla-yoghu`), « Махкахошка » de Хатуев
   (à comparer), 5 pages d'Апти Бисултанов (recoupement des 37 fiches à faire).
 - 🆕 Dépouillé le 2026-11-26 (lot 6) : « Жа дажор » de ШаӀрани Хасаров (`31495709`) et « ЙоьӀан доӀа » de Хатуев (`29472792`) ajoutés après contrôle de doublons. « Хьонке дахар » (`31495720`) lu mais reporté : plusieurs graphies et coupures de la source demandent une relecture native.
-- **Restent à dépouiller** : neuf autres pages de ШаӀрани Хасаров (`31495714`, `31495705`, `31041954`, `31041956`, `31041960`, `31038870`, `31038867`, `31034408`), les pages d'Апти Бисултанов (`30662617`, `28980904`, `27387696`, `27368820`), « Поэт » d'Ильман Юсупов (`31520745`), « Махкахошка » de Хатуев (`29470970`), « Чурт » (`31804907`) et « Юха а… » (`30451430`) de СаьӀид Гацаев. (Ajoutés le 2026-11-27 lot 2 : Бадуев СаӀид « Ӏимран » `28362049`, Бексултанов Муса « Цхьа некъ » `31759190` et « Иэсан биста йисте » `31759199`, Оспанов Къосам « Йист » `28125878`, Айдамиров Абузар « Со хьуна йоьгӀна яц… » `28125870`, Сулейманов Юсуп « Нохчийчоьне » `30875919`, Хасаров ШаӀрани « Нене » `31034404`.)
+- **Restent à dépouiller** : huit autres pages de ШаӀрани Хасаров (`31495705`, `31041954`, `31041956`, `31041960`, `31038870`, `31038867`, `31034408`), les pages d'Апти Бисултанов (`30662617`, `28980904`, `27387696`, `27368820`), « Юха а… » (`30451430`) de СаьӀид Гацаев. (Ajoutés lot 2 : Бадуев СаӀид « Ӏимран » `28362049`, Бексултанов Муса « Цхьа некъ » `31759190` et « Иэсан биста йисте » `31759199`, Оспанов Къосам « Йист » `28125878`, Айдамиров Абузар « Со хьуна йоьгӀна яц… » `28125870`, Сулейманов Юсуп « Нохчийчоьне » `30875919`, Хасаров ШаӀрани « Нене » `31034404`. Ajoutés lot 3 : Гацаев СаьӀид « Чурт (шира легенда) » `31804907`, Хасаров ШаӀрани « ГӀура-Дада » `31495714`, Юсупов Ильман « Поэт » `31520745` ; plus sur `abrek.org` Кагерманов Докка « Харачойн Зеламха » `2301`, et sur `nohchalla.com` Мусаев Зелимхан `540`, Дагаев Мансур `671`, Берийн фольклор `41` [4 эшарш], « Адамалла » `1821`, Нунуев « Поиск бессмертия » `1560` et « Сердце матери » `1585`.)
 - 🆕 Dépouillé le 2026-11-26 (lot 3) : première page de [`z/17538`](https://www.radiomarsho.com/z/17538)
   ( publications 2022 ) — 3 poèmes d'Ильман Юсупов (`29243176`, `31759163`, `31759181`),
   « Дадин ан » de ШаӀрани Хасаров (`31495711`), « Сан нохчийн йоӀ » de Шаид Рашидов

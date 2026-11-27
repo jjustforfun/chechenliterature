@@ -5563,5 +5563,149 @@
     ],
     "source": "Нохчалла.com — «Берийн фольклор» (XIV. Бераша луьйчу хенахь олуш долу дешнаш)",
     "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-beriyn-eshar-avtobus-yogu",
+    "type": "song",
+    "title": {
+      "ce": "Автобус йогӀу…",
+      "ru": "Едет автобус… (детская шуточная песня)",
+      "en": "The Bus Is Coming… (Children’s Humorous Song)",
+      "fr": "Le bus arrive… (chant enfantin facétieux)"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература",
+      "забаре"
+    ],
+    "text": {
+      "ce": "Автобус йогӀу,\nГӀовгӀа яхьаш йогӀу,\nАравала, ва Хьасан,\nХьан нускал догӀу.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Автобус йогӀу, / ГӀовгӀа яхьаш йогӀу,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com — Берийн фольклор",
+        "url": "https://nohchalla.com/literatura/folklor/41-beriyn-folklor"
+      }
+    ],
+    "source": "Нохчалла.com — «Берийн фольклор» (IV. Бераша вовшийн хьовзош локху эшарш, № 1)",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-beriyn-eshar-elita-lita",
+    "type": "song",
+    "title": {
+      "ce": "Элита – лита…",
+      "ru": "Элита-лита… (детская шуточная песня)",
+      "en": "Elita-Lita… (Children’s Song)",
+      "fr": "Élita-lita… (chant d’enfant)"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература",
+      "забаре"
+    ],
+    "text": {
+      "ce": "Элита – лита,\nЛийча бахана чӀара,\nХи доккха деана,\nТакхийна чӀара.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Элита – лита, / Лийча бахана чӀара,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com — Берийн фольклор",
+        "url": "https://nohchalla.com/literatura/folklor/41-beriyn-folklor"
+      }
+    ],
+    "source": "Нохчалла.com — «Берийн фольклор» (IV. Бераша вовшийн хьовзош локху эшарш, № 2)",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-beriyn-eshar-day-naniy-ma-layla",
+    "type": "song",
+    "title": {
+      "ce": "Дай-наний ма лайла…",
+      "ru": "Пусть не умрут отец и мать… (детский обрядовый напев)",
+      "en": "May Mother and Father Never Die… (Children’s Blessing Song)",
+      "fr": "Que père et mère vivent toujours… (chant enfantin)"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература",
+      "доьзал"
+    ],
+    "text": {
+      "ce": "Дай-наний ма лайла,\nЙиший-ваший ма лайла,\nШичий-маьхчий ма лайла,\nЕтт-эсий ма лайла –\nКхузза аркъал,\nКхузза бертал кхетта\nХьалаволу вай со.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Дай-наний ма лайла, / Йиший-ваший ма лайла,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com — Берийн фольклор",
+        "url": "https://nohchalla.com/literatura/folklor/41-beriyn-folklor"
+      }
+    ],
+    "source": "Нохчалла.com — «Берийн фольклор» (XV. Лийина довлуш олуш долу дешнаш)",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-beriyn-eshar-malkh-malkh-khazhiyta",
+    "type": "song",
+    "title": {
+      "ce": "Малх, малх хьажийта…",
+      "ru": "Солнце, солнце, выгляни… (детская закличка)",
+      "en": "Sun, Sun, Shine Forth… (Children’s Invocation)",
+      "fr": "Soleil, soleil, brille… (comptine au soleil)"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература",
+      "Ӏалам"
+    ],
+    "text": {
+      "ce": "Малх, малх хьажийта,\nХьозан хье кхехкийта,\nКьийган бӀаьрг балийта,\nДела маьрша валийта.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Малх, малх хьажийта, / Хьозан хье кхехкийта,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com — Берийн фольклор",
+        "url": "https://nohchalla.com/literatura/folklor/41-beriyn-folklor"
+      }
+    ],
+    "source": "Нохчалла.com — «Берийн фольклор» (XVI. Малх мархашна юккъехь къайлабаьлча…)",
+    "date_added": "2026-11-27"
   }
 ]

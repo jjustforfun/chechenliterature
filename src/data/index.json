@@ -14096,5 +14096,309 @@
       "ru"
     ],
     "date_added": "2026-11-27"
+  },
+  {
+    "id": "kagermanov-kharachoyn-zelamkha",
+    "type": "poem",
+    "title": {
+      "ce": "Харачойн Зеламха",
+      "ru": "Зелимхан Харачоевский",
+      "en": "Zelimkhan of Kharachoy",
+      "fr": "Zelimkhan de Kharatchoï"
+    },
+    "author": "Докка Кагерманов",
+    "tags": [
+      "турпалалла",
+      "маршо",
+      "лаьмнаш"
+    ],
+    "text_preview": {
+      "ce": "Хьегамехь лелаш ву Харачойн Зеламха. / Турмалца хьоьжу и, шайн пхьоха дӀахӀуттуш,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "gatsaev-churt",
+    "type": "poem",
+    "title": {
+      "ce": "Чурт (шира легенда)",
+      "ru": "Чурт (старинная легенда)",
+      "en": "Churt (Old Legend)",
+      "fr": "Tchourt (ancienne légende)"
+    },
+    "author": "СаьӀид Гацаев",
+    "tags": [
+      "даймохк",
+      "ойла",
+      "истори"
+    ],
+    "text_preview": {
+      "ce": "Гацаев СаьӀид. \"Чурт\" / (шира легенда)"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "khasarov-sharani-gura-dada",
+    "type": "poem",
+    "title": {
+      "ce": "ГӀура-Дада",
+      "ru": "Дед Мороз",
+      "en": "Father Frost",
+      "fr": "Père Gel"
+    },
+    "author": "ШаӀрани Хасаров",
+    "tags": [
+      "Ӏа",
+      "Ӏалам",
+      "бералла"
+    ],
+    "text_preview": {
+      "ce": "Тхоьга кхача сих а велла, / ВогӀуш, ког а тасабелла,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "musaev-zelimkhan-grozny",
+    "type": "poem",
+    "title": {
+      "ce": "Соьлжа-ГӀала",
+      "ru": "Грозный",
+      "en": "Grozny",
+      "fr": "Grozny"
+    },
+    "author": "Зелимхан Мусаев",
+    "tags": [
+      "грозный",
+      "соьлжа-гӀала",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ru": "Город Грозный – прекрасное сердце моей Нахчичо! / Здесь различные нравы смешались в особый характер;"
+    },
+    "available_languages": [
+      "ru"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "dagaev-rodine-posvyashchaetsya",
+    "type": "poem",
+    "title": {
+      "ce": "Даймахкана",
+      "ru": "Родине посвящается",
+      "en": "Dedicated to the Homeland",
+      "fr": "Dédié à la patrie"
+    },
+    "author": "Мансур Дагаев",
+    "tags": [
+      "даймохк",
+      "истори",
+      "тӀом"
+    ],
+    "text_preview": {
+      "ru": "С царями русскими враждуют поколенья! / Готовы умереть их дети поголовно."
+    },
+    "available_languages": [
+      "ru"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-beriyn-eshar-avtobus-yogu",
+    "type": "song",
+    "title": {
+      "ce": "Автобус йогӀу…",
+      "ru": "Едет автобус… (детская шуточная песня)",
+      "en": "The Bus Is Coming… (Children’s Humorous Song)",
+      "fr": "Le bus arrive… (chant enfantin facétieux)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Автобус йогӀу, / ГӀовгӀа яхьаш йогӀу,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-beriyn-eshar-elita-lita",
+    "type": "song",
+    "title": {
+      "ce": "Элита – лита…",
+      "ru": "Элита-лита… (детская шуточная песня)",
+      "en": "Elita-Lita… (Children’s Song)",
+      "fr": "Élita-lita… (chant d’enfant)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература",
+      "забаре"
+    ],
+    "text_preview": {
+      "ce": "Элита – лита, / Лийча бахана чӀара,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-beriyn-eshar-day-naniy-ma-layla",
+    "type": "song",
+    "title": {
+      "ce": "Дай-наний ма лайла…",
+      "ru": "Пусть не умрут отец и мать… (детский обрядовый напев)",
+      "en": "May Mother and Father Never Die… (Children’s Blessing Song)",
+      "fr": "Que père et mère vivent toujours… (chant enfantin)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература",
+      "доьзал"
+    ],
+    "text_preview": {
+      "ce": "Дай-наний ма лайла, / Йиший-ваший ма лайла,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-beriyn-eshar-malkh-malkh-khazhiyta",
+    "type": "song",
+    "title": {
+      "ce": "Малх, малх хьажийта…",
+      "ru": "Солнце, солнце, выгляни… (детская закличка)",
+      "en": "Sun, Sun, Shine Forth… (Children’s Invocation)",
+      "fr": "Soleil, soleil, brille… (comptine au soleil)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература",
+      "Ӏалам"
+    ],
+    "text_preview": {
+      "ce": "Малх, малх хьажийта, / Хьозан хье кхехкийта,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "yusupov-ilman-poet",
+    "type": "prose",
+    "title": {
+      "ce": "Поэт",
+      "ru": "Поэт",
+      "en": "The Poet",
+      "fr": "Le Poète"
+    },
+    "author": "Ильман Юсупов",
+    "tags": [
+      "дийцар",
+      "литература",
+      "иронически проза"
+    ],
+    "text_preview": {
+      "ce": "Нохчийчуьрчу цхьана кӀоштахь дӀадаханчу бӀешеран 70-чу шерашкахь цхьа гӀеххьа хенара стаг хилла яздан буьйлалуш болчу поэтийн могӀаршка хӀотта сатуьйсуш, респу…"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-adamalla-vakhi-diytsar",
+    "type": "prose",
+    "title": {
+      "ce": "Адамалла",
+      "ru": "Человечность (рассказ об этике Вахи)",
+      "en": "Humanity (A Story of Vakha’s Ethics)",
+      "fr": "Humanité (récit sur l’éthique de Vakha)"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "халкъан",
+      "дийцар",
+      "оьздангалла",
+      "гӀиллакх"
+    ],
+    "text_preview": {
+      "ce": "ТӀаьххьара тӀом болуш ГӀалмакхойн махкахь дара и. Цхьа нохчо вара цхьана юьртахь кафе схьайиллина рицкъа даккха гӀерташ воллуш. Даьхний лелочу точкера нохчочо…"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-poisk-bessmertiya",
+    "type": "prose",
+    "title": {
+      "ce": "Ӏожалла йоцу меттиг лахар",
+      "ru": "Поиск бессмертия",
+      "en": "The Quest for Immortality",
+      "fr": "La quête de l’immortalité"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "халкъан",
+      "дийцар",
+      "хьехам"
+    ],
+    "text_preview": {
+      "ru": "У мужественного падчаха Кайсара внезапно и тяжело заболела мать. В тот момент, когда она занемогла, рука Кайсара оказалась под головой у матери. Сколько она бо…"
+    },
+    "available_languages": [
+      "ru"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-serdtse-materi",
+    "type": "prose",
+    "title": {
+      "ce": "Ненан дог",
+      "ru": "Сердце матери",
+      "en": "A Mother’s Heart",
+      "fr": "Le cœur d’une mère"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "халкъан",
+      "дийцар",
+      "хьехам"
+    ],
+    "text_preview": {
+      "ru": "Некий юноша влюбился в девушку. Однако гордячка даже не хотела его видеть. Стал юноша приставать со сватовством, и тогда жесткосердная девушка сказала ему, что…"
+    },
+    "available_languages": [
+      "ru"
+    ],
+    "date_added": "2026-11-27"
   }
 ]
