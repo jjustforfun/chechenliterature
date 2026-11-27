@@ -30,21 +30,6 @@ export default function Authors() {
   const [query, setQuery] = useState('');
   const [sortBy, setSortBy] = useState('count'); // 'count' | 'alphabetical'
 
-  useEffect(() => {
-    setPageMeta({
-      title: buildPageTitle([t('nav_authors')], t('site_title')),
-      description: `${t('nav_authors')} (${authorsList.length}) — ${t('site_description')}`,
-      canonicalPath: '/authors',
-      jsonLd: {
-        '@context': 'https://schema.org',
-        '@type': 'CollectionPage',
-        name: t('nav_authors'),
-        url: buildCanonicalUrl('/authors'),
-        numberOfItems: authorsList.length,
-      },
-    });
-  }, [t, authorsList.length]);
-
   const authorsList = useMemo(() => {
     const map = new Map();
     for (const work of catalogWorks) {
@@ -92,6 +77,21 @@ export default function Authors() {
 
     return list;
   }, [language, query, sortBy]);
+
+  useEffect(() => {
+    setPageMeta({
+      title: buildPageTitle([t('nav_authors')], t('site_title')),
+      description: `${t('nav_authors')} (${authorsList.length}) — ${t('site_description')}`,
+      canonicalPath: '/authors',
+      jsonLd: {
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: t('nav_authors'),
+        url: buildCanonicalUrl('/authors'),
+        numberOfItems: authorsList.length,
+      },
+    });
+  }, [t, authorsList.length]);
 
   return (
     <div className="authors">
