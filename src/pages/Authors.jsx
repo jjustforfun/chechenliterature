@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { useLanguage } from '@/context/LanguageContext';
 import { useTranslation } from '@/hooks/useTranslation';
 import { getAuthorName, isNamedAuthor } from '@/utils/authorName';
-import { buildPageTitle, setPageTitle } from '@/utils/pageMeta';
+import { buildCanonicalUrl, buildPageTitle, setPageMeta } from '@/utils/pageMeta';
 import Input from '@/components/ui/Input';
 import { catalogWorks } from '@/data/catalog';
 import './Authors.css';
@@ -31,8 +31,19 @@ export default function Authors() {
   const [sortBy, setSortBy] = useState('count'); // 'count' | 'alphabetical'
 
   useEffect(() => {
-    setPageTitle(buildPageTitle([t('nav_authors')], t('site_title')));
-  }, [t]);
+    setPageMeta({
+      title: buildPageTitle([t('nav_authors')], t('site_title')),
+      description: `${t('nav_authors')} (${authorsList.length}) — ${t('site_description')}`,
+      canonicalPath: '/authors',
+      jsonLd: {
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: t('nav_authors'),
+        url: buildCanonicalUrl('/authors'),
+        numberOfItems: authorsList.length,
+      },
+    });
+  }, [t, authorsList.length]);
 
   const authorsList = useMemo(() => {
     const map = new Map();

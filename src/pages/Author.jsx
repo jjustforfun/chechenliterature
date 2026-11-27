@@ -6,7 +6,7 @@ import { useSearch } from '@/hooks/useSearch';
 import { usePagination } from '@/hooks/usePagination';
 import { getAllTags } from '@/utils/searchUtils';
 import { getAuthorName, isNamedAuthor } from '@/utils/authorName';
-import { buildPageTitle, setPageTitle } from '@/utils/pageMeta';
+import { buildCanonicalUrl, buildPageTitle, setPageMeta } from '@/utils/pageMeta';
 import SearchBar from '@/components/features/SearchBar';
 import CatalogGrid from '@/components/features/CatalogGrid';
 import { catalogWorks } from '@/data/catalog';
@@ -54,8 +54,27 @@ export default function Author() {
   const visibleResults = results.slice(0, visibleCount);
 
   useEffect(() => {
-    setPageTitle(buildPageTitle([authorName], t('site_title')));
-  }, [authorName, t]);
+    if (!author || authorWorks.length === 0) return;
+    const canonicalPath = `/author/${encodeURIComponent(author)}`;
+    const altNames = Array.from(
+      new Set([author, getAuthorName(author, 'en'), getAuthorName(author, 'fr')].filter(Boolean))
+    );
+    setPageMeta({
+      title: buildPageTitle([authorName], t('site_title')),
+      description: `${authorName} — ${authorWorks.length} ${t('works_label').toLowerCase()} · ${t('site_title')}`,
+      canonicalPath,
+      jsonLd: {
+        '@context': 'https://schema.org',
+        '@type': 'ProfilePage',
+        url: buildCanonicalUrl(canonicalPath),
+        mainEntity: {
+          '@type': isNamedAuthor(author) ? 'Person' : 'Thing',
+          name: authorName,
+          alternateName: altNames.filter((n) => n !== authorName),
+        },
+      },
+    });
+  }, [author, authorName, authorWorks.length, t]);
 
   if (!author || authorWorks.length === 0) {
     return <NotFound />;

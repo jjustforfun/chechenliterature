@@ -1,19 +1,43 @@
 # Нохчийн дош (Noxçiyn Doş) — Chechen Literature Portal
 
-> A digital archive of Chechen poetry (байташ), heroic songs (иллеш), and prose.
-> Available in 4 languages: Chechen, Russian, English, French.
+> A multilingual digital archive of Chechen literature: poetry (байташ / baytash), heroic and folk songs (иллеш / illesh), and prose (дийцарш / proza).
+> Interface & works available across 4 languages: Chechen (`ce`), Russian (`ru`), English (`en`), and French (`fr`).
+> Canonical base URL: https://noxchiindosh.vercel.app/
 
-## Best Pages
+## Archive Overview
 
-- [Home](https://noxchiindosh.vercel.app/): browse all works with search and filters
-- ["Нана" (Mother) by Shaikhi Arsanukayev](https://noxchiindosh.vercel.app/poem/nana): poem about mother's love
-- ["Нохчийчоь" (Chechnya) by Shaikhi Arsanukayev](https://noxchiindosh.vercel.app/poem/noxchiicho): poem about homeland
-- [All poems](https://noxchiindosh.vercel.app/category/poem)
-- [All songs (иллеш)](https://noxchiindosh.vercel.app/category/song)
-- [All prose works](https://noxchiindosh.vercel.app/category/prose)
+- **Total works**: 609 (421 poems, 162 songs/illesh, 26 prose works)
+- **Full-text language coverage**: Chechen (`ce`: 466), Russian (`ru`: 139), English (`en`: 57), French (`fr`: 61)
+- **Named authors**: 82 Chechen poets and writers, plus 155+ traditional Chechen folklore works (`Халкъан`)
+- **Full catalog for LLMs**: [llms-full.txt](https://noxchiindosh.vercel.app/llms-full.txt)
+- **XML Sitemap**: [sitemap.xml](https://noxchiindosh.vercel.app/sitemap.xml)
 
-## About
+## URL Structure
 
-This portal preserves the literary heritage of the Chechen people (Noxçiyn xalq).
-Content is sourced from published Chechen literary works with proper attribution.
-The site is maintained as an open-source project.
+- Home & search: `https://noxchiindosh.vercel.app/` (supports `?q=`, `?type=poem|song|prose`, `?lang=ce|ru|en|fr|all`, `?tag=`)
+- Genres:
+  - [Poetry / Байташ](https://noxchiindosh.vercel.app/category/poem)
+  - [Songs / Иллеш](https://noxchiindosh.vercel.app/category/song)
+  - [Prose / Проза](https://noxchiindosh.vercel.app/category/prose)
+- [Authors Directory / Яздархой](https://noxchiindosh.vercel.app/authors)
+- Author page: `https://noxchiindosh.vercel.app/author/{uri_encoded_cyrillic_name}`
+- Work detail page: `https://noxchiindosh.vercel.app/{poem|song|prose}/{slug}`
+
+## Highlighted Works & Authors
+
+- ["Нана" (Mother) by Shaikhi Arsanukayev](https://noxchiindosh.vercel.app/poem/nana)
+- ["Нохчийчоь" (Chechnya) by Shaikhi Arsanukayev](https://noxchiindosh.vercel.app/poem/noxchiicho)
+- ["Ненан мотт" (Mother Tongue) by Shaikhi Arsanukayev](https://noxchiindosh.vercel.app/poem/arsanukaev-nenan-mott)
+- ["Ӏимран" (Imran) by Said Baduyev](https://noxchiindosh.vercel.app/prose/baduev-imran)
+- ["Хьайбахахь йазйина байташ" by Apti Bisultanov](https://noxchiindosh.vercel.app/poem/bisultanov-hajbahah-jazjina-bajtash)
+- ["Дай баьхна латта" by Mokhmad-Salakh Gadayev](https://noxchiindosh.vercel.app/poem/gadaev-day-baekhna-latta)
+- ["Зеламха (шира илли)" — traditional heroic song](https://noxchiindosh.vercel.app/song/folk-illi-kharachoyn-zelamkha)
+- [Abuzar Aydamirov](https://noxchiindosh.vercel.app/author/%D0%90%D0%B1%D1%83%D0%B7%D0%B0%D1%80%20%D0%90%D0%B9%D0%B4%D0%B0%D0%BC%D0%B8%D1%80%D0%BE%D0%B2)
+- [Raisa Akhmatova](https://noxchiindosh.vercel.app/author/%D0%A0%D0%B0%D0%B8%D1%81%D0%B0%20%D0%90%D1%85%D0%BC%D0%B0%D1%82%D0%BE%D0%B2%D0%B0)
+- [Musa Beksultanov](https://noxchiindosh.vercel.app/author/%D0%91%D0%B5%D0%BA%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C%D1%83%D1%81%D0%B0)
+
+## Citation & Editorial Notes
+
+- Texts are preserved verbatim in their original orthography (normalized to standard Chechen palochka `Ӏ` U+04C0) with source attributions and external links.
+- Author names are stored canonically in Cyrillic and transliterated into English and French (`Noxçiyn Doş` Latin spelling for the portal name).
+- When citing a work, please include the work title, author name, source attribution, and canonical URL on `noxchiindosh.vercel.app`.

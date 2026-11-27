@@ -6,7 +6,7 @@ import { useSearch } from '@/hooks/useSearch';
 import { usePagination } from '@/hooks/usePagination';
 import { getAllTags } from '@/utils/searchUtils';
 import { getPreferredContentLanguage } from '@/utils/contentLanguage';
-import { buildPageTitle, setPageTitle } from '@/utils/pageMeta';
+import { buildCanonicalUrl, buildPageTitle, setPageMeta } from '@/utils/pageMeta';
 import SearchBar from '@/components/features/SearchBar';
 import CatalogGrid from '@/components/features/CatalogGrid';
 import Button from '@/components/ui/Button';
@@ -49,7 +49,25 @@ export default function Home() {
   };
 
   useEffect(() => {
-    setPageTitle(buildPageTitle([t('home_hero_title')], t('site_title')));
+    setPageMeta({
+      title: buildPageTitle([t('home_hero_title')], t('site_title')),
+      description: t('site_description'),
+      canonicalPath: '/',
+      jsonLd: {
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: t('site_title'),
+        alternateName: ['Нохчийн дош', 'Noxçiyn Doş', 'Chechen Literature Portal'],
+        url: buildCanonicalUrl('/'),
+        inLanguage: ['ce', 'ru', 'en', 'fr'],
+        description: t('site_description'),
+        potentialAction: {
+          '@type': 'SearchAction',
+          target: `${buildCanonicalUrl('/')}?q={search_term_string}`,
+          'query-input': 'required name=search_term_string',
+        },
+      },
+    });
   }, [t]);
 
   return (

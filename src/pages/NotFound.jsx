@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from '@/hooks/useTranslation';
-import { buildPageTitle, setPageTitle } from '@/utils/pageMeta';
+import { buildPageTitle, setPageMeta } from '@/utils/pageMeta';
 import Button from '@/components/ui/Button';
 import './NotFound.css';
 
@@ -9,7 +9,12 @@ export default function NotFound() {
   const { t } = useTranslation();
 
   useEffect(() => {
-    setPageTitle(buildPageTitle([t('page_not_found')], t('site_title')));
+    setPageMeta({
+      title: buildPageTitle([t('page_not_found')], t('site_title')),
+      canonicalPath: null,
+      robots: 'noindex, nofollow',
+      jsonLd: null,
+    });
   }, [t]);
 
   return (

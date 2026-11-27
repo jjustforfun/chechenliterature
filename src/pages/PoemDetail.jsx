@@ -10,8 +10,8 @@ import {
   hasContentInLanguage,
 } from '@/utils/contentLanguage';
 import { findSimilarWorks } from '@/utils/searchUtils';
-import { getWorkAuthor, isNamedAuthor } from '@/utils/authorName';
-import { buildPageTitle, setPageTitle } from '@/utils/pageMeta';
+import { getAuthorName, getWorkAuthor, isNamedAuthor } from '@/utils/authorName';
+import { buildCanonicalUrl, buildPageTitle, setPageMeta } from '@/utils/pageMeta';
 import SimilarWorks from '@/components/features/SimilarWorks';
 import Tag from '@/components/ui/Tag';
 import Button from '@/components/ui/Button';
@@ -149,17 +149,80 @@ export default function PoemDetail() {
   };
 
   const displayTitleText = displayTitle.text;
+  const activeBodyText = activeText.text;
   useEffect(() => {
     if (isLoading) {
-      setPageTitle(t('site_title'));
+      setPageMeta({ title: t('site_title') });
     } else if (!work) {
-      setPageTitle(buildPageTitle([t('page_not_found')], t('site_title')));
+      setPageMeta({
+        title: buildPageTitle([t('page_not_found')], t('site_title')),
+        canonicalPath: null,
+        robots: 'noindex, nofollow',
+        jsonLd: null,
+      });
     } else {
-      setPageTitle(
-        buildPageTitle([displayTitleText, getWorkAuthor(work, language)], t('site_title'))
+      const workAuthor = getWorkAuthor(work, language);
+      const canonicalPath = `/${work.type}/${work.id}`;
+      const canonicalUrl = buildCanonicalUrl(canonicalPath);
+      const previewObj = work.text_preview || {};
+      const preview =
+        previewObj[contentLanguage] ||
+        previewObj[titleLanguage] ||
+        previewObj.ce ||
+        previewObj.ru ||
+        activeBodyText;
+      const schemaType =
+        work.type === 'song'
+          ? 'MusicComposition'
+          : work.type === 'prose'
+            ? 'ShortStory'
+            : 'CreativeWork';
+      const altAuthors = Array.from(
+        new Set(
+          [work.author, getAuthorName(work.author, 'en'), getAuthorName(work.author, 'fr')].filter(
+            Boolean
+          )
+        )
       );
+      setPageMeta({
+        title: buildPageTitle([displayTitleText, workAuthor], t('site_title')),
+        description: `${displayTitleText} — ${workAuthor}. ${preview || ''}`,
+        canonicalPath,
+        ogType: 'article',
+        jsonLd: {
+          '@context': 'https://schema.org',
+          '@type': schemaType,
+          name: displayTitleText,
+          url: canonicalUrl,
+          inLanguage: availableLanguages,
+          author: {
+            '@type': isNamedAuthor(work.author) ? 'Person' : 'Organization',
+            name: workAuthor,
+            alternateName: altAuthors.filter((n) => n !== workAuthor),
+          },
+          ...(work.year_written ? { dateCreated: String(work.year_written) } : {}),
+          ...(work.date_added ? { datePublished: work.date_added } : {}),
+          ...(work.tags?.length ? { keywords: work.tags.join(', ') } : {}),
+          isPartOf: {
+            '@type': 'WebSite',
+            name: t('site_title'),
+            url: buildCanonicalUrl('/'),
+          },
+        },
+      });
     }
-  }, [work, isLoading, id, language, displayTitleText, t]);
+  }, [
+    work,
+    isLoading,
+    id,
+    language,
+    contentLanguage,
+    titleLanguage,
+    displayTitleText,
+    activeBodyText,
+    availableLanguages,
+    t,
+  ]);
 
   if (isLoading) {
     return (

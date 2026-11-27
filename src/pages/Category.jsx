@@ -4,7 +4,7 @@ import { useTranslation } from '@/hooks/useTranslation';
 import { useSearch } from '@/hooks/useSearch';
 import { usePagination } from '@/hooks/usePagination';
 import { getAllTags } from '@/utils/searchUtils';
-import { buildPageTitle, setPageTitle } from '@/utils/pageMeta';
+import { buildCanonicalUrl, buildPageTitle, setPageMeta } from '@/utils/pageMeta';
 import SearchBar from '@/components/features/SearchBar';
 import CatalogGrid from '@/components/features/CatalogGrid';
 import { catalogWorks } from '@/data/catalog';
@@ -48,8 +48,22 @@ export default function Category() {
   const visibleResults = results.slice(0, visibleCount);
 
   useEffect(() => {
-    setPageTitle(buildPageTitle([t(titleKey)], t('site_title')));
-  }, [t, titleKey]);
+    if (!VALID_TYPES.includes(type)) return;
+    const canonicalPath = `/category/${type}`;
+    setPageMeta({
+      title: buildPageTitle([t(titleKey)], t('site_title')),
+      description: `${t(titleKey)} (${categoryWorks.length}) — ${t('site_description')}`,
+      canonicalPath,
+      jsonLd: {
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: t(titleKey),
+        url: buildCanonicalUrl(canonicalPath),
+        numberOfItems: categoryWorks.length,
+        inLanguage: ['ce', 'ru', 'en', 'fr'],
+      },
+    });
+  }, [t, titleKey, type, categoryWorks.length]);
 
   if (!VALID_TYPES.includes(type)) {
     return <NotFound />;
