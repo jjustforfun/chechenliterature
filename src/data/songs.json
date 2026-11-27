@@ -5308,5 +5308,260 @@
     ],
     "source": "Нохчийн фольклор, сост. Ш. А. Джамбеков, Грозный: «Книга», 1991; «Берийн фольклор», XXIX. «Берийн эшарш», № 1.",
     "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-illi-kharachoyn-zelamkha",
+    "type": "song",
+    "title": {
+      "ce": "Зеламха (шира илли)",
+      "ru": "Зелимхан (старинная илли)",
+      "en": "Zelimkhan (Old Illi)",
+      "fr": "Zelimkhan (ancien illi)"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "зеламха",
+      "турпала"
+    ],
+    "text": {
+      "ce": "ТӀетосу ва юргӀа\nСийна стигла ва йолуш,\nКӀелбуьллу атта мотт\nӀаьржа латта ва дина,\nГӀов буьллу ва гӀайба\nПопан орам ва бина,\nМел хала лийли хьо,\nХарачойн Зеламха.\n\nМацалла попан гӀа дууш,\nХьогалла бецан тхи муьйлуш,\nМел хала лийли хьо,\nХарачойн Зеламха.\n\nМожа малх кхийти бах,\nХийла хан ели бах,\nВайнахана Дала туьйхи,\nЗеламха вийна бах,\nЦавезаршна Дала туьйхи,\nЗеламха вийна бах.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "ТӀетосу ва юргӀа / Сийна стигла ва йолуш,"
+    },
+    "external_links": [
+      {
+        "label": "ЧеченИнфо — Зеламха (шира илли)",
+        "url": "https://checheninfo.ru/406655-zelamha-shira-illi.html"
+      },
+      {
+        "label": "Abrek.org — Зеламха (шира илли)",
+        "url": "http://abrek.org/2015-zelamha-shira-illi.html"
+      }
+    ],
+    "source": "ЧеченИнфо / Abrek.org — «Зеламха (шира илли)»",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-aganan-illi-dizhalakh-zhimanig",
+    "type": "song",
+    "title": {
+      "ce": "Аганан илли (Дижалахь, жиманиг…)",
+      "ru": "Колыбельная (Спи, малыш…)",
+      "en": "Lullaby (Sleep, Little One…)",
+      "fr": "Berceuse (Dors, petit…)"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература",
+      "гӀиллакх"
+    ],
+    "text": {
+      "ce": "Дижалахь, жиманиг,\nМерзачу набарца,\nГӀатталахь, жиманиг,\nКӀоргечу хьекъалца.\nМерза наб кхетийла\nЖимачу кӀорнина.\nЖимчохь дуьйна Ӏамалахь,\nОьзда гӀиллакхаш леладан.\nБакъдерг дийца Ӏамалахь,\nХарцонах хьо къахкалахь.\nБаккхийчеран сий ахь делахь\nЦеран дегнаш хьасталахь.\nОьздангаллех хьо ца дохахь\nХьайн сий хир дуй хаалахь!\nХьайн да-нана доккхадедеш,\nЦеран сийдеш дахалахь.\nДижалахь, жиманиг,\nМерзачу набарца.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Дижалахь, жиманиг, / Мерзачу набарца,"
+    },
+    "external_links": [
+      {
+        "label": "Chelibri — Аганан илли",
+        "url": "https://chelibri.ru/writings/7"
+      }
+    ],
+    "source": "Chelibri — Нохчийн фольклор: «Аганан илли»",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-aganan-eshar-dadizha-san-ber",
+    "type": "song",
+    "title": {
+      "ce": "ДӀадижа, сан бер…",
+      "ru": "Спи, моё дитя…",
+      "en": "Sleep, My Child…",
+      "fr": "Endors-toi, mon enfant…"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература",
+      "нана"
+    ],
+    "text": {
+      "ce": "ДӀадижа, сан бер,\nДӀадижа, сан бер,\nАс наьнька лаьцна хьуна:\nМох, малххий,аьрзуй.\nАьрзу цӀа дӀаяхара.\nЛам тӀехьа малх лечкъира,\nКхо буьйса дӀаяьлчи,\nМох шен нана йолчу бедира.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "ДӀадижа, сан бер, / ДӀадижа, сан бер,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com — Берийн фольклор",
+        "url": "https://nohchalla.com/literatura/folklor/41-beriyn-folklor"
+      }
+    ],
+    "source": "Нохчалла.com — «Берийн фольклор» (XXX. Аганан эшарш, № 2)",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-aganan-eshar-chen-chabol",
+    "type": "song",
+    "title": {
+      "ce": "Чен чабол эцна…",
+      "ru": "Взяв рысью бег… (колыбельная)",
+      "en": "Taking a Wolf’s Trot… (Lullaby)",
+      "fr": "Au trot du loup… (berceuse)"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература"
+    ],
+    "text": {
+      "ce": "Чен чабол эцна,\nБерзан йорт етташ.\nХьан науа йогӀур ю,\nДӀадижа, кӀорни.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Чен чабол эцна, / Берзан йорт етташ."
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com — Берийн фольклор",
+        "url": "https://nohchalla.com/literatura/folklor/41-beriyn-folklor"
+      }
+    ],
+    "source": "Нохчалла.com — «Берийн фольклор» (XXX. Аганан эшарш, № 4)",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-aganan-eshar-dita-nanin-korni",
+    "type": "song",
+    "title": {
+      "ce": "Дита, дита нанин кӀорни…",
+      "ru": "Оставьте маминого птенца… (колыбельная)",
+      "en": "Leave Mother’s Little One… (Lullaby)",
+      "fr": "Laissez le petit de maman… (berceuse)"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература",
+      "нана"
+    ],
+    "text": {
+      "ce": "Дита, дита нанин кӀорни,\nӀадда дита нанин кӀорни,\nМотт кӀеда беза нанин кӀорнина,\nНаб хаза кхета нанин кӀорнина.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Дита, дита нанин кӀорни, / Ӏадда дита нанин кӀорни,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com — Берийн фольклор",
+        "url": "https://nohchalla.com/literatura/folklor/41-beriyn-folklor"
+      }
+    ],
+    "source": "Нохчалла.com — «Берийн фольклор» (XXX. Аганан эшарш, № 6)",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-beriyn-eshar-pisu-dokkha-du",
+    "type": "song",
+    "title": {
+      "ce": "Пису, пису – доккха ду…",
+      "ru": "Котёнок велик… (детская песня)",
+      "en": "Kitty, Kitty Is Big… (Children’s Song)",
+      "fr": "Minou, minou est grand… (chant d’enfant)"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература",
+      "забаре"
+    ],
+    "text": {
+      "ce": "Пису, пису – доккха ду,\nНур-Бакъи цул месал ву,\nТам бара цӀахь воцуш со,\nВай тӀо биъна хила цо.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Пису, пису – доккха ду, / Нур-Бакъи цул месал ву,"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com — Берийн фольклор",
+        "url": "https://nohchalla.com/literatura/folklor/41-beriyn-folklor"
+      }
+    ],
+    "source": "Нохчалла.com — «Берийн фольклор» (XXIX. Берийн эшарш, № 2)",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-beriyn-eshar-va-khogalay",
+    "type": "song",
+    "title": {
+      "ce": "Ва хьогалай, хьогалай…",
+      "ru": "О Хогалай, Хогалай… (детская обрядовая песня)",
+      "en": "O Khogalay, Khogalay… (Children’s Song)",
+      "fr": "Ô Khogalaï, Khogalaï… (chant rituel)"
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "берийн литература",
+      "Ӏалам"
+    ],
+    "text": {
+      "ce": "Ва хьогалай, хьогалай,\nХьогало малдина\nХьо хаза хи,\nТхо энех, унах\nЦӀана делахь\nХьайн беркатца.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Ва хьогалай, хьогалай, / Хьогало малдина"
+    },
+    "external_links": [
+      {
+        "label": "Нохчалла.com — Берийн фольклор",
+        "url": "https://nohchalla.com/literatura/folklor/41-beriyn-folklor"
+      }
+    ],
+    "source": "Нохчалла.com — «Берийн фольклор» (XIV. Бераша луьйчу хенахь олуш долу дешнаш)",
+    "date_added": "2026-11-27"
   }
 ]
