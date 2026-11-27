@@ -4383,5 +4383,425 @@
     ],
     "source": "Нохчийн фольклор, сост. Ш. А. Джамбеков, Грозный: «Книга», 1991, с. 23–25; раздел «Къинхьегамах лаьцна эшарш».",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": "folk-khelkharan-eshar-tsallakum",
+    "type": "song",
+    "title": {
+      "ce": "ЦӀаллакум - цӀакум…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text": {
+      "ce": "ЦӀаллакум - цӀакум,\nЦӀак вайрий шуна?\nНана кхаба цо делаӀ,\nМа дика кӀант вара и!",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "ЦӀаллакум - цӀакум,"
+    },
+    "external_links": [
+      {
+        "label": "Орга — Нохчийн фольклор",
+        "url": "https://orga.narod.ru/folklor/c493.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор, сост. Ш. А. Джамбеков, Грозный: «Книга», 1991; «Хелхаран эшарш», № 4.",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-eshar-tsiminki",
+    "type": "song",
+    "title": {
+      "ce": "Циминки новкъа…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text": {
+      "ce": "Циминки новкъа\n\"Победа\" санна,\nЛа-ла-ла!\nХьан шерша ши ког,\nЛа-ла-ла!",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Циминки новкъа"
+    },
+    "external_links": [
+      {
+        "label": "Орга — Нохчийн фольклор",
+        "url": "https://orga.narod.ru/folklor/c493.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор, сост. Ш. А. Джамбеков, Грозный: «Книга», 1991; «Хелхаран эшарш», № 5.",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-eshar-vai-dala-yazde",
+    "type": "song",
+    "title": {
+      "ce": "Вай дала язде…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text": {
+      "ce": "Вай дала язде\nШуьшинна йоза,\nЛа-ла-ла!",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Вай дала язде"
+    },
+    "external_links": [
+      {
+        "label": "Орга — Нохчийн фольклор",
+        "url": "https://orga.narod.ru/folklor/c493.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор, сост. Ш. А. Джамбеков, Грозный: «Книга», 1991; «Хелхаран эшарш», № 6.",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-eshar-vai-san-korni",
+    "type": "song",
+    "title": {
+      "ce": "Вай, вай, сан кӀорни…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text": {
+      "ce": "Вай, вай, сан кӀорни,\nЦӀела керча хьан корта,\nХьой, сой цхьаъ даций,\nДайл беста хьан корта.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Вай, вай, сан кӀорни,"
+    },
+    "external_links": [
+      {
+        "label": "Орга — Нохчийн фольклор",
+        "url": "https://orga.narod.ru/folklor/c493.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор, сост. Ш. А. Джамбеков, Грозный: «Книга», 1991; «Хелхаран эшарш», № 7.",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-eshar-katokhna",
+    "type": "song",
+    "title": {
+      "ce": "Катоьхна схьалаьцна…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text": {
+      "ce": "Катоьхна схьалаьцна\nОр чу кхосса везар хьо,\nТӀаьххье чу иккхина\nМийра бетта безар хьуна.\nЖӀанкаш кхехкинчу\nХи чу волла везара хьо,\nБалгаш кхехкина\nХи мело дезара хьуна.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Катоьхна схьалаьцна"
+    },
+    "external_links": [
+      {
+        "label": "Орга — Нохчийн фольклор",
+        "url": "https://orga.narod.ru/folklor/c493.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор, сост. Ш. А. Джамбеков, Грозный: «Книга», 1991; «Хелхаран эшарш», № 8.",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-eshar-vai-dela-guo",
+    "type": "song",
+    "title": {
+      "ce": "Вай дела гӀуо шуьша…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text": {
+      "ce": "Вай дела гӀуо шуьша\nБух боцчу бердах,\nЮха догӀур дара шуьша,\nКхин эхь ца хеташ.\nЛи-ла-ла, ли-ла-ла!\nЛи-ла-ла, ли-ла-ла!",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Вай дела гӀуо шуьша"
+    },
+    "external_links": [
+      {
+        "label": "Орга — Нохчийн фольклор",
+        "url": "https://orga.narod.ru/folklor/c493.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор, сост. Ш. А. Джамбеков, Грозный: «Книга», 1991; «Хелхаран эшарш», № 9.",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-eshar-kain-basar",
+    "type": "song",
+    "title": {
+      "ce": "КӀайн басар кхачийна, ла-ла-ла…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text": {
+      "ce": "КӀайн басар кхачийна, ла-ла-ла,\nЦӀен басар кхачийна, ла-ла-ла,\nЖероша шайн гиччош хьийзош, ла-ла-ла,\nЦхьа миска стаг дакъаза ваьккхи, ла-ла-ла.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "КӀайн басар кхачийна, ла-ла-ла,"
+    },
+    "external_links": [
+      {
+        "label": "Орга — Нохчийн фольклор",
+        "url": "https://orga.narod.ru/folklor/c493.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор, сост. Ш. А. Джамбеков, Грозный: «Книга», 1991; «Хелхаран эшарш», № 12.",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-eshar-vattai-san-korni",
+    "type": "song",
+    "title": {
+      "ce": "Ваттай, сан кӀорни…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text": {
+      "ce": "Ваттай, сан кӀорни,\nДала дита хьо суна,\nСуна сенна дезара хьо,\nКарахь-марахь ловзон бен.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Ваттай, сан кӀорни,"
+    },
+    "external_links": [
+      {
+        "label": "Орга — Нохчийн фольклор",
+        "url": "https://orga.narod.ru/folklor/c493.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор, сост. Ш. А. Джамбеков, Грозный: «Книга», 1991; «Хелхаран эшарш», № 19.",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-eshar-okhyakhozhush",
+    "type": "song",
+    "title": {
+      "ce": "Охьахьожуш вала…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text": {
+      "ce": "Охьахьожуш вала,\nОхьакхетар ву хьо,\nЯлийташ вала,\nЙоӀстаг ю хьуна,\nЛа-ла-ла,\nЛи-ла-ла-ла,\nЛа-ла-ла.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Охьахьожуш вала,"
+    },
+    "external_links": [
+      {
+        "label": "Орга — Нохчийн фольклор",
+        "url": "https://orga.narod.ru/folklor/c493.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор, сост. Ш. А. Джамбеков, Грозный: «Книга», 1991; «Хелхаран эшарш», № 20.",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-eshar-bakkhiichu-nakha",
+    "type": "song",
+    "title": {
+      "ce": "Баккхийчу наха хьо ваккха боху…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text": {
+      "ce": "Баккхийчу наха хьо ваккха боху,\nКегийчу наха со яккха боху,\nВолалол, хьаша, цхьана дер вайша,\nХьо реза велахь, дӀагӀор вайша.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Баккхийчу наха хьо ваккха боху,"
+    },
+    "external_links": [
+      {
+        "label": "Орга — Нохчийн фольклор",
+        "url": "https://orga.narod.ru/folklor/c493.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор, сост. Ш. А. Джамбеков, Грозный: «Книга», 1991; «Хелхаран эшарш», № 22.",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-khelkharan-eshar-datokha-tarash",
+    "type": "song",
+    "title": {
+      "ce": "ДӀатоха тӀараш, ла-ла-ла…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "забаре"
+    ],
+    "text": {
+      "ce": "ДӀатоха тӀараш, ла-ла-ла!\nДӀатоха вота, ла-ла-ла!\nИ бабин хаза йоӀ тахана,\nБал боккхуш хелхаяла еъна.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "ДӀатоха тӀараш, ла-ла-ла!"
+    },
+    "external_links": [
+      {
+        "label": "Орга — Нохчийн фольклор",
+        "url": "https://orga.narod.ru/folklor/c493.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор, сост. Ш. А. Джамбеков, Грозный: «Книга», 1991; «Хелхаран эшарш», № 24.",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-satiran-eshar-kho-nearkh",
+    "type": "song",
+    "title": {
+      "ce": "Хьо неӀарх чу ваьлчахьана…",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "author_years": "Unknown",
+    "year_written": null,
+    "tags": [
+      "илли",
+      "халкъан",
+      "сатира"
+    ],
+    "text": {
+      "ce": "Хьо неӀарх чу ваьлчахьана,\nХаттар доцуш гӀента хиъча,\nХиира суна, хьо мила ву,\nДог ца догӀу хьоьга хьажа.",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "text_preview": {
+      "ce": "Хьо неӀарх чу ваьлчахьана,"
+    },
+    "external_links": [
+      {
+        "label": "Орга — Нохчийн фольклор",
+        "url": "https://orga.narod.ru/folklor/c490.htm"
+      }
+    ],
+    "source": "Нохчийн фольклор, сост. Ш. А. Джамбеков, Грозный: «Книга», 1991; «Сатиран эшарш», № 14.",
+    "date_added": "2026-11-27"
   }
 ]
