@@ -14636,5 +14636,467 @@
       "ce"
     ],
     "date_added": "2026-11-27"
+  },
+  {
+    "id": "khasarov-sharani-khoni-khakha-khillera-adam",
+    "type": "poem",
+    "title": {
+      "ce": "Хьо-м хьаха хиллера адам…",
+      "ru": "Ты оказался человеком…",
+      "en": "You turned out human…",
+      "fr": "Tu t'es révélé humain…"
+    },
+    "author": "ШаӀрани Хасаров",
+    "tags": [
+      "лирика",
+      "дог",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Хьо-м хьаха хиллера адам."
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "khasarov-sharani-kerla-sho",
+    "type": "poem",
+    "title": {
+      "ce": "Керла шо",
+      "ru": "Новый год",
+      "en": "New year",
+      "fr": "Nouvelle année"
+    },
+    "author": "ШаӀрани Хасаров",
+    "tags": [
+      "илли",
+      "лирика",
+      "керла шо"
+    ],
+    "text_preview": {
+      "ce": "Олий лам."
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "khasarov-sharani-hintsa",
+    "type": "poem",
+    "title": {
+      "ce": "ХӀинца",
+      "ru": "Сейчас",
+      "en": "Now",
+      "fr": "Maintenant"
+    },
+    "author": "ШаӀрани Хасаров",
+    "tags": [
+      "лирика",
+      "дог",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "И сан кхане, хьалха санна, генахь"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "khasarov-sharani-soelza-gale",
+    "type": "poem",
+    "title": {
+      "ce": "Соьлжа-гӀале",
+      "ru": "Грозный-сити",
+      "en": "Grozny-City",
+      "fr": "Grozny-City"
+    },
+    "author": "ШаӀрани Хасаров",
+    "tags": [
+      "лирика",
+      "дог",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Царах ловзурш"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-soviet-era-30-talin-tkho-dakharkh-dokhi-akh",
+    "type": "song",
+    "title": {
+      "ce": "Талин, тхо дахарх дохи ахь,",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "фольклор"
+    ],
+    "text_preview": {
+      "ce": "Талин, тхо дахарх дохи ахь,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-soviet-era-59-kharsa-k-uzhal-khalakhokkhush",
+    "type": "song",
+    "title": {
+      "ce": "Хьаьрса кӀужал хьалахьоькхуш,",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "фольклор"
+    ],
+    "text_preview": {
+      "ce": "Хьаьрса кӀужал хьалахьоькхуш,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-soviet-era-48-uyre-dika-khulda-khan",
+    "type": "song",
+    "title": {
+      "ce": "Ӏуьйре дика хуьлда хьан,",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "фольклор"
+    ],
+    "text_preview": {
+      "ce": "Ӏуьйре дика хуьлда хьан,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-soviet-era-29-kor-kkhokkhiyn-ben-bokhi-akh",
+    "type": "song",
+    "title": {
+      "ce": "Къор-кхокхийн бен бохи ахь,",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "фольклор"
+    ],
+    "text_preview": {
+      "ce": "Къор-кхокхийн бен бохи ахь,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-soviet-era-31-uyre-yokhniy-khaiy-tekha",
+    "type": "song",
+    "title": {
+      "ce": "Ӏуьйре йоьхний хаьий-техьа,",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "фольклор"
+    ],
+    "text_preview": {
+      "ce": "Ӏуьйре йоьхний хаьий-техьа,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-soviet-era-22-bezhnash-okhush-zh-alesh-ts-iyzash",
+    "type": "song",
+    "title": {
+      "ce": "Бежнаш Ӏоьхуш, жӀаьлеш цӀийзаш,",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "фольклор"
+    ],
+    "text_preview": {
+      "ce": "Бежнаш Ӏоьхуш, жӀаьлеш цӀийзаш,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-soviet-era-34-d-ay-skhay-lesta-orgu-sanna",
+    "type": "song",
+    "title": {
+      "ce": "ДӀай-схьай леста Оргу санна,",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "фольклор"
+    ],
+    "text_preview": {
+      "ce": "ДӀай-схьай леста Оргу санна,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-soviet-era-5-uchetchikana-lekkhna-yish",
+    "type": "song",
+    "title": {
+      "ce": "УЧЕТЧИКАНА ЛЕКХНА ЙИШ",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "фольклор"
+    ],
+    "text_preview": {
+      "ce": "УЧЕТЧИКАНА ЛЕКХНА ЙИШ"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-soviet-era-56-buysa-kh-okkkhul-ekha-khilchi",
+    "type": "song",
+    "title": {
+      "ce": "Буьйса хӀоккхул еха хилчи,",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "фольклор"
+    ],
+    "text_preview": {
+      "ce": "Буьйса хӀоккхул еха хилчи,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-soviet-era-45-stiglakhula-kema-dag-akh",
+    "type": "song",
+    "title": {
+      "ce": "Стиглахула кема дагӀахь,",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "фольклор"
+    ],
+    "text_preview": {
+      "ce": "Стиглахула кема дагӀахь,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-soviet-era-43-yo-dela-vezin-dela",
+    "type": "song",
+    "title": {
+      "ce": "Йо дела, везин дела,",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "фольклор"
+    ],
+    "text_preview": {
+      "ce": "Йо дела, везин дела,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-soviet-era-44-busa-kkheta-malkh-tsa-kkhuu",
+    "type": "song",
+    "title": {
+      "ce": "Буса кхета малх ца кхуьу,",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "халкъан",
+      "фольклор"
+    ],
+    "text_preview": {
+      "ce": "Буса кхета малх ца кхуьу,"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-novella-boenna-satiysam",
+    "type": "prose",
+    "title": {
+      "ce": "Боьхна сатийсам",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "дийцар",
+      "халкъан",
+      "истори"
+    ],
+    "text_preview": {
+      "ce": "Мацах цкъа цхьа жима стаг хилла сатоссуш гӀаьттина базара ваха ваьлла. Цо дохка хьош хилла кхаби чохь даьтта. Ламанан новкъа схьавогӀу иза малх схьакхетачу хен…"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-novella-keloccho-yina-khel",
+    "type": "prose",
+    "title": {
+      "ce": "Келочо йина кхел",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "дийцар",
+      "халкъан",
+      "истори"
+    ],
+    "text_preview": {
+      "ce": "Дикка хьалха дӀаяханчу заманчохь хилла бах иза. Гондахьарчу ярташна тӀедеана муьлхха а гӀуллакх цкъа хьалха хьалкхелахошка хатта а хоттий, цара динарг дийр ду …"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-myth-7-khunan-yo",
+    "type": "prose",
+    "title": {
+      "ce": "ХЬУЬНАН ЙОӀ",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "дийцар",
+      "халкъан",
+      "туьйра",
+      "истори"
+    ],
+    "text_preview": {
+      "ce": "Цхьа кӀант вахна хилла лома жа дажо, тӀаккха цунна цигахь хьуьнан йоӀ гина хилла. ЦӀавеъначу цо дӀадийцина, шена хьуьнхахь гинарг, тӀаккха шолгӀачу Ӏуьйранна, …"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "folk-myth-2-akkharoyn-u",
+    "type": "prose",
+    "title": {
+      "ce": "АКХАРОЙН ӀУ",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Халкъан",
+    "tags": [
+      "дийцар",
+      "халкъан",
+      "туьйра",
+      "истори"
+    ],
+    "text_preview": {
+      "ce": "Цкъа талла ваханчу сагана ша дийначу экханан лергах дина хӀост карийна. Цо барамал тӀех акхарой дойаш хилла. Иштта наха, акхаройн дай бу бохуш, дийцаш, ца теша…"
+    },
+    "available_languages": [
+      "ce"
+    ],
+    "date_added": "2026-11-27"
   }
 ]
