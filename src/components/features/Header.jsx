@@ -39,7 +39,7 @@ const Header = () => {
     <header className="header">
       <div className="container header__inner">
         <Link to="/" className="header__logo" onClick={closeMenu}>
-          {t('site_title') || 'Нохчийн литература'}
+          {t('site_title') || 'Нохчийн дош'}
         </Link>
 
         <nav className="header__nav">

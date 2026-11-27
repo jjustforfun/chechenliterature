@@ -1,5 +1,5 @@
 /**
- * Builds a document title like "Нана — Шайхи Арсанукаев — Нохчийн литература".
+ * Builds a document title like "Нана — Шайхи Арсанукаев — Нохчийн дош".
  * Pure function so it stays testable without a DOM.
  */
 export function buildPageTitle(parts, siteTitle) {

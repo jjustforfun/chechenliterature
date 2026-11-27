@@ -3,8 +3,11 @@ import { buildPageTitle, setPageTitle } from './pageMeta.js';
 
 describe('buildPageTitle', () => {
   it('joins parts with the site title', () => {
-    expect(buildPageTitle(['Нана', 'Шайхи Арсанукаев'], 'Нохчийн литература')).toBe(
-      'Нана — Шайхи Арсанукаев — Нохчийн литература'
+    expect(buildPageTitle(['Нана', 'Шайхи Арсанукаев'], 'Нохчийн дош')).toBe(
+      'Нана — Шайхи Арсанукаев — Нохчийн дош'
+    );
+    expect(buildPageTitle(['Mother', 'Shaikhi Arsanukayev'], 'Noxçiyn Doş')).toBe(
+      'Mother — Shaikhi Arsanukayev — Noxçiyn Doş'
     );
   });
   it('skips empty parts', () => {
